@@ -1,0 +1,3223 @@
+"GEOID","NAME","variable","estimate","moe"
+"01001","Autauga County, Alabama","B01003_001",59947,NA
+"01003","Baldwin County, Alabama","B01003_001",246989,NA
+"01005","Barbour County, Alabama","B01003_001",24643,NA
+"01007","Bibb County, Alabama","B01003_001",22130,NA
+"01009","Blount County, Alabama","B01003_001",59518,NA
+"01011","Bullock County, Alabama","B01003_001",10058,NA
+"01013","Butler County, Alabama","B01003_001",18630,NA
+"01015","Calhoun County, Alabama","B01003_001",116090,NA
+"01017","Chambers County, Alabama","B01003_001",34192,NA
+"01019","Cherokee County, Alabama","B01003_001",25443,NA
+"01021","Chilton County, Alabama","B01003_001",45992,NA
+"01023","Choctaw County, Alabama","B01003_001",12380,NA
+"01025","Clarke County, Alabama","B01003_001",22543,NA
+"01027","Clay County, Alabama","B01003_001",14192,NA
+"01029","Cleburne County, Alabama","B01003_001",15426,NA
+"01031","Coffee County, Alabama","B01003_001",54920,NA
+"01033","Colbert County, Alabama","B01003_001",58022,NA
+"01035","Conecuh County, Alabama","B01003_001",11275,NA
+"01037","Coosa County, Alabama","B01003_001",10300,NA
+"01039","Covington County, Alabama","B01003_001",37628,NA
+"01041","Crenshaw County, Alabama","B01003_001",13122,NA
+"01043","Cullman County, Alabama","B01003_001",90566,NA
+"01045","Dale County, Alabama","B01003_001",49599,NA
+"01047","Dallas County, Alabama","B01003_001",36858,NA
+"01049","DeKalb County, Alabama","B01003_001",72269,NA
+"01051","Elmore County, Alabama","B01003_001",89526,NA
+"01053","Escambia County, Alabama","B01003_001",36629,NA
+"01055","Etowah County, Alabama","B01003_001",103105,NA
+"01057","Fayette County, Alabama","B01003_001",16053,NA
+"01059","Franklin County, Alabama","B01003_001",31966,NA
+"01061","Geneva County, Alabama","B01003_001",26887,NA
+"01063","Greene County, Alabama","B01003_001",7424,NA
+"01065","Hale County, Alabama","B01003_001",14829,NA
+"01067","Henry County, Alabama","B01003_001",17647,NA
+"01069","Houston County, Alabama","B01003_001",108140,NA
+"01071","Jackson County, Alabama","B01003_001",53053,NA
+"01073","Jefferson County, Alabama","B01003_001",667755,NA
+"01075","Lamar County, Alabama","B01003_001",13693,NA
+"01077","Lauderdale County, Alabama","B01003_001",95830,NA
+"01079","Lawrence County, Alabama","B01003_001",33276,NA
+"01081","Lee County, Alabama","B01003_001",181134,NA
+"01083","Limestone County, Alabama","B01003_001",111233,NA
+"01085","Lowndes County, Alabama","B01003_001",9833,NA
+"01087","Macon County, Alabama","B01003_001",18691,NA
+"01089","Madison County, Alabama","B01003_001",405718,NA
+"01091","Marengo County, Alabama","B01003_001",18851,NA
+"01093","Marion County, Alabama","B01003_001",29184,NA
+"01095","Marshall County, Alabama","B01003_001",99748,NA
+"01097","Mobile County, Alabama","B01003_001",412590,NA
+"01099","Monroe County, Alabama","B01003_001",19388,NA
+"01101","Montgomery County, Alabama","B01003_001",226718,NA
+"01103","Morgan County, Alabama","B01003_001",124471,NA
+"01105","Perry County, Alabama","B01003_001",8031,NA
+"01107","Pickens County, Alabama","B01003_001",18721,NA
+"01109","Pike County, Alabama","B01003_001",32987,NA
+"01111","Randolph County, Alabama","B01003_001",22510,NA
+"01113","Russell County, Alabama","B01003_001",58811,NA
+"01115","St. Clair County, Alabama","B01003_001",94166,NA
+"01117","Shelby County, Alabama","B01003_001",230211,NA
+"01119","Sumter County, Alabama","B01003_001",11878,NA
+"01121","Talladega County, Alabama","B01003_001",81021,NA
+"01123","Tallapoosa County, Alabama","B01003_001",40938,NA
+"01125","Tuscaloosa County, Alabama","B01003_001",237552,NA
+"01127","Walker County, Alabama","B01003_001",64841,NA
+"01129","Washington County, Alabama","B01003_001",15143,NA
+"01131","Wilcox County, Alabama","B01003_001",10172,NA
+"01133","Winston County, Alabama","B01003_001",23682,NA
+"02013","Aleutians East Borough, Alaska","B01003_001",3491,NA
+"02016","Aleutians West Census Area, Alaska","B01003_001",5235,NA
+"02020","Anchorage Municipality, Alaska","B01003_001",288976,NA
+"02050","Bethel Census Area, Alaska","B01003_001",18394,NA
+"02060","Bristol Bay Borough, Alaska","B01003_001",918,88
+"02063","Chugach Census Area, Alaska","B01003_001",6862,NA
+"02066","Copper River Census Area, Alaska","B01003_001",2626,NA
+"02068","Denali Borough, Alaska","B01003_001",1969,81
+"02070","Dillingham Census Area, Alaska","B01003_001",4724,NA
+"02090","Fairbanks North Star Borough, Alaska","B01003_001",95460,NA
+"02100","Haines Borough, Alaska","B01003_001",2086,NA
+"02105","Hoonah-Angoon Census Area, Alaska","B01003_001",2311,NA
+"02110","Juneau City and Borough, Alaska","B01003_001",31794,NA
+"02122","Kenai Peninsula Borough, Alaska","B01003_001",60413,NA
+"02130","Ketchikan Gateway Borough, Alaska","B01003_001",13768,NA
+"02150","Kodiak Island Borough, Alaska","B01003_001",12771,NA
+"02158","Kusilvak Census Area, Alaska","B01003_001",8176,NA
+"02164","Lake and Peninsula Borough, Alaska","B01003_001",1013,81
+"02170","Matanuska-Susitna Borough, Alaska","B01003_001",112988,NA
+"02180","Nome Census Area, Alaska","B01003_001",9866,NA
+"02185","North Slope Borough, Alaska","B01003_001",10810,NA
+"02188","Northwest Arctic Borough, Alaska","B01003_001",7441,NA
+"02195","Petersburg Borough, Alaska","B01003_001",3409,NA
+"02198","Prince of Wales-Hyder Census Area, Alaska","B01003_001",5715,NA
+"02220","Sitka City and Borough, Alaska","B01003_001",8368,NA
+"02230","Skagway Municipality, Alaska","B01003_001",1244,102
+"02240","Southeast Fairbanks Census Area, Alaska","B01003_001",7068,NA
+"02275","Wrangell City and Borough, Alaska","B01003_001",2088,NA
+"02282","Yakutat City and Borough, Alaska","B01003_001",527,63
+"02290","Yukon-Koyukuk Census Area, Alaska","B01003_001",5195,NA
+"04001","Apache County, Arizona","B01003_001",65341,NA
+"04003","Cochise County, Arizona","B01003_001",125566,NA
+"04005","Coconino County, Arizona","B01003_001",144508,NA
+"04007","Gila County, Arizona","B01003_001",53795,NA
+"04009","Graham County, Arizona","B01003_001",39232,NA
+"04011","Greenlee County, Arizona","B01003_001",9409,NA
+"04012","La Paz County, Arizona","B01003_001",16664,NA
+"04013","Maricopa County, Arizona","B01003_001",4559748,NA
+"04015","Mohave County, Arizona","B01003_001",220517,NA
+"04017","Navajo County, Arizona","B01003_001",108415,NA
+"04019","Pima County, Arizona","B01003_001",1060490,NA
+"04021","Pinal County, Arizona","B01003_001",469006,NA
+"04023","Santa Cruz County, Arizona","B01003_001",48926,NA
+"04025","Yavapai County, Arizona","B01003_001",245480,NA
+"04027","Yuma County, Arizona","B01003_001",211741,NA
+"05001","Arkansas County, Arkansas","B01003_001",16515,NA
+"05003","Ashley County, Arkansas","B01003_001",18429,NA
+"05005","Baxter County, Arkansas","B01003_001",42407,NA
+"05007","Benton County, Arkansas","B01003_001",303632,NA
+"05009","Boone County, Arkansas","B01003_001",38138,NA
+"05011","Bradley County, Arkansas","B01003_001",10208,NA
+"05013","Calhoun County, Arkansas","B01003_001",4704,NA
+"05015","Carroll County, Arkansas","B01003_001",28626,NA
+"05017","Chicot County, Arkansas","B01003_001",9765,NA
+"05019","Clark County, Arkansas","B01003_001",21125,NA
+"05021","Clay County, Arkansas","B01003_001",14280,NA
+"05023","Cleburne County, Arkansas","B01003_001",25226,NA
+"05025","Cleveland County, Arkansas","B01003_001",7453,NA
+"05027","Columbia County, Arkansas","B01003_001",22349,NA
+"05029","Conway County, Arkansas","B01003_001",21054,NA
+"05031","Craighead County, Arkansas","B01003_001",113249,NA
+"05033","Crawford County, Arkansas","B01003_001",61139,NA
+"05035","Crittenden County, Arkansas","B01003_001",47266,NA
+"05037","Cross County, Arkansas","B01003_001",16543,NA
+"05039","Dallas County, Arkansas","B01003_001",6242,NA
+"05041","Desha County, Arkansas","B01003_001",10786,NA
+"05043","Drew County, Arkansas","B01003_001",17046,NA
+"05045","Faulkner County, Arkansas","B01003_001",127717,NA
+"05047","Franklin County, Arkansas","B01003_001",17326,NA
+"05049","Fulton County, Arkansas","B01003_001",12302,NA
+"05051","Garland County, Arkansas","B01003_001",100035,NA
+"05053","Grant County, Arkansas","B01003_001",18242,NA
+"05055","Greene County, Arkansas","B01003_001",46432,NA
+"05057","Hempstead County, Arkansas","B01003_001",19508,NA
+"05059","Hot Spring County, Arkansas","B01003_001",33180,NA
+"05061","Howard County, Arkansas","B01003_001",12583,NA
+"05063","Independence County, Arkansas","B01003_001",38175,NA
+"05065","Izard County, Arkansas","B01003_001",14009,NA
+"05067","Jackson County, Arkansas","B01003_001",16712,NA
+"05069","Jefferson County, Arkansas","B01003_001",64802,NA
+"05071","Johnson County, Arkansas","B01003_001",26003,NA
+"05073","Lafayette County, Arkansas","B01003_001",6136,NA
+"05075","Lawrence County, Arkansas","B01003_001",16238,NA
+"05077","Lee County, Arkansas","B01003_001",8359,NA
+"05079","Lincoln County, Arkansas","B01003_001",12950,NA
+"05081","Little River County, Arkansas","B01003_001",11821,NA
+"05083","Logan County, Arkansas","B01003_001",21277,NA
+"05085","Lonoke County, Arkansas","B01003_001",75272,NA
+"05087","Madison County, Arkansas","B01003_001",17329,NA
+"05089","Marion County, Arkansas","B01003_001",17228,NA
+"05091","Miller County, Arkansas","B01003_001",42360,NA
+"05093","Mississippi County, Arkansas","B01003_001",39126,NA
+"05095","Monroe County, Arkansas","B01003_001",6589,NA
+"05097","Montgomery County, Arkansas","B01003_001",8553,NA
+"05099","Nevada County, Arkansas","B01003_001",8159,NA
+"05101","Newton County, Arkansas","B01003_001",7112,NA
+"05103","Ouachita County, Arkansas","B01003_001",22085,NA
+"05105","Perry County, Arkansas","B01003_001",10101,NA
+"05107","Phillips County, Arkansas","B01003_001",15450,NA
+"05109","Pike County, Arkansas","B01003_001",10115,NA
+"05111","Poinsett County, Arkansas","B01003_001",22543,NA
+"05113","Polk County, Arkansas","B01003_001",19361,NA
+"05115","Pope County, Arkansas","B01003_001",64131,NA
+"05117","Prairie County, Arkansas","B01003_001",8064,NA
+"05119","Pulaski County, Arkansas","B01003_001",399818,NA
+"05121","Randolph County, Arkansas","B01003_001",18838,NA
+"05123","St. Francis County, Arkansas","B01003_001",22400,NA
+"05125","Saline County, Arkansas","B01003_001",127479,NA
+"05127","Scott County, Arkansas","B01003_001",9816,NA
+"05129","Searcy County, Arkansas","B01003_001",7859,NA
+"05131","Sebastian County, Arkansas","B01003_001",128900,NA
+"05133","Sevier County, Arkansas","B01003_001",15712,NA
+"05135","Sharp County, Arkansas","B01003_001",17773,NA
+"05137","Stone County, Arkansas","B01003_001",12568,NA
+"05139","Union County, Arkansas","B01003_001",37900,NA
+"05141","Van Buren County, Arkansas","B01003_001",15998,NA
+"05143","Washington County, Arkansas","B01003_001",256765,NA
+"05145","White County, Arkansas","B01003_001",77838,NA
+"05147","Woodruff County, Arkansas","B01003_001",6026,NA
+"05149","Yell County, Arkansas","B01003_001",20134,NA
+"06001","Alameda County, California","B01003_001",1649473,NA
+"06003","Alpine County, California","B01003_001",1616,239
+"06005","Amador County, California","B01003_001",41428,NA
+"06007","Butte County, California","B01003_001",207929,NA
+"06009","Calaveras County, California","B01003_001",46248,NA
+"06011","Colusa County, California","B01003_001",21984,NA
+"06013","Contra Costa County, California","B01003_001",1165012,NA
+"06015","Del Norte County, California","B01003_001",27107,NA
+"06017","El Dorado County, California","B01003_001",192662,NA
+"06019","Fresno County, California","B01003_001",1016725,NA
+"06021","Glenn County, California","B01003_001",28494,NA
+"06023","Humboldt County, California","B01003_001",134541,NA
+"06025","Imperial County, California","B01003_001",180202,NA
+"06027","Inyo County, California","B01003_001",18739,NA
+"06029","Kern County, California","B01003_001",915075,NA
+"06031","Kings County, California","B01003_001",153298,NA
+"06033","Lake County, California","B01003_001",68152,NA
+"06035","Lassen County, California","B01003_001",30356,NA
+"06037","Los Angeles County, California","B01003_001",9808667,NA
+"06039","Madera County, California","B01003_001",160940,NA
+"06041","Marin County, California","B01003_001",257969,NA
+"06043","Mariposa County, California","B01003_001",17082,NA
+"06045","Mendocino County, California","B01003_001",90244,NA
+"06047","Merced County, California","B01003_001",290201,NA
+"06049","Modoc County, California","B01003_001",8600,NA
+"06051","Mono County, California","B01003_001",13148,NA
+"06053","Monterey County, California","B01003_001",437613,NA
+"06055","Napa County, California","B01003_001",134869,NA
+"06057","Nevada County, California","B01003_001",102481,NA
+"06059","Orange County, California","B01003_001",3165820,NA
+"06061","Placer County, California","B01003_001",419156,NA
+"06063","Plumas County, California","B01003_001",19423,NA
+"06065","Riverside County, California","B01003_001",2478600,NA
+"06067","Sacramento County, California","B01003_001",1594006,NA
+"06069","San Benito County, California","B01003_001",67290,NA
+"06071","San Bernardino County, California","B01003_001",2197104,NA
+"06073","San Diego County, California","B01003_001",3288774,NA
+"06075","San Francisco County, California","B01003_001",830235,NA
+"06077","San Joaquin County, California","B01003_001",797334,NA
+"06079","San Luis Obispo County, California","B01003_001",281555,NA
+"06081","San Mateo County, California","B01003_001",742340,NA
+"06083","Santa Barbara County, California","B01003_001",443701,NA
+"06085","Santa Clara County, California","B01003_001",1902047,NA
+"06087","Santa Cruz County, California","B01003_001",264926,NA
+"06089","Shasta County, California","B01003_001",181436,NA
+"06091","Sierra County, California","B01003_001",2746,239
+"06093","Siskiyou County, California","B01003_001",43466,NA
+"06095","Solano County, California","B01003_001",451918,NA
+"06097","Sonoma County, California","B01003_001",485040,NA
+"06099","Stanislaus County, California","B01003_001",553990,NA
+"06101","Sutter County, California","B01003_001",98857,NA
+"06103","Tehama County, California","B01003_001",65167,NA
+"06105","Trinity County, California","B01003_001",15860,NA
+"06107","Tulare County, California","B01003_001",478693,NA
+"06109","Tuolumne County, California","B01003_001",54498,NA
+"06111","Ventura County, California","B01003_001",837469,NA
+"06113","Yolo County, California","B01003_001",220564,NA
+"06115","Yuba County, California","B01003_001",84507,NA
+"08001","Adams County, Colorado","B01003_001",530225,NA
+"08003","Alamosa County, Colorado","B01003_001",16581,NA
+"08005","Arapahoe County, Colorado","B01003_001",659844,NA
+"08007","Archuleta County, Colorado","B01003_001",13900,NA
+"08009","Baca County, Colorado","B01003_001",3428,NA
+"08011","Bent County, Colorado","B01003_001",5549,NA
+"08013","Boulder County, Colorado","B01003_001",328961,NA
+"08014","Broomfield County, Colorado","B01003_001",76304,NA
+"08015","Chaffee County, Colorado","B01003_001",20178,NA
+"08017","Cheyenne County, Colorado","B01003_001",1741,133
+"08019","Clear Creek County, Colorado","B01003_001",9262,NA
+"08021","Conejos County, Colorado","B01003_001",7530,NA
+"08023","Costilla County, Colorado","B01003_001",3607,NA
+"08025","Crowley County, Colorado","B01003_001",5647,NA
+"08027","Custer County, Colorado","B01003_001",5247,NA
+"08029","Delta County, Colorado","B01003_001",31598,NA
+"08031","Denver County, Colorado","B01003_001",718877,NA
+"08033","Dolores County, Colorado","B01003_001",2432,NA
+"08035","Douglas County, Colorado","B01003_001",377150,NA
+"08037","Eagle County, Colorado","B01003_001",55135,NA
+"08039","Elbert County, Colorado","B01003_001",27874,NA
+"08041","El Paso County, Colorado","B01003_001",742999,NA
+"08043","Fremont County, Colorado","B01003_001",49634,NA
+"08045","Garfield County, Colorado","B01003_001",62479,NA
+"08047","Gilpin County, Colorado","B01003_001",5901,NA
+"08049","Grand County, Colorado","B01003_001",15895,NA
+"08051","Gunnison County, Colorado","B01003_001",17241,NA
+"08053","Hinsdale County, Colorado","B01003_001",1005,117
+"08055","Huerfano County, Colorado","B01003_001",6972,NA
+"08057","Jackson County, Colorado","B01003_001",1372,122
+"08059","Jefferson County, Colorado","B01003_001",579377,NA
+"08061","Kiowa County, Colorado","B01003_001",1376,122
+"08063","Kit Carson County, Colorado","B01003_001",7023,NA
+"08065","Lake County, Colorado","B01003_001",7380,NA
+"08067","La Plata County, Colorado","B01003_001",56331,NA
+"08069","Larimer County, Colorado","B01003_001",367368,NA
+"08071","Las Animas County, Colorado","B01003_001",14413,NA
+"08073","Lincoln County, Colorado","B01003_001",5550,NA
+"08075","Logan County, Colorado","B01003_001",20892,NA
+"08077","Mesa County, Colorado","B01003_001",158601,NA
+"08079","Mineral County, Colorado","B01003_001",729,113
+"08081","Moffat County, Colorado","B01003_001",13207,NA
+"08083","Montezuma County, Colorado","B01003_001",26412,NA
+"08085","Montrose County, Colorado","B01003_001",43807,NA
+"08087","Morgan County, Colorado","B01003_001",29520,NA
+"08089","Otero County, Colorado","B01003_001",18321,NA
+"08091","Ouray County, Colorado","B01003_001",5087,NA
+"08093","Park County, Colorado","B01003_001",17907,NA
+"08095","Phillips County, Colorado","B01003_001",4496,NA
+"08097","Pitkin County, Colorado","B01003_001",16985,NA
+"08099","Prowers County, Colorado","B01003_001",11910,NA
+"08101","Pueblo County, Colorado","B01003_001",169356,NA
+"08103","Rio Blanco County, Colorado","B01003_001",6544,NA
+"08105","Rio Grande County, Colorado","B01003_001",11321,NA
+"08107","Routt County, Colorado","B01003_001",25084,NA
+"08109","Saguache County, Colorado","B01003_001",6580,NA
+"08111","San Juan County, Colorado","B01003_001",724,107
+"08113","San Miguel County, Colorado","B01003_001",7968,NA
+"08115","Sedgwick County, Colorado","B01003_001",2304,133
+"08117","Summit County, Colorado","B01003_001",31017,NA
+"08119","Teller County, Colorado","B01003_001",24825,NA
+"08121","Washington County, Colorado","B01003_001",4831,NA
+"08123","Weld County, Colorado","B01003_001",350396,NA
+"08125","Yuma County, Colorado","B01003_001",9979,NA
+"09110","Capitol Planning Region, Connecticut","B01003_001",977290,NA
+"09120","Greater Bridgeport Planning Region, Connecticut","B01003_001",329259,NA
+"09130","Lower Connecticut River Valley Planning Region, Connecticut","B01003_001",175822,NA
+"09140","Naugatuck Valley Planning Region, Connecticut","B01003_001",454969,NA
+"09150","Northeastern Connecticut Planning Region, Connecticut","B01003_001",96312,NA
+"09160","Northwest Hills Planning Region, Connecticut","B01003_001",113216,NA
+"09170","South Central Connecticut Planning Region, Connecticut","B01003_001",570598,NA
+"09180","Southeastern Connecticut Planning Region, Connecticut","B01003_001",279971,NA
+"09190","Western Connecticut Planning Region, Connecticut","B01003_001",627071,NA
+"10001","Kent County, Delaware","B01003_001",187604,NA
+"10003","New Castle County, Delaware","B01003_001",577961,NA
+"10005","Sussex County, Delaware","B01003_001",255626,NA
+"11001","District of Columbia, District of Columbia","B01003_001",681294,NA
+"12001","Alachua County, Florida","B01003_001",285492,NA
+"12003","Baker County, Florida","B01003_001",28430,NA
+"12005","Bay County, Florida","B01003_001",186393,NA
+"12007","Bradford County, Florida","B01003_001",27885,NA
+"12009","Brevard County, Florida","B01003_001",632780,NA
+"12011","Broward County, Florida","B01003_001",1977129,NA
+"12013","Calhoun County, Florida","B01003_001",13492,NA
+"12015","Charlotte County, Florida","B01003_001",201064,NA
+"12017","Citrus County, Florida","B01003_001",162472,NA
+"12019","Clay County, Florida","B01003_001",227584,NA
+"12021","Collier County, Florida","B01003_001",398291,NA
+"12023","Columbia County, Florida","B01003_001",71789,NA
+"12027","DeSoto County, Florida","B01003_001",35386,NA
+"12029","Dixie County, Florida","B01003_001",17058,NA
+"12031","Duval County, Florida","B01003_001",1023153,NA
+"12033","Escambia County, Florida","B01003_001",325923,NA
+"12035","Flagler County, Florida","B01003_001",126528,NA
+"12037","Franklin County, Florida","B01003_001",12553,NA
+"12039","Gadsden County, Florida","B01003_001",43710,NA
+"12041","Gilchrist County, Florida","B01003_001",19040,NA
+"12043","Glades County, Florida","B01003_001",12563,NA
+"12045","Gulf County, Florida","B01003_001",15131,NA
+"12047","Hamilton County, Florida","B01003_001",13616,NA
+"12049","Hardee County, Florida","B01003_001",25675,NA
+"12051","Hendry County, Florida","B01003_001",42382,NA
+"12053","Hernando County, Florida","B01003_001",207018,NA
+"12055","Highlands County, Florida","B01003_001",105702,NA
+"12057","Hillsborough County, Florida","B01003_001",1522748,NA
+"12059","Holmes County, Florida","B01003_001",19513,NA
+"12061","Indian River County, Florida","B01003_001",166936,NA
+"12063","Jackson County, Florida","B01003_001",48250,NA
+"12065","Jefferson County, Florida","B01003_001",15091,NA
+"12067","Lafayette County, Florida","B01003_001",8161,NA
+"12069","Lake County, Florida","B01003_001",412924,NA
+"12071","Lee County, Florida","B01003_001",817666,NA
+"12073","Leon County, Florida","B01003_001",297542,NA
+"12075","Levy County, Florida","B01003_001",45391,NA
+"12077","Liberty County, Florida","B01003_001",7687,NA
+"12079","Madison County, Florida","B01003_001",18089,NA
+"12081","Manatee County, Florida","B01003_001",429792,NA
+"12083","Marion County, Florida","B01003_001",400078,NA
+"12085","Martin County, Florida","B01003_001",162176,NA
+"12086","Miami-Dade County, Florida","B01003_001",2738356,NA
+"12087","Monroe County, Florida","B01003_001",81860,NA
+"12089","Nassau County, Florida","B01003_001",97859,NA
+"12091","Okaloosa County, Florida","B01003_001",216599,NA
+"12093","Okeechobee County, Florida","B01003_001",40816,NA
+"12095","Orange County, Florida","B01003_001",1471937,NA
+"12097","Osceola County, Florida","B01003_001",427415,NA
+"12099","Palm Beach County, Florida","B01003_001",1533806,NA
+"12101","Pasco County, Florida","B01003_001",611444,NA
+"12103","Pinellas County, Florida","B01003_001",963481,NA
+"12105","Polk County, Florida","B01003_001",790694,NA
+"12107","Putnam County, Florida","B01003_001",75164,NA
+"12109","St. Johns County, Florida","B01003_001",306934,NA
+"12111","St. Lucie County, Florida","B01003_001",360500,NA
+"12113","Santa Rosa County, Florida","B01003_001",198472,NA
+"12115","Sarasota County, Florida","B01003_001",459547,NA
+"12117","Seminole County, Florida","B01003_001",481470,NA
+"12119","Sumter County, Florida","B01003_001",143408,NA
+"12121","Suwannee County, Florida","B01003_001",45342,NA
+"12123","Taylor County, Florida","B01003_001",21503,NA
+"12125","Union County, Florida","B01003_001",15701,NA
+"12127","Volusia County, Florida","B01003_001",579622,NA
+"12129","Wakulla County, Florida","B01003_001",35387,NA
+"12131","Walton County, Florida","B01003_001",82948,NA
+"12133","Washington County, Florida","B01003_001",25529,NA
+"13001","Appling County, Georgia","B01003_001",18493,NA
+"13003","Atkinson County, Georgia","B01003_001",8337,NA
+"13005","Bacon County, Georgia","B01003_001",11109,NA
+"13007","Baker County, Georgia","B01003_001",2790,NA
+"13009","Baldwin County, Georgia","B01003_001",43642,NA
+"13011","Banks County, Georgia","B01003_001",19264,NA
+"13013","Barrow County, Georgia","B01003_001",89886,NA
+"13015","Bartow County, Georgia","B01003_001",113113,NA
+"13017","Ben Hill County, Georgia","B01003_001",17089,NA
+"13019","Berrien County, Georgia","B01003_001",18352,NA
+"13021","Bibb County, Georgia","B01003_001",156578,NA
+"13023","Bleckley County, Georgia","B01003_001",12430,NA
+"13025","Brantley County, Georgia","B01003_001",18315,NA
+"13027","Brooks County, Georgia","B01003_001",16293,NA
+"13029","Bryan County, Georgia","B01003_001",48263,NA
+"13031","Bulloch County, Georgia","B01003_001",82683,NA
+"13033","Burke County, Georgia","B01003_001",24470,NA
+"13035","Butts County, Georgia","B01003_001",26496,NA
+"13037","Calhoun County, Georgia","B01003_001",5498,NA
+"13039","Camden County, Georgia","B01003_001",56970,NA
+"13043","Candler County, Georgia","B01003_001",11043,NA
+"13045","Carroll County, Georgia","B01003_001",124569,NA
+"13047","Catoosa County, Georgia","B01003_001",68634,NA
+"13049","Charlton County, Georgia","B01003_001",12818,NA
+"13051","Chatham County, Georgia","B01003_001",300879,NA
+"13053","Chattahoochee County, Georgia","B01003_001",8887,NA
+"13055","Chattooga County, Georgia","B01003_001",25036,NA
+"13057","Cherokee County, Georgia","B01003_001",281032,NA
+"13059","Clarke County, Georgia","B01003_001",129609,NA
+"13061","Clay County, Georgia","B01003_001",2850,NA
+"13063","Clayton County, Georgia","B01003_001",298924,NA
+"13065","Clinch County, Georgia","B01003_001",6759,NA
+"13067","Cobb County, Georgia","B01003_001",775208,NA
+"13069","Coffee County, Georgia","B01003_001",43347,NA
+"13071","Colquitt County, Georgia","B01003_001",46224,NA
+"13073","Columbia County, Georgia","B01003_001",162434,NA
+"13075","Cook County, Georgia","B01003_001",17532,NA
+"13077","Coweta County, Georgia","B01003_001",152852,NA
+"13079","Crawford County, Georgia","B01003_001",12225,NA
+"13081","Crisp County, Georgia","B01003_001",19790,NA
+"13083","Dade County, Georgia","B01003_001",16165,NA
+"13085","Dawson County, Georgia","B01003_001",30242,NA
+"13087","Decatur County, Georgia","B01003_001",29195,NA
+"13089","DeKalb County, Georgia","B01003_001",765351,NA
+"13091","Dodge County, Georgia","B01003_001",19805,NA
+"13093","Dooly County, Georgia","B01003_001",10984,NA
+"13095","Dougherty County, Georgia","B01003_001",83091,NA
+"13097","Douglas County, Georgia","B01003_001",147888,NA
+"13099","Early County, Georgia","B01003_001",10603,NA
+"13101","Echols County, Georgia","B01003_001",3709,NA
+"13103","Effingham County, Georgia","B01003_001",69143,NA
+"13105","Elbert County, Georgia","B01003_001",19849,NA
+"13107","Emanuel County, Georgia","B01003_001",23026,NA
+"13109","Evans County, Georgia","B01003_001",10757,NA
+"13111","Fannin County, Georgia","B01003_001",25742,NA
+"13113","Fayette County, Georgia","B01003_001",122244,NA
+"13115","Floyd County, Georgia","B01003_001",99693,NA
+"13117","Forsyth County, Georgia","B01003_001",267287,NA
+"13119","Franklin County, Georgia","B01003_001",24234,NA
+"13121","Fulton County, Georgia","B01003_001",1076561,NA
+"13123","Gilmer County, Georgia","B01003_001",32426,NA
+"13125","Glascock County, Georgia","B01003_001",2932,NA
+"13127","Glynn County, Georgia","B01003_001",85447,NA
+"13129","Gordon County, Georgia","B01003_001",59100,NA
+"13131","Grady County, Georgia","B01003_001",26108,NA
+"13133","Greene County, Georgia","B01003_001",20109,NA
+"13135","Gwinnett County, Georgia","B01003_001",979864,NA
+"13137","Habersham County, Georgia","B01003_001",47793,NA
+"13139","Hall County, Georgia","B01003_001",212705,NA
+"13141","Hancock County, Georgia","B01003_001",8650,NA
+"13143","Haralson County, Georgia","B01003_001",31285,NA
+"13145","Harris County, Georgia","B01003_001",36086,NA
+"13147","Hart County, Georgia","B01003_001",26939,NA
+"13149","Heard County, Georgia","B01003_001",11773,NA
+"13151","Henry County, Georgia","B01003_001",249960,NA
+"13153","Houston County, Georgia","B01003_001",169649,NA
+"13155","Irwin County, Georgia","B01003_001",9285,NA
+"13157","Jackson County, Georgia","B01003_001",84757,NA
+"13159","Jasper County, Georgia","B01003_001",15929,NA
+"13161","Jeff Davis County, Georgia","B01003_001",14924,NA
+"13163","Jefferson County, Georgia","B01003_001",15341,NA
+"13165","Jenkins County, Georgia","B01003_001",8711,NA
+"13167","Johnson County, Georgia","B01003_001",9190,NA
+"13169","Jones County, Georgia","B01003_001",28673,NA
+"13171","Lamar County, Georgia","B01003_001",19571,NA
+"13173","Lanier County, Georgia","B01003_001",10221,NA
+"13175","Laurens County, Georgia","B01003_001",49798,NA
+"13177","Lee County, Georgia","B01003_001",33626,NA
+"13179","Liberty County, Georgia","B01003_001",67397,NA
+"13181","Lincoln County, Georgia","B01003_001",7854,NA
+"13183","Long County, Georgia","B01003_001",18374,NA
+"13185","Lowndes County, Georgia","B01003_001",119965,NA
+"13187","Lumpkin County, Georgia","B01003_001",34505,NA
+"13189","McDuffie County, Georgia","B01003_001",21718,NA
+"13191","McIntosh County, Georgia","B01003_001",11312,NA
+"13193","Macon County, Georgia","B01003_001",11864,NA
+"13195","Madison County, Georgia","B01003_001",31528,NA
+"13197","Marion County, Georgia","B01003_001",7509,NA
+"13199","Meriwether County, Georgia","B01003_001",20929,NA
+"13201","Miller County, Georgia","B01003_001",5850,NA
+"13205","Mitchell County, Georgia","B01003_001",21058,NA
+"13207","Monroe County, Georgia","B01003_001",29664,NA
+"13209","Montgomery County, Georgia","B01003_001",8640,NA
+"13211","Morgan County, Georgia","B01003_001",21078,NA
+"13213","Murray County, Georgia","B01003_001",40562,NA
+"13215","Muscogee County, Georgia","B01003_001",203711,NA
+"13217","Newton County, Georgia","B01003_001",118152,NA
+"13219","Oconee County, Georgia","B01003_001",43551,NA
+"13221","Oglethorpe County, Georgia","B01003_001",15509,NA
+"13223","Paulding County, Georgia","B01003_001",178909,NA
+"13225","Peach County, Georgia","B01003_001",28560,NA
+"13227","Pickens County, Georgia","B01003_001",34951,NA
+"13229","Pierce County, Georgia","B01003_001",20202,NA
+"13231","Pike County, Georgia","B01003_001",19903,NA
+"13233","Polk County, Georgia","B01003_001",43785,NA
+"13235","Pulaski County, Georgia","B01003_001",9939,NA
+"13237","Putnam County, Georgia","B01003_001",22855,NA
+"13239","Quitman County, Georgia","B01003_001",2264,NA
+"13241","Rabun County, Georgia","B01003_001",17312,NA
+"13243","Randolph County, Georgia","B01003_001",6196,NA
+"13245","Richmond County, Georgia","B01003_001",206069,NA
+"13247","Rockdale County, Georgia","B01003_001",95281,NA
+"13249","Schley County, Georgia","B01003_001",4513,NA
+"13251","Screven County, Georgia","B01003_001",14130,NA
+"13253","Seminole County, Georgia","B01003_001",9156,NA
+"13255","Spalding County, Georgia","B01003_001",68892,NA
+"13257","Stephens County, Georgia","B01003_001",27012,NA
+"13259","Stewart County, Georgia","B01003_001",4869,NA
+"13261","Sumter County, Georgia","B01003_001",29061,NA
+"13263","Talbot County, Georgia","B01003_001",5742,NA
+"13265","Taliaferro County, Georgia","B01003_001",1558,222
+"13267","Tattnall County, Georgia","B01003_001",24208,NA
+"13269","Taylor County, Georgia","B01003_001",7786,NA
+"13271","Telfair County, Georgia","B01003_001",11831,NA
+"13273","Terrell County, Georgia","B01003_001",8850,NA
+"13275","Thomas County, Georgia","B01003_001",45777,NA
+"13277","Tift County, Georgia","B01003_001",41438,NA
+"13279","Toombs County, Georgia","B01003_001",27102,NA
+"13281","Towns County, Georgia","B01003_001",12913,NA
+"13283","Treutlen County, Georgia","B01003_001",6376,NA
+"13285","Troup County, Georgia","B01003_001",70330,NA
+"13287","Turner County, Georgia","B01003_001",8939,NA
+"13289","Twiggs County, Georgia","B01003_001",7803,NA
+"13291","Union County, Georgia","B01003_001",26304,NA
+"13293","Upson County, Georgia","B01003_001",28029,NA
+"13295","Walker County, Georgia","B01003_001",68762,NA
+"13297","Walton County, Georgia","B01003_001",103313,NA
+"13299","Ware County, Georgia","B01003_001",35976,NA
+"13301","Warren County, Georgia","B01003_001",5170,NA
+"13303","Washington County, Georgia","B01003_001",19849,NA
+"13305","Wayne County, Georgia","B01003_001",30949,NA
+"13307","Webster County, Georgia","B01003_001",2381,222
+"13309","Wheeler County, Georgia","B01003_001",7335,NA
+"13311","White County, Georgia","B01003_001",28810,NA
+"13313","Whitfield County, Georgia","B01003_001",103598,NA
+"13315","Wilcox County, Georgia","B01003_001",8798,NA
+"13317","Wilkes County, Georgia","B01003_001",9549,NA
+"13319","Wilkinson County, Georgia","B01003_001",8747,NA
+"13321","Worth County, Georgia","B01003_001",20451,NA
+"15001","Hawaii County, Hawaii","B01003_001",205769,NA
+"15003","Honolulu County, Hawaii","B01003_001",1001146,NA
+"15005","Kalawao County, Hawaii","B01003_001",67,25
+"15007","Kauai County, Hawaii","B01003_001",73731,NA
+"15009","Maui County, Hawaii","B01003_001",164522,25
+"16001","Ada County, Idaho","B01003_001",518935,NA
+"16003","Adams County, Idaho","B01003_001",4744,NA
+"16005","Bannock County, Idaho","B01003_001",89454,NA
+"16007","Bear Lake County, Idaho","B01003_001",6650,NA
+"16009","Benewah County, Idaho","B01003_001",10142,NA
+"16011","Bingham County, Idaho","B01003_001",49664,NA
+"16013","Blaine County, Idaho","B01003_001",24951,NA
+"16015","Boise County, Idaho","B01003_001",8273,NA
+"16017","Bonner County, Idaho","B01003_001",51049,NA
+"16019","Bonneville County, Idaho","B01003_001",129523,NA
+"16021","Boundary County, Idaho","B01003_001",13172,NA
+"16023","Butte County, Idaho","B01003_001",2684,NA
+"16025","Camas County, Idaho","B01003_001",1124,148
+"16027","Canyon County, Idaho","B01003_001",250790,NA
+"16029","Caribou County, Idaho","B01003_001",7162,NA
+"16031","Cassia County, Idaho","B01003_001",25483,NA
+"16033","Clark County, Idaho","B01003_001",849,148
+"16035","Clearwater County, Idaho","B01003_001",9012,NA
+"16037","Custer County, Idaho","B01003_001",4470,NA
+"16039","Elmore County, Idaho","B01003_001",29321,NA
+"16041","Franklin County, Idaho","B01003_001",15056,NA
+"16043","Fremont County, Idaho","B01003_001",13943,NA
+"16045","Gem County, Idaho","B01003_001",20614,NA
+"16047","Gooding County, Idaho","B01003_001",15931,NA
+"16049","Idaho County, Idaho","B01003_001",17432,NA
+"16051","Jefferson County, Idaho","B01003_001",33154,NA
+"16053","Jerome County, Idaho","B01003_001",25173,NA
+"16055","Kootenai County, Idaho","B01003_001",181996,NA
+"16057","Latah County, Idaho","B01003_001",41049,NA
+"16059","Lemhi County, Idaho","B01003_001",8249,NA
+"16061","Lewis County, Idaho","B01003_001",3682,NA
+"16063","Lincoln County, Idaho","B01003_001",5358,NA
+"16065","Madison County, Idaho","B01003_001",54618,NA
+"16067","Minidoka County, Idaho","B01003_001",22208,NA
+"16069","Nez Perce County, Idaho","B01003_001",42697,NA
+"16071","Oneida County, Idaho","B01003_001",4768,NA
+"16073","Owyhee County, Idaho","B01003_001",12503,NA
+"16075","Payette County, Idaho","B01003_001",26771,NA
+"16077","Power County, Idaho","B01003_001",8133,NA
+"16079","Shoshone County, Idaho","B01003_001",13785,NA
+"16081","Teton County, Idaho","B01003_001",12425,NA
+"16083","Twin Falls County, Idaho","B01003_001",93734,NA
+"16085","Valley County, Idaho","B01003_001",12389,NA
+"16087","Washington County, Idaho","B01003_001",11142,NA
+"17001","Adams County, Illinois","B01003_001",64754,NA
+"17003","Alexander County, Illinois","B01003_001",4875,NA
+"17005","Bond County, Illinois","B01003_001",16716,NA
+"17007","Boone County, Illinois","B01003_001",53230,NA
+"17009","Brown County, Illinois","B01003_001",6322,NA
+"17011","Bureau County, Illinois","B01003_001",32866,NA
+"17013","Calhoun County, Illinois","B01003_001",4330,NA
+"17015","Carroll County, Illinois","B01003_001",15576,NA
+"17017","Cass County, Illinois","B01003_001",12784,NA
+"17019","Champaign County, Illinois","B01003_001",208741,NA
+"17021","Christian County, Illinois","B01003_001",33538,NA
+"17023","Clark County, Illinois","B01003_001",15266,NA
+"17025","Clay County, Illinois","B01003_001",13052,NA
+"17027","Clinton County, Illinois","B01003_001",36954,NA
+"17029","Coles County, Illinois","B01003_001",46777,NA
+"17031","Cook County, Illinois","B01003_001",5182090,NA
+"17033","Crawford County, Illinois","B01003_001",18511,NA
+"17035","Cumberland County, Illinois","B01003_001",10334,NA
+"17037","DeKalb County, Illinois","B01003_001",100703,NA
+"17039","De Witt County, Illinois","B01003_001",15373,NA
+"17041","Douglas County, Illinois","B01003_001",19751,NA
+"17043","DuPage County, Illinois","B01003_001",930024,NA
+"17045","Edgar County, Illinois","B01003_001",16535,NA
+"17047","Edwards County, Illinois","B01003_001",6075,NA
+"17049","Effingham County, Illinois","B01003_001",34522,NA
+"17051","Fayette County, Illinois","B01003_001",21315,NA
+"17053","Ford County, Illinois","B01003_001",13406,NA
+"17055","Franklin County, Illinois","B01003_001",37323,NA
+"17057","Fulton County, Illinois","B01003_001",33020,NA
+"17059","Gallatin County, Illinois","B01003_001",4819,NA
+"17061","Greene County, Illinois","B01003_001",11683,NA
+"17063","Grundy County, Illinois","B01003_001",53219,NA
+"17065","Hamilton County, Illinois","B01003_001",7916,NA
+"17067","Hancock County, Illinois","B01003_001",17281,NA
+"17069","Hardin County, Illinois","B01003_001",3605,NA
+"17071","Henderson County, Illinois","B01003_001",6193,NA
+"17073","Henry County, Illinois","B01003_001",48643,NA
+"17075","Iroquois County, Illinois","B01003_001",26449,NA
+"17077","Jackson County, Illinois","B01003_001",53064,NA
+"17079","Jasper County, Illinois","B01003_001",9180,NA
+"17081","Jefferson County, Illinois","B01003_001",36550,NA
+"17083","Jersey County, Illinois","B01003_001",21274,NA
+"17085","Jo Daviess County, Illinois","B01003_001",21851,NA
+"17087","Johnson County, Illinois","B01003_001",13376,NA
+"17089","Kane County, Illinois","B01003_001",517255,NA
+"17091","Kankakee County, Illinois","B01003_001",106635,NA
+"17093","Kendall County, Illinois","B01003_001",137675,NA
+"17095","Knox County, Illinois","B01003_001",49046,NA
+"17097","Lake County, Illinois","B01003_001",714223,NA
+"17099","LaSalle County, Illinois","B01003_001",108714,NA
+"17101","Lawrence County, Illinois","B01003_001",15031,NA
+"17103","Lee County, Illinois","B01003_001",33869,NA
+"17105","Livingston County, Illinois","B01003_001",35565,NA
+"17107","Logan County, Illinois","B01003_001",27713,NA
+"17109","McDonough County, Illinois","B01003_001",26920,NA
+"17111","McHenry County, Illinois","B01003_001",312591,NA
+"17113","McLean County, Illinois","B01003_001",171556,NA
+"17115","Macon County, Illinois","B01003_001",101849,NA
+"17117","Macoupin County, Illinois","B01003_001",44350,NA
+"17119","Madison County, Illinois","B01003_001",264238,NA
+"17121","Marion County, Illinois","B01003_001",37000,NA
+"17123","Marshall County, Illinois","B01003_001",11647,NA
+"17125","Mason County, Illinois","B01003_001",12745,NA
+"17127","Massac County, Illinois","B01003_001",13865,NA
+"17129","Menard County, Illinois","B01003_001",12095,NA
+"17131","Mercer County, Illinois","B01003_001",15495,NA
+"17133","Monroe County, Illinois","B01003_001",35036,NA
+"17135","Montgomery County, Illinois","B01003_001",27942,NA
+"17137","Morgan County, Illinois","B01003_001",33021,NA
+"17139","Moultrie County, Illinois","B01003_001",14424,NA
+"17141","Ogle County, Illinois","B01003_001",51495,NA
+"17143","Peoria County, Illinois","B01003_001",179645,NA
+"17145","Perry County, Illinois","B01003_001",20639,NA
+"17147","Piatt County, Illinois","B01003_001",16695,NA
+"17149","Pike County, Illinois","B01003_001",14469,NA
+"17151","Pope County, Illinois","B01003_001",3739,NA
+"17153","Pulaski County, Illinois","B01003_001",5015,NA
+"17155","Putnam County, Illinois","B01003_001",5601,NA
+"17157","Randolph County, Illinois","B01003_001",30058,NA
+"17159","Richland County, Illinois","B01003_001",15598,NA
+"17161","Rock Island County, Illinois","B01003_001",142757,NA
+"17163","St. Clair County, Illinois","B01003_001",253694,NA
+"17165","Saline County, Illinois","B01003_001",23213,NA
+"17167","Sangamon County, Illinois","B01003_001",194947,NA
+"17169","Schuyler County, Illinois","B01003_001",6787,NA
+"17171","Scott County, Illinois","B01003_001",4937,NA
+"17173","Shelby County, Illinois","B01003_001",20720,NA
+"17175","Stark County, Illinois","B01003_001",5308,NA
+"17177","Stephenson County, Illinois","B01003_001",43768,NA
+"17179","Tazewell County, Illinois","B01003_001",130290,NA
+"17181","Union County, Illinois","B01003_001",16997,NA
+"17183","Vermilion County, Illinois","B01003_001",72386,NA
+"17185","Wabash County, Illinois","B01003_001",11119,NA
+"17187","Warren County, Illinois","B01003_001",16447,NA
+"17189","Washington County, Illinois","B01003_001",13627,NA
+"17191","Wayne County, Illinois","B01003_001",15973,NA
+"17193","White County, Illinois","B01003_001",13619,NA
+"17195","Whiteside County, Illinois","B01003_001",54947,NA
+"17197","Will County, Illinois","B01003_001",701462,NA
+"17199","Williamson County, Illinois","B01003_001",66876,NA
+"17201","Winnebago County, Illinois","B01003_001",283292,NA
+"17203","Woodford County, Illinois","B01003_001",38312,NA
+"18001","Adams County, Indiana","B01003_001",36227,NA
+"18003","Allen County, Indiana","B01003_001",392378,NA
+"18005","Bartholomew County, Indiana","B01003_001",83536,NA
+"18007","Benton County, Indiana","B01003_001",8735,NA
+"18009","Blackford County, Indiana","B01003_001",11950,NA
+"18011","Boone County, Indiana","B01003_001",74718,NA
+"18013","Brown County, Indiana","B01003_001",15606,NA
+"18015","Carroll County, Indiana","B01003_001",20535,NA
+"18017","Cass County, Indiana","B01003_001",37680,NA
+"18019","Clark County, Indiana","B01003_001",124354,NA
+"18021","Clay County, Indiana","B01003_001",26409,NA
+"18023","Clinton County, Indiana","B01003_001",32944,NA
+"18025","Crawford County, Indiana","B01003_001",10499,NA
+"18027","Daviess County, Indiana","B01003_001",33658,NA
+"18029","Dearborn County, Indiana","B01003_001",51094,NA
+"18031","Decatur County, Indiana","B01003_001",26422,NA
+"18033","DeKalb County, Indiana","B01003_001",43807,NA
+"18035","Delaware County, Indiana","B01003_001",112280,NA
+"18037","Dubois County, Indiana","B01003_001",43614,NA
+"18039","Elkhart County, Indiana","B01003_001",207132,NA
+"18041","Fayette County, Indiana","B01003_001",23334,NA
+"18043","Floyd County, Indiana","B01003_001",80918,NA
+"18045","Fountain County, Indiana","B01003_001",16617,NA
+"18047","Franklin County, Indiana","B01003_001",23020,NA
+"18049","Fulton County, Indiana","B01003_001",20312,NA
+"18051","Gibson County, Indiana","B01003_001",33000,NA
+"18053","Grant County, Indiana","B01003_001",66295,NA
+"18055","Greene County, Indiana","B01003_001",31021,NA
+"18057","Hamilton County, Indiana","B01003_001",365056,NA
+"18059","Hancock County, Indiana","B01003_001",84037,NA
+"18061","Harrison County, Indiana","B01003_001",39859,NA
+"18063","Hendricks County, Indiana","B01003_001",183344,NA
+"18065","Henry County, Indiana","B01003_001",48970,NA
+"18067","Howard County, Indiana","B01003_001",83752,NA
+"18069","Huntington County, Indiana","B01003_001",36798,NA
+"18071","Jackson County, Indiana","B01003_001",46660,NA
+"18073","Jasper County, Indiana","B01003_001",33234,NA
+"18075","Jay County, Indiana","B01003_001",20229,NA
+"18077","Jefferson County, Indiana","B01003_001",32998,NA
+"18079","Jennings County, Indiana","B01003_001",27562,NA
+"18081","Johnson County, Indiana","B01003_001",166315,NA
+"18083","Knox County, Indiana","B01003_001",36007,NA
+"18085","Kosciusko County, Indiana","B01003_001",80442,NA
+"18087","LaGrange County, Indiana","B01003_001",40805,NA
+"18089","Lake County, Indiana","B01003_001",500379,NA
+"18091","LaPorte County, Indiana","B01003_001",111917,NA
+"18093","Lawrence County, Indiana","B01003_001",45102,NA
+"18095","Madison County, Indiana","B01003_001",131900,NA
+"18097","Marion County, Indiana","B01003_001",975809,NA
+"18099","Marshall County, Indiana","B01003_001",46284,NA
+"18101","Martin County, Indiana","B01003_001",9830,NA
+"18103","Miami County, Indiana","B01003_001",35712,NA
+"18105","Monroe County, Indiana","B01003_001",140965,NA
+"18107","Montgomery County, Indiana","B01003_001",38312,NA
+"18109","Morgan County, Indiana","B01003_001",72659,NA
+"18111","Newton County, Indiana","B01003_001",13922,NA
+"18113","Noble County, Indiana","B01003_001",47495,NA
+"18115","Ohio County, Indiana","B01003_001",5999,NA
+"18117","Orange County, Indiana","B01003_001",19767,NA
+"18119","Owen County, Indiana","B01003_001",21604,NA
+"18121","Parke County, Indiana","B01003_001",16406,NA
+"18123","Perry County, Indiana","B01003_001",19270,NA
+"18125","Pike County, Indiana","B01003_001",12154,NA
+"18127","Porter County, Indiana","B01003_001",174818,NA
+"18129","Posey County, Indiana","B01003_001",25116,NA
+"18131","Pulaski County, Indiana","B01003_001",12441,NA
+"18133","Putnam County, Indiana","B01003_001",37280,NA
+"18135","Randolph County, Indiana","B01003_001",24387,NA
+"18137","Ripley County, Indiana","B01003_001",29095,NA
+"18139","Rush County, Indiana","B01003_001",16739,NA
+"18141","St. Joseph County, Indiana","B01003_001",273040,NA
+"18143","Scott County, Indiana","B01003_001",24526,NA
+"18145","Shelby County, Indiana","B01003_001",45265,NA
+"18147","Spencer County, Indiana","B01003_001",19955,NA
+"18149","Starke County, Indiana","B01003_001",23365,NA
+"18151","Steuben County, Indiana","B01003_001",34726,NA
+"18153","Sullivan County, Indiana","B01003_001",20780,NA
+"18155","Switzerland County, Indiana","B01003_001",9909,NA
+"18157","Tippecanoe County, Indiana","B01003_001",189071,NA
+"18159","Tipton County, Indiana","B01003_001",15346,NA
+"18161","Union County, Indiana","B01003_001",6985,NA
+"18163","Vanderburgh County, Indiana","B01003_001",180117,NA
+"18165","Vermillion County, Indiana","B01003_001",15421,NA
+"18167","Vigo County, Indiana","B01003_001",106109,NA
+"18169","Wabash County, Indiana","B01003_001",30844,NA
+"18171","Warren County, Indiana","B01003_001",8464,NA
+"18173","Warrick County, Indiana","B01003_001",65261,NA
+"18175","Washington County, Indiana","B01003_001",28212,NA
+"18177","Wayne County, Indiana","B01003_001",66397,NA
+"18179","Wells County, Indiana","B01003_001",28420,NA
+"18181","White County, Indiana","B01003_001",24717,NA
+"18183","Whitley County, Indiana","B01003_001",34618,NA
+"19001","Adair County, Iowa","B01003_001",7460,NA
+"19003","Adams County, Iowa","B01003_001",3622,NA
+"19005","Allamakee County, Iowa","B01003_001",14092,NA
+"19007","Appanoose County, Iowa","B01003_001",12184,NA
+"19009","Audubon County, Iowa","B01003_001",5599,NA
+"19011","Benton County, Iowa","B01003_001",25724,NA
+"19013","Black Hawk County, Iowa","B01003_001",131049,NA
+"19015","Boone County, Iowa","B01003_001",26668,NA
+"19017","Bremer County, Iowa","B01003_001",25204,NA
+"19019","Buchanan County, Iowa","B01003_001",20694,NA
+"19021","Buena Vista County, Iowa","B01003_001",20753,NA
+"19023","Butler County, Iowa","B01003_001",14268,NA
+"19025","Calhoun County, Iowa","B01003_001",9803,NA
+"19027","Carroll County, Iowa","B01003_001",20594,NA
+"19029","Cass County, Iowa","B01003_001",13096,NA
+"19031","Cedar County, Iowa","B01003_001",18349,NA
+"19033","Cerro Gordo County, Iowa","B01003_001",42632,NA
+"19035","Cherokee County, Iowa","B01003_001",11600,NA
+"19037","Chickasaw County, Iowa","B01003_001",11807,NA
+"19039","Clarke County, Iowa","B01003_001",9662,NA
+"19041","Clay County, Iowa","B01003_001",16461,NA
+"19043","Clayton County, Iowa","B01003_001",17013,NA
+"19045","Clinton County, Iowa","B01003_001",46268,NA
+"19047","Crawford County, Iowa","B01003_001",16277,NA
+"19049","Dallas County, Iowa","B01003_001",107968,NA
+"19051","Davis County, Iowa","B01003_001",9157,NA
+"19053","Decatur County, Iowa","B01003_001",7759,NA
+"19055","Delaware County, Iowa","B01003_001",17558,NA
+"19057","Des Moines County, Iowa","B01003_001",38487,NA
+"19059","Dickinson County, Iowa","B01003_001",17990,NA
+"19061","Dubuque County, Iowa","B01003_001",99030,NA
+"19063","Emmet County, Iowa","B01003_001",9262,NA
+"19065","Fayette County, Iowa","B01003_001",19288,NA
+"19067","Floyd County, Iowa","B01003_001",15328,NA
+"19069","Franklin County, Iowa","B01003_001",9956,NA
+"19071","Fremont County, Iowa","B01003_001",6514,NA
+"19073","Greene County, Iowa","B01003_001",8688,NA
+"19075","Grundy County, Iowa","B01003_001",12384,NA
+"19077","Guthrie County, Iowa","B01003_001",10688,NA
+"19079","Hamilton County, Iowa","B01003_001",14886,NA
+"19081","Hancock County, Iowa","B01003_001",10671,NA
+"19083","Hardin County, Iowa","B01003_001",16639,NA
+"19085","Harrison County, Iowa","B01003_001",14632,NA
+"19087","Henry County, Iowa","B01003_001",20004,NA
+"19089","Howard County, Iowa","B01003_001",9445,NA
+"19091","Humboldt County, Iowa","B01003_001",9591,NA
+"19093","Ida County, Iowa","B01003_001",6911,NA
+"19095","Iowa County, Iowa","B01003_001",16507,NA
+"19097","Jackson County, Iowa","B01003_001",19390,NA
+"19099","Jasper County, Iowa","B01003_001",37954,NA
+"19101","Jefferson County, Iowa","B01003_001",15705,NA
+"19103","Johnson County, Iowa","B01003_001",156639,NA
+"19105","Jones County, Iowa","B01003_001",20896,NA
+"19107","Keokuk County, Iowa","B01003_001",9924,NA
+"19109","Kossuth County, Iowa","B01003_001",14516,NA
+"19111","Lee County, Iowa","B01003_001",32893,NA
+"19113","Linn County, Iowa","B01003_001",230004,NA
+"19115","Louisa County, Iowa","B01003_001",10678,NA
+"19117","Lucas County, Iowa","B01003_001",8716,NA
+"19119","Lyon County, Iowa","B01003_001",12162,NA
+"19121","Madison County, Iowa","B01003_001",16926,NA
+"19123","Mahaska County, Iowa","B01003_001",22021,NA
+"19125","Marion County, Iowa","B01003_001",33642,NA
+"19127","Marshall County, Iowa","B01003_001",40114,NA
+"19129","Mills County, Iowa","B01003_001",14568,NA
+"19131","Mitchell County, Iowa","B01003_001",10575,NA
+"19133","Monona County, Iowa","B01003_001",8557,NA
+"19135","Monroe County, Iowa","B01003_001",7513,NA
+"19137","Montgomery County, Iowa","B01003_001",10214,NA
+"19139","Muscatine County, Iowa","B01003_001",42559,NA
+"19141","O'Brien County, Iowa","B01003_001",14126,NA
+"19143","Osceola County, Iowa","B01003_001",6100,NA
+"19145","Page County, Iowa","B01003_001",15131,NA
+"19147","Palo Alto County, Iowa","B01003_001",8863,NA
+"19149","Plymouth County, Iowa","B01003_001",25747,NA
+"19151","Pocahontas County, Iowa","B01003_001",7046,NA
+"19153","Polk County, Iowa","B01003_001",503175,NA
+"19155","Pottawattamie County, Iowa","B01003_001",93424,NA
+"19157","Poweshiek County, Iowa","B01003_001",18545,NA
+"19159","Ringgold County, Iowa","B01003_001",4645,NA
+"19161","Sac County, Iowa","B01003_001",9689,NA
+"19163","Scott County, Iowa","B01003_001",174608,NA
+"19165","Shelby County, Iowa","B01003_001",11778,NA
+"19167","Sioux County, Iowa","B01003_001",36212,NA
+"19169","Story County, Iowa","B01003_001",100466,NA
+"19171","Tama County, Iowa","B01003_001",16868,NA
+"19173","Taylor County, Iowa","B01003_001",5868,NA
+"19175","Union County, Iowa","B01003_001",11993,NA
+"19177","Van Buren County, Iowa","B01003_001",7241,NA
+"19179","Wapello County, Iowa","B01003_001",35362,NA
+"19181","Warren County, Iowa","B01003_001",54409,NA
+"19183","Washington County, Iowa","B01003_001",22561,NA
+"19185","Wayne County, Iowa","B01003_001",6532,NA
+"19187","Webster County, Iowa","B01003_001",36886,NA
+"19189","Winnebago County, Iowa","B01003_001",10583,NA
+"19191","Winneshiek County, Iowa","B01003_001",19873,NA
+"19193","Woodbury County, Iowa","B01003_001",106247,NA
+"19195","Worth County, Iowa","B01003_001",7350,NA
+"19197","Wright County, Iowa","B01003_001",12791,NA
+"20001","Allen County, Kansas","B01003_001",12483,NA
+"20003","Anderson County, Kansas","B01003_001",7834,NA
+"20005","Atchison County, Kansas","B01003_001",16208,NA
+"20007","Barber County, Kansas","B01003_001",4069,174
+"20009","Barton County, Kansas","B01003_001",25097,NA
+"20011","Bourbon County, Kansas","B01003_001",14394,NA
+"20013","Brown County, Kansas","B01003_001",9343,NA
+"20015","Butler County, Kansas","B01003_001",68287,NA
+"20017","Chase County, Kansas","B01003_001",2561,NA
+"20019","Chautauqua County, Kansas","B01003_001",3370,NA
+"20021","Cherokee County, Kansas","B01003_001",19151,NA
+"20023","Cheyenne County, Kansas","B01003_001",2628,NA
+"20025","Clark County, Kansas","B01003_001",1974,166
+"20027","Clay County, Kansas","B01003_001",8048,NA
+"20029","Cloud County, Kansas","B01003_001",8898,NA
+"20031","Coffey County, Kansas","B01003_001",8308,NA
+"20033","Comanche County, Kansas","B01003_001",1729,174
+"20035","Cowley County, Kansas","B01003_001",34411,NA
+"20037","Crawford County, Kansas","B01003_001",39008,NA
+"20039","Decatur County, Kansas","B01003_001",2726,NA
+"20041","Dickinson County, Kansas","B01003_001",18445,NA
+"20043","Doniphan County, Kansas","B01003_001",7503,NA
+"20045","Douglas County, Kansas","B01003_001",120302,NA
+"20047","Edwards County, Kansas","B01003_001",2779,NA
+"20049","Elk County, Kansas","B01003_001",2453,NA
+"20051","Ellis County, Kansas","B01003_001",28920,NA
+"20053","Ellsworth County, Kansas","B01003_001",6360,NA
+"20055","Finney County, Kansas","B01003_001",38084,NA
+"20057","Ford County, Kansas","B01003_001",34074,NA
+"20059","Franklin County, Kansas","B01003_001",26106,NA
+"20061","Geary County, Kansas","B01003_001",35815,NA
+"20063","Gove County, Kansas","B01003_001",2799,149
+"20065","Graham County, Kansas","B01003_001",2389,NA
+"20067","Grant County, Kansas","B01003_001",7229,NA
+"20069","Gray County, Kansas","B01003_001",5701,NA
+"20071","Greeley County, Kansas","B01003_001",1304,122
+"20073","Greenwood County, Kansas","B01003_001",5919,NA
+"20075","Hamilton County, Kansas","B01003_001",2471,NA
+"20077","Harper County, Kansas","B01003_001",5400,NA
+"20079","Harvey County, Kansas","B01003_001",33756,NA
+"20081","Haskell County, Kansas","B01003_001",3641,NA
+"20083","Hodgeman County, Kansas","B01003_001",1652,160
+"20085","Jackson County, Kansas","B01003_001",13341,NA
+"20087","Jefferson County, Kansas","B01003_001",18349,NA
+"20089","Jewell County, Kansas","B01003_001",2916,NA
+"20091","Johnson County, Kansas","B01003_001",620631,NA
+"20093","Kearny County, Kansas","B01003_001",3864,NA
+"20095","Kingman County, Kansas","B01003_001",7186,NA
+"20097","Kiowa County, Kansas","B01003_001",2422,NA
+"20099","Labette County, Kansas","B01003_001",19869,NA
+"20101","Lane County, Kansas","B01003_001",1461,149
+"20103","Leavenworth County, Kansas","B01003_001",83123,NA
+"20105","Lincoln County, Kansas","B01003_001",2923,NA
+"20107","Linn County, Kansas","B01003_001",9767,NA
+"20109","Logan County, Kansas","B01003_001",2707,NA
+"20111","Lyon County, Kansas","B01003_001",32186,NA
+"20113","McPherson County, Kansas","B01003_001",30205,NA
+"20115","Marion County, Kansas","B01003_001",11754,NA
+"20117","Marshall County, Kansas","B01003_001",9993,NA
+"20119","Meade County, Kansas","B01003_001",3903,166
+"20121","Miami County, Kansas","B01003_001",34938,NA
+"20123","Mitchell County, Kansas","B01003_001",5779,NA
+"20125","Montgomery County, Kansas","B01003_001",30940,NA
+"20127","Morris County, Kansas","B01003_001",5340,NA
+"20129","Morton County, Kansas","B01003_001",2611,NA
+"20131","Nemaha County, Kansas","B01003_001",10160,NA
+"20133","Neosho County, Kansas","B01003_001",15656,NA
+"20135","Ness County, Kansas","B01003_001",2653,NA
+"20137","Norton County, Kansas","B01003_001",5359,NA
+"20139","Osage County, Kansas","B01003_001",15744,NA
+"20141","Osborne County, Kansas","B01003_001",3452,NA
+"20143","Ottawa County, Kansas","B01003_001",5819,NA
+"20145","Pawnee County, Kansas","B01003_001",6144,NA
+"20147","Phillips County, Kansas","B01003_001",4813,NA
+"20149","Pottawatomie County, Kansas","B01003_001",26204,NA
+"20151","Pratt County, Kansas","B01003_001",9127,NA
+"20153","Rawlins County, Kansas","B01003_001",2516,NA
+"20155","Reno County, Kansas","B01003_001",61553,NA
+"20157","Republic County, Kansas","B01003_001",4646,NA
+"20159","Rice County, Kansas","B01003_001",9350,NA
+"20161","Riley County, Kansas","B01003_001",71946,NA
+"20163","Rooks County, Kansas","B01003_001",4813,NA
+"20165","Rush County, Kansas","B01003_001",2947,160
+"20167","Russell County, Kansas","B01003_001",6679,NA
+"20169","Saline County, Kansas","B01003_001",53668,NA
+"20171","Scott County, Kansas","B01003_001",5027,NA
+"20173","Sedgwick County, Kansas","B01003_001",528226,NA
+"20175","Seward County, Kansas","B01003_001",21486,NA
+"20177","Shawnee County, Kansas","B01003_001",178025,NA
+"20179","Sheridan County, Kansas","B01003_001",2426,NA
+"20181","Sherman County, Kansas","B01003_001",5858,NA
+"20183","Smith County, Kansas","B01003_001",3552,NA
+"20185","Stafford County, Kansas","B01003_001",3978,NA
+"20187","Stanton County, Kansas","B01003_001",2038,NA
+"20189","Stevens County, Kansas","B01003_001",5162,NA
+"20191","Sumner County, Kansas","B01003_001",22353,NA
+"20193","Thomas County, Kansas","B01003_001",7885,NA
+"20195","Trego County, Kansas","B01003_001",2777,NA
+"20197","Wabaunsee County, Kansas","B01003_001",7009,NA
+"20199","Wallace County, Kansas","B01003_001",1417,122
+"20201","Washington County, Kansas","B01003_001",5533,NA
+"20203","Wichita County, Kansas","B01003_001",2091,NA
+"20205","Wilson County, Kansas","B01003_001",8505,NA
+"20207","Woodson County, Kansas","B01003_001",3109,NA
+"20209","Wyandotte County, Kansas","B01003_001",167654,NA
+"21001","Adair County, Kentucky","B01003_001",19089,NA
+"21003","Allen County, Kentucky","B01003_001",21293,NA
+"21005","Anderson County, Kentucky","B01003_001",24353,NA
+"21007","Ballard County, Kentucky","B01003_001",7654,NA
+"21009","Barren County, Kentucky","B01003_001",44938,NA
+"21011","Bath County, Kentucky","B01003_001",12851,NA
+"21013","Bell County, Kentucky","B01003_001",23509,NA
+"21015","Boone County, Kentucky","B01003_001",139841,NA
+"21017","Bourbon County, Kentucky","B01003_001",20240,NA
+"21019","Boyd County, Kentucky","B01003_001",47911,NA
+"21021","Boyle County, Kentucky","B01003_001",30941,NA
+"21023","Bracken County, Kentucky","B01003_001",8444,NA
+"21025","Breathitt County, Kentucky","B01003_001",13276,NA
+"21027","Breckinridge County, Kentucky","B01003_001",20881,NA
+"21029","Bullitt County, Kentucky","B01003_001",84027,NA
+"21031","Butler County, Kentucky","B01003_001",12393,NA
+"21033","Caldwell County, Kentucky","B01003_001",12618,NA
+"21035","Calloway County, Kentucky","B01003_001",38224,NA
+"21037","Campbell County, Kentucky","B01003_001",93426,NA
+"21039","Carlisle County, Kentucky","B01003_001",4762,NA
+"21041","Carroll County, Kentucky","B01003_001",10954,NA
+"21043","Carter County, Kentucky","B01003_001",26341,NA
+"21045","Casey County, Kentucky","B01003_001",15914,NA
+"21047","Christian County, Kentucky","B01003_001",72069,NA
+"21049","Clark County, Kentucky","B01003_001",37192,NA
+"21051","Clay County, Kentucky","B01003_001",19921,NA
+"21053","Clinton County, Kentucky","B01003_001",9202,NA
+"21055","Crittenden County, Kentucky","B01003_001",8979,NA
+"21057","Cumberland County, Kentucky","B01003_001",5948,NA
+"21059","Daviess County, Kentucky","B01003_001",103648,NA
+"21061","Edmonson County, Kentucky","B01003_001",12355,NA
+"21063","Elliott County, Kentucky","B01003_001",7307,NA
+"21065","Estill County, Kentucky","B01003_001",14035,NA
+"21067","Fayette County, Kentucky","B01003_001",323725,NA
+"21069","Fleming County, Kentucky","B01003_001",15323,NA
+"21071","Floyd County, Kentucky","B01003_001",35224,NA
+"21073","Franklin County, Kentucky","B01003_001",51842,NA
+"21075","Fulton County, Kentucky","B01003_001",6409,NA
+"21077","Gallatin County, Kentucky","B01003_001",8769,NA
+"21079","Garrard County, Kentucky","B01003_001",17568,NA
+"21081","Grant County, Kentucky","B01003_001",25418,NA
+"21083","Graves County, Kentucky","B01003_001",36630,NA
+"21085","Grayson County, Kentucky","B01003_001",26707,NA
+"21087","Green County, Kentucky","B01003_001",11369,NA
+"21089","Greenup County, Kentucky","B01003_001",35501,NA
+"21091","Hancock County, Kentucky","B01003_001",9034,NA
+"21093","Hardin County, Kentucky","B01003_001",111942,NA
+"21095","Harlan County, Kentucky","B01003_001",25772,NA
+"21097","Harrison County, Kentucky","B01003_001",19140,NA
+"21099","Hart County, Kentucky","B01003_001",19603,NA
+"21101","Henderson County, Kentucky","B01003_001",44280,NA
+"21103","Henry County, Kentucky","B01003_001",15856,NA
+"21105","Hickman County, Kentucky","B01003_001",4439,NA
+"21107","Hopkins County, Kentucky","B01003_001",45119,NA
+"21109","Jackson County, Kentucky","B01003_001",13086,NA
+"21111","Jefferson County, Kentucky","B01003_001",783022,NA
+"21113","Jessamine County, Kentucky","B01003_001",54588,NA
+"21115","Johnson County, Kentucky","B01003_001",22334,NA
+"21117","Kenton County, Kentucky","B01003_001",171288,NA
+"21119","Knott County, Kentucky","B01003_001",13830,NA
+"21121","Knox County, Kentucky","B01003_001",29865,NA
+"21123","Larue County, Kentucky","B01003_001",15107,NA
+"21125","Laurel County, Kentucky","B01003_001",62983,NA
+"21127","Lawrence County, Kentucky","B01003_001",16077,NA
+"21129","Lee County, Kentucky","B01003_001",7339,NA
+"21131","Leslie County, Kentucky","B01003_001",10079,NA
+"21133","Letcher County, Kentucky","B01003_001",20808,NA
+"21135","Lewis County, Kentucky","B01003_001",12965,NA
+"21137","Lincoln County, Kentucky","B01003_001",24504,NA
+"21139","Livingston County, Kentucky","B01003_001",8903,NA
+"21141","Logan County, Kentucky","B01003_001",27986,NA
+"21143","Lyon County, Kentucky","B01003_001",8900,NA
+"21145","McCracken County, Kentucky","B01003_001",67564,NA
+"21147","McCreary County, Kentucky","B01003_001",16867,NA
+"21149","McLean County, Kentucky","B01003_001",9114,NA
+"21151","Madison County, Kentucky","B01003_001",95769,NA
+"21153","Magoffin County, Kentucky","B01003_001",11348,NA
+"21155","Marion County, Kentucky","B01003_001",19749,NA
+"21157","Marshall County, Kentucky","B01003_001",31743,NA
+"21159","Martin County, Kentucky","B01003_001",11027,NA
+"21161","Mason County, Kentucky","B01003_001",16956,NA
+"21163","Meade County, Kentucky","B01003_001",30158,NA
+"21165","Menifee County, Kentucky","B01003_001",6230,NA
+"21167","Mercer County, Kentucky","B01003_001",23028,NA
+"21169","Metcalfe County, Kentucky","B01003_001",10425,NA
+"21171","Monroe County, Kentucky","B01003_001",11269,NA
+"21173","Montgomery County, Kentucky","B01003_001",28395,NA
+"21175","Morgan County, Kentucky","B01003_001",14053,NA
+"21177","Muhlenberg County, Kentucky","B01003_001",30591,NA
+"21179","Nelson County, Kentucky","B01003_001",47606,NA
+"21181","Nicholas County, Kentucky","B01003_001",7708,NA
+"21183","Ohio County, Kentucky","B01003_001",23735,NA
+"21185","Oldham County, Kentucky","B01003_001",69257,NA
+"21187","Owen County, Kentucky","B01003_001",11330,NA
+"21189","Owsley County, Kentucky","B01003_001",3971,NA
+"21191","Pendleton County, Kentucky","B01003_001",14723,NA
+"21193","Perry County, Kentucky","B01003_001",27499,NA
+"21195","Pike County, Kentucky","B01003_001",56727,NA
+"21197","Powell County, Kentucky","B01003_001",13038,NA
+"21199","Pulaski County, Kentucky","B01003_001",65897,NA
+"21201","Robertson County, Kentucky","B01003_001",2283,NA
+"21203","Rockcastle County, Kentucky","B01003_001",16163,NA
+"21205","Rowan County, Kentucky","B01003_001",24578,NA
+"21207","Russell County, Kentucky","B01003_001",18221,NA
+"21209","Scott County, Kentucky","B01003_001",59536,NA
+"21211","Shelby County, Kentucky","B01003_001",49096,NA
+"21213","Simpson County, Kentucky","B01003_001",19972,NA
+"21215","Spencer County, Kentucky","B01003_001",20193,NA
+"21217","Taylor County, Kentucky","B01003_001",26397,NA
+"21219","Todd County, Kentucky","B01003_001",12469,NA
+"21221","Trigg County, Kentucky","B01003_001",14315,NA
+"21223","Trimble County, Kentucky","B01003_001",8550,NA
+"21225","Union County, Kentucky","B01003_001",13260,NA
+"21227","Warren County, Kentucky","B01003_001",140918,NA
+"21229","Washington County, Kentucky","B01003_001",12140,NA
+"21231","Wayne County, Kentucky","B01003_001",19602,NA
+"21233","Webster County, Kentucky","B01003_001",12842,NA
+"21235","Whitley County, Kentucky","B01003_001",36920,NA
+"21237","Wolfe County, Kentucky","B01003_001",6443,NA
+"21239","Woodford County, Kentucky","B01003_001",27279,NA
+"22001","Acadia Parish, Louisiana","B01003_001",56955,NA
+"22003","Allen Parish, Louisiana","B01003_001",22477,NA
+"22005","Ascension Parish, Louisiana","B01003_001",130314,NA
+"22007","Assumption Parish, Louisiana","B01003_001",20484,NA
+"22009","Avoyelles Parish, Louisiana","B01003_001",38905,NA
+"22011","Beauregard Parish, Louisiana","B01003_001",36676,NA
+"22013","Bienville Parish, Louisiana","B01003_001",12638,NA
+"22015","Bossier Parish, Louisiana","B01003_001",129789,NA
+"22017","Caddo Parish, Louisiana","B01003_001",230004,NA
+"22019","Calcasieu Parish, Louisiana","B01003_001",207088,NA
+"22021","Caldwell Parish, Louisiana","B01003_001",9500,NA
+"22023","Cameron Parish, Louisiana","B01003_001",5015,NA
+"22025","Catahoula Parish, Louisiana","B01003_001",8583,NA
+"22027","Claiborne Parish, Louisiana","B01003_001",13833,NA
+"22029","Concordia Parish, Louisiana","B01003_001",18174,NA
+"22031","De Soto Parish, Louisiana","B01003_001",27026,NA
+"22033","East Baton Rouge Parish, Louisiana","B01003_001",452938,NA
+"22035","East Carroll Parish, Louisiana","B01003_001",7072,NA
+"22037","East Feliciana Parish, Louisiana","B01003_001",19271,NA
+"22039","Evangeline Parish, Louisiana","B01003_001",32060,NA
+"22041","Franklin Parish, Louisiana","B01003_001",19408,NA
+"22043","Grant Parish, Louisiana","B01003_001",22095,NA
+"22045","Iberia Parish, Louisiana","B01003_001",68599,NA
+"22047","Iberville Parish, Louisiana","B01003_001",29815,NA
+"22049","Jackson Parish, Louisiana","B01003_001",14884,NA
+"22051","Jefferson Parish, Louisiana","B01003_001",430920,NA
+"22053","Jefferson Davis Parish, Louisiana","B01003_001",31924,NA
+"22055","Lafayette Parish, Louisiana","B01003_001",247997,NA
+"22057","Lafourche Parish, Louisiana","B01003_001",96252,NA
+"22059","LaSalle Parish, Louisiana","B01003_001",14789,NA
+"22061","Lincoln Parish, Louisiana","B01003_001",48174,NA
+"22063","Livingston Parish, Louisiana","B01003_001",148115,NA
+"22065","Madison Parish, Louisiana","B01003_001",9513,NA
+"22067","Morehouse Parish, Louisiana","B01003_001",24551,NA
+"22069","Natchitoches Parish, Louisiana","B01003_001",36693,NA
+"22071","Orleans Parish, Louisiana","B01003_001",371853,NA
+"22073","Ouachita Parish, Louisiana","B01003_001",158480,NA
+"22075","Plaquemines Parish, Louisiana","B01003_001",22803,NA
+"22077","Pointe Coupee Parish, Louisiana","B01003_001",20217,NA
+"22079","Rapides Parish, Louisiana","B01003_001",127527,NA
+"22081","Red River Parish, Louisiana","B01003_001",7443,NA
+"22083","Richland Parish, Louisiana","B01003_001",19822,NA
+"22085","Sabine Parish, Louisiana","B01003_001",21977,NA
+"22087","St. Bernard Parish, Louisiana","B01003_001",44419,NA
+"22089","St. Charles Parish, Louisiana","B01003_001",51396,NA
+"22091","St. Helena Parish, Louisiana","B01003_001",10858,NA
+"22093","St. James Parish, Louisiana","B01003_001",19528,NA
+"22095","St. John the Baptist Parish, Louisiana","B01003_001",40743,NA
+"22097","St. Landry Parish, Louisiana","B01003_001",81670,NA
+"22099","St. Martin Parish, Louisiana","B01003_001",51353,NA
+"22101","St. Mary Parish, Louisiana","B01003_001",47828,NA
+"22103","St. Tammany Parish, Louisiana","B01003_001",272421,NA
+"22105","Tangipahoa Parish, Louisiana","B01003_001",136738,NA
+"22107","Tensas Parish, Louisiana","B01003_001",3935,NA
+"22109","Terrebonne Parish, Louisiana","B01003_001",106186,NA
+"22111","Union Parish, Louisiana","B01003_001",20821,NA
+"22113","Vermilion Parish, Louisiana","B01003_001",57123,NA
+"22115","Vernon Parish, Louisiana","B01003_001",47117,NA
+"22117","Washington Parish, Louisiana","B01003_001",45120,NA
+"22119","Webster Parish, Louisiana","B01003_001",35820,NA
+"22121","West Baton Rouge Parish, Louisiana","B01003_001",27974,NA
+"22123","West Carroll Parish, Louisiana","B01003_001",9464,NA
+"22125","West Feliciana Parish, Louisiana","B01003_001",15327,NA
+"22127","Winn Parish, Louisiana","B01003_001",13467,NA
+"23001","Androscoggin County, Maine","B01003_001",113423,NA
+"23003","Aroostook County, Maine","B01003_001",67058,NA
+"23005","Cumberland County, Maine","B01003_001",308827,NA
+"23007","Franklin County, Maine","B01003_001",30413,NA
+"23009","Hancock County, Maine","B01003_001",56460,NA
+"23011","Kennebec County, Maine","B01003_001",126808,NA
+"23013","Knox County, Maine","B01003_001",41003,NA
+"23015","Lincoln County, Maine","B01003_001",36099,NA
+"23017","Oxford County, Maine","B01003_001",59255,NA
+"23019","Penobscot County, Maine","B01003_001",154710,NA
+"23021","Piscataquis County, Maine","B01003_001",17263,NA
+"23023","Sagadahoc County, Maine","B01003_001",37285,NA
+"23025","Somerset County, Maine","B01003_001",50959,NA
+"23027","Waldo County, Maine","B01003_001",40192,NA
+"23029","Washington County, Maine","B01003_001",31331,NA
+"23031","York County, Maine","B01003_001",216731,NA
+"24001","Allegany County, Maryland","B01003_001",67452,NA
+"24003","Anne Arundel County, Maryland","B01003_001",598166,NA
+"24005","Baltimore County, Maryland","B01003_001",850796,NA
+"24009","Calvert County, Maryland","B01003_001",94313,NA
+"24011","Caroline County, Maryland","B01003_001",33669,NA
+"24013","Carroll County, Maryland","B01003_001",175321,NA
+"24015","Cecil County, Maryland","B01003_001",104960,NA
+"24017","Charles County, Maryland","B01003_001",170527,NA
+"24019","Dorchester County, Maryland","B01003_001",32754,NA
+"24021","Frederick County, Maryland","B01003_001",287048,NA
+"24023","Garrett County, Maryland","B01003_001",28615,NA
+"24025","Harford County, Maryland","B01003_001",263757,NA
+"24027","Howard County, Maryland","B01003_001",336328,NA
+"24029","Kent County, Maryland","B01003_001",19346,NA
+"24031","Montgomery County, Maryland","B01003_001",1065949,NA
+"24033","Prince George's County, Maryland","B01003_001",959754,NA
+"24035","Queen Anne's County, Maryland","B01003_001",51825,NA
+"24037","St. Mary's County, Maryland","B01003_001",115126,NA
+"24039","Somerset County, Maryland","B01003_001",24822,NA
+"24041","Talbot County, Maryland","B01003_001",37917,NA
+"24043","Washington County, Maryland","B01003_001",155709,NA
+"24045","Wicomico County, Maryland","B01003_001",104914,NA
+"24047","Worcester County, Maryland","B01003_001",53700,NA
+"24510","Baltimore city, Maryland","B01003_001",573243,NA
+"25001","Barnstable County, Massachusetts","B01003_001",231668,NA
+"25003","Berkshire County, Massachusetts","B01003_001",129430,NA
+"25005","Bristol County, Massachusetts","B01003_001",582270,NA
+"25007","Dukes County, Massachusetts","B01003_001",20933,NA
+"25009","Essex County, Massachusetts","B01003_001",813054,NA
+"25011","Franklin County, Massachusetts","B01003_001",70944,NA
+"25013","Hampden County, Massachusetts","B01003_001",462815,NA
+"25015","Hampshire County, Massachusetts","B01003_001",162028,NA
+"25017","Middlesex County, Massachusetts","B01003_001",1638365,NA
+"25019","Nantucket County, Massachusetts","B01003_001",14483,NA
+"25021","Norfolk County, Massachusetts","B01003_001",730082,NA
+"25023","Plymouth County, Massachusetts","B01003_001",535075,NA
+"25025","Suffolk County, Massachusetts","B01003_001",785121,NA
+"25027","Worcester County, Massachusetts","B01003_001",867788,NA
+"26001","Alcona County, Michigan","B01003_001",10397,NA
+"26003","Alger County, Michigan","B01003_001",8762,NA
+"26005","Allegan County, Michigan","B01003_001",121456,NA
+"26007","Alpena County, Michigan","B01003_001",28880,NA
+"26009","Antrim County, Michigan","B01003_001",24127,NA
+"26011","Arenac County, Michigan","B01003_001",15077,NA
+"26013","Baraga County, Michigan","B01003_001",8191,NA
+"26015","Barry County, Michigan","B01003_001",63409,NA
+"26017","Bay County, Michigan","B01003_001",103008,NA
+"26019","Benzie County, Michigan","B01003_001",18310,NA
+"26021","Berrien County, Michigan","B01003_001",153288,NA
+"26023","Branch County, Michigan","B01003_001",45300,NA
+"26025","Calhoun County, Michigan","B01003_001",133778,NA
+"26027","Cass County, Michigan","B01003_001",51520,NA
+"26029","Charlevoix County, Michigan","B01003_001",26108,NA
+"26031","Cheboygan County, Michigan","B01003_001",25865,NA
+"26033","Chippewa County, Michigan","B01003_001",36295,NA
+"26035","Clare County, Michigan","B01003_001",31218,NA
+"26037","Clinton County, Michigan","B01003_001",79626,NA
+"26039","Crawford County, Michigan","B01003_001",13369,NA
+"26041","Delta County, Michigan","B01003_001",36813,NA
+"26043","Dickinson County, Michigan","B01003_001",25954,NA
+"26045","Eaton County, Michigan","B01003_001",109130,NA
+"26047","Emmet County, Michigan","B01003_001",34125,NA
+"26049","Genesee County, Michigan","B01003_001",403305,NA
+"26051","Gladwin County, Michigan","B01003_001",25693,NA
+"26053","Gogebic County, Michigan","B01003_001",14319,NA
+"26055","Grand Traverse County, Michigan","B01003_001",96166,NA
+"26057","Gratiot County, Michigan","B01003_001",41385,NA
+"26059","Hillsdale County, Michigan","B01003_001",45654,NA
+"26061","Houghton County, Michigan","B01003_001",37693,NA
+"26063","Huron County, Michigan","B01003_001",31113,NA
+"26065","Ingham County, Michigan","B01003_001",283913,NA
+"26067","Ionia County, Michigan","B01003_001",66574,NA
+"26069","Iosco County, Michigan","B01003_001",25347,NA
+"26071","Iron County, Michigan","B01003_001",11667,NA
+"26073","Isabella County, Michigan","B01003_001",64565,NA
+"26075","Jackson County, Michigan","B01003_001",160060,NA
+"26077","Kalamazoo County, Michigan","B01003_001",262375,NA
+"26079","Kalkaska County, Michigan","B01003_001",18239,NA
+"26081","Kent County, Michigan","B01003_001",663150,NA
+"26083","Keweenaw County, Michigan","B01003_001",2133,NA
+"26085","Lake County, Michigan","B01003_001",12563,NA
+"26087","Lapeer County, Michigan","B01003_001",88837,NA
+"26089","Leelanau County, Michigan","B01003_001",22734,NA
+"26091","Lenawee County, Michigan","B01003_001",98415,NA
+"26093","Livingston County, Michigan","B01003_001",195833,NA
+"26095","Luce County, Michigan","B01003_001",6271,NA
+"26097","Mackinac County, Michigan","B01003_001",10957,NA
+"26099","Macomb County, Michigan","B01003_001",879853,NA
+"26101","Manistee County, Michigan","B01003_001",25350,NA
+"26103","Marquette County, Michigan","B01003_001",67112,NA
+"26105","Mason County, Michigan","B01003_001",29207,NA
+"26107","Mecosta County, Michigan","B01003_001",41242,NA
+"26109","Menominee County, Michigan","B01003_001",23247,NA
+"26111","Midland County, Michigan","B01003_001",83757,NA
+"26113","Missaukee County, Michigan","B01003_001",15207,NA
+"26115","Monroe County, Michigan","B01003_001",155505,NA
+"26117","Montcalm County, Michigan","B01003_001",67816,NA
+"26119","Montmorency County, Michigan","B01003_001",9516,NA
+"26121","Muskegon County, Michigan","B01003_001",175961,NA
+"26123","Newaygo County, Michigan","B01003_001",50792,NA
+"26125","Oakland County, Michigan","B01003_001",1279825,NA
+"26127","Oceana County, Michigan","B01003_001",26915,NA
+"26129","Ogemaw County, Michigan","B01003_001",20885,NA
+"26131","Ontonagon County, Michigan","B01003_001",5850,NA
+"26133","Osceola County, Michigan","B01003_001",23227,NA
+"26135","Oscoda County, Michigan","B01003_001",8425,NA
+"26137","Otsego County, Michigan","B01003_001",25584,NA
+"26139","Ottawa County, Michigan","B01003_001",301203,NA
+"26141","Presque Isle County, Michigan","B01003_001",13209,NA
+"26143","Roscommon County, Michigan","B01003_001",23737,NA
+"26145","Saginaw County, Michigan","B01003_001",188665,NA
+"26147","St. Clair County, Michigan","B01003_001",160221,NA
+"26149","St. Joseph County, Michigan","B01003_001",60969,NA
+"26151","Sanilac County, Michigan","B01003_001",40462,NA
+"26153","Schoolcraft County, Michigan","B01003_001",8128,NA
+"26155","Shiawassee County, Michigan","B01003_001",67991,NA
+"26157","Tuscola County, Michigan","B01003_001",52980,NA
+"26159","Van Buren County, Michigan","B01003_001",75795,NA
+"26161","Washtenaw County, Michigan","B01003_001",369822,NA
+"26163","Wayne County, Michigan","B01003_001",1772259,NA
+"26165","Wexford County, Michigan","B01003_001",34077,NA
+"27001","Aitkin County, Minnesota","B01003_001",16056,NA
+"27003","Anoka County, Minnesota","B01003_001",370349,NA
+"27005","Becker County, Minnesota","B01003_001",35343,NA
+"27007","Beltrami County, Minnesota","B01003_001",46512,NA
+"27009","Benton County, Minnesota","B01003_001",41593,NA
+"27011","Big Stone County, Minnesota","B01003_001",5127,NA
+"27013","Blue Earth County, Minnesota","B01003_001",69871,NA
+"27015","Brown County, Minnesota","B01003_001",25800,NA
+"27017","Carlton County, Minnesota","B01003_001",36518,NA
+"27019","Carver County, Minnesota","B01003_001",110041,NA
+"27021","Cass County, Minnesota","B01003_001",30992,NA
+"27023","Chippewa County, Minnesota","B01003_001",12377,NA
+"27025","Chisago County, Minnesota","B01003_001",57991,NA
+"27027","Clay County, Minnesota","B01003_001",66059,NA
+"27029","Clearwater County, Minnesota","B01003_001",8616,NA
+"27031","Cook County, Minnesota","B01003_001",5635,NA
+"27033","Cottonwood County, Minnesota","B01003_001",11458,NA
+"27035","Crow Wing County, Minnesota","B01003_001",67686,NA
+"27037","Dakota County, Minnesota","B01003_001",445771,NA
+"27039","Dodge County, Minnesota","B01003_001",21045,NA
+"27041","Douglas County, Minnesota","B01003_001",39575,NA
+"27043","Faribault County, Minnesota","B01003_001",13914,NA
+"27045","Fillmore County, Minnesota","B01003_001",21414,NA
+"27047","Freeborn County, Minnesota","B01003_001",30623,NA
+"27049","Goodhue County, Minnesota","B01003_001",47943,NA
+"27051","Grant County, Minnesota","B01003_001",6127,NA
+"27053","Hennepin County, Minnesota","B01003_001",1269496,NA
+"27055","Houston County, Minnesota","B01003_001",18653,NA
+"27057","Hubbard County, Minnesota","B01003_001",21831,NA
+"27059","Isanti County, Minnesota","B01003_001",42596,NA
+"27061","Itasca County, Minnesota","B01003_001",45275,NA
+"27063","Jackson County, Minnesota","B01003_001",9933,NA
+"27065","Kanabec County, Minnesota","B01003_001",16390,NA
+"27067","Kandiyohi County, Minnesota","B01003_001",44079,NA
+"27069","Kittson County, Minnesota","B01003_001",4084,NA
+"27071","Koochiching County, Minnesota","B01003_001",11833,NA
+"27073","Lac qui Parle County, Minnesota","B01003_001",6682,NA
+"27075","Lake County, Minnesota","B01003_001",10879,NA
+"27077","Lake of the Woods County, Minnesota","B01003_001",3821,NA
+"27079","Le Sueur County, Minnesota","B01003_001",29113,NA
+"27081","Lincoln County, Minnesota","B01003_001",5603,NA
+"27083","Lyon County, Minnesota","B01003_001",25503,NA
+"27085","McLeod County, Minnesota","B01003_001",36798,NA
+"27087","Mahnomen County, Minnesota","B01003_001",5358,NA
+"27089","Marshall County, Minnesota","B01003_001",8909,NA
+"27091","Martin County, Minnesota","B01003_001",19780,NA
+"27093","Meeker County, Minnesota","B01003_001",23468,NA
+"27095","Mille Lacs County, Minnesota","B01003_001",27125,NA
+"27097","Morrison County, Minnesota","B01003_001",34249,NA
+"27099","Mower County, Minnesota","B01003_001",40343,NA
+"27101","Murray County, Minnesota","B01003_001",8097,NA
+"27103","Nicollet County, Minnesota","B01003_001",34411,NA
+"27105","Nobles County, Minnesota","B01003_001",22041,NA
+"27107","Norman County, Minnesota","B01003_001",6367,NA
+"27109","Olmsted County, Minnesota","B01003_001",164498,NA
+"27111","Otter Tail County, Minnesota","B01003_001",60475,NA
+"27113","Pennington County, Minnesota","B01003_001",13791,NA
+"27115","Pine County, Minnesota","B01003_001",29640,NA
+"27117","Pipestone County, Minnesota","B01003_001",9284,NA
+"27119","Polk County, Minnesota","B01003_001",30705,NA
+"27121","Pope County, Minnesota","B01003_001",11418,NA
+"27123","Ramsey County, Minnesota","B01003_001",542945,NA
+"27125","Red Lake County, Minnesota","B01003_001",3915,NA
+"27127","Redwood County, Minnesota","B01003_001",15350,NA
+"27129","Renville County, Minnesota","B01003_001",14558,NA
+"27131","Rice County, Minnesota","B01003_001",67917,NA
+"27133","Rock County, Minnesota","B01003_001",9621,NA
+"27135","Roseau County, Minnesota","B01003_001",15302,NA
+"27137","St. Louis County, Minnesota","B01003_001",200123,NA
+"27139","Scott County, Minnesota","B01003_001",154557,NA
+"27141","Sherburne County, Minnesota","B01003_001",100560,NA
+"27143","Sibley County, Minnesota","B01003_001",15005,NA
+"27145","Stearns County, Minnesota","B01003_001",160865,NA
+"27147","Steele County, Minnesota","B01003_001",37439,NA
+"27149","Stevens County, Minnesota","B01003_001",9739,NA
+"27151","Swift County, Minnesota","B01003_001",9748,NA
+"27153","Todd County, Minnesota","B01003_001",25575,NA
+"27155","Traverse County, Minnesota","B01003_001",3243,NA
+"27157","Wabasha County, Minnesota","B01003_001",21565,NA
+"27159","Wadena County, Minnesota","B01003_001",14256,NA
+"27161","Waseca County, Minnesota","B01003_001",18885,NA
+"27163","Washington County, Minnesota","B01003_001",276238,NA
+"27165","Watonwan County, Minnesota","B01003_001",11205,NA
+"27167","Wilkin County, Minnesota","B01003_001",6371,NA
+"27169","Winona County, Minnesota","B01003_001",49779,NA
+"27171","Wright County, Minnesota","B01003_001",148269,NA
+"27173","Yellow Medicine County, Minnesota","B01003_001",9451,NA
+"28001","Adams County, Mississippi","B01003_001",28803,NA
+"28003","Alcorn County, Mississippi","B01003_001",34289,NA
+"28005","Amite County, Mississippi","B01003_001",12565,NA
+"28007","Attala County, Mississippi","B01003_001",17526,NA
+"28009","Benton County, Mississippi","B01003_001",7589,NA
+"28011","Bolivar County, Mississippi","B01003_001",29534,NA
+"28013","Calhoun County, Mississippi","B01003_001",12922,NA
+"28015","Carroll County, Mississippi","B01003_001",9686,NA
+"28017","Chickasaw County, Mississippi","B01003_001",16915,NA
+"28019","Choctaw County, Mississippi","B01003_001",8118,NA
+"28021","Claiborne County, Mississippi","B01003_001",8582,NA
+"28023","Clarke County, Mississippi","B01003_001",15314,NA
+"28025","Clay County, Mississippi","B01003_001",18383,NA
+"28027","Coahoma County, Mississippi","B01003_001",20540,NA
+"28029","Copiah County, Mississippi","B01003_001",27855,NA
+"28031","Covington County, Mississippi","B01003_001",18148,NA
+"28033","DeSoto County, Mississippi","B01003_001",191301,NA
+"28035","Forrest County, Mississippi","B01003_001",78272,NA
+"28037","Franklin County, Mississippi","B01003_001",7622,NA
+"28039","George County, Mississippi","B01003_001",25170,NA
+"28041","Greene County, Mississippi","B01003_001",13615,NA
+"28043","Grenada County, Mississippi","B01003_001",21217,NA
+"28045","Hancock County, Mississippi","B01003_001",46167,NA
+"28047","Harrison County, Mississippi","B01003_001",210891,NA
+"28049","Hinds County, Mississippi","B01003_001",218533,NA
+"28051","Holmes County, Mississippi","B01003_001",16191,NA
+"28053","Humphreys County, Mississippi","B01003_001",7395,NA
+"28055","Issaquena County, Mississippi","B01003_001",928,112
+"28057","Itawamba County, Mississippi","B01003_001",24036,NA
+"28059","Jackson County, Mississippi","B01003_001",145249,NA
+"28061","Jasper County, Mississippi","B01003_001",16059,NA
+"28063","Jefferson County, Mississippi","B01003_001",7068,NA
+"28065","Jefferson Davis County, Mississippi","B01003_001",11117,NA
+"28067","Jones County, Mississippi","B01003_001",66472,NA
+"28069","Kemper County, Mississippi","B01003_001",8729,NA
+"28071","Lafayette County, Mississippi","B01003_001",58327,NA
+"28073","Lamar County, Mississippi","B01003_001",65713,NA
+"28075","Lauderdale County, Mississippi","B01003_001",71504,NA
+"28077","Lawrence County, Mississippi","B01003_001",11786,NA
+"28079","Leake County, Mississippi","B01003_001",21319,NA
+"28081","Lee County, Mississippi","B01003_001",83034,NA
+"28083","Leflore County, Mississippi","B01003_001",27141,NA
+"28085","Lincoln County, Mississippi","B01003_001",34877,NA
+"28087","Lowndes County, Mississippi","B01003_001",57838,NA
+"28089","Madison County, Mississippi","B01003_001",111647,NA
+"28091","Marion County, Mississippi","B01003_001",24193,NA
+"28093","Marshall County, Mississippi","B01003_001",33979,NA
+"28095","Monroe County, Mississippi","B01003_001",33747,NA
+"28097","Montgomery County, Mississippi","B01003_001",9602,NA
+"28099","Neshoba County, Mississippi","B01003_001",28932,NA
+"28101","Newton County, Mississippi","B01003_001",21093,NA
+"28103","Noxubee County, Mississippi","B01003_001",10025,NA
+"28105","Oktibbeha County, Mississippi","B01003_001",51771,NA
+"28107","Panola County, Mississippi","B01003_001",32808,NA
+"28109","Pearl River County, Mississippi","B01003_001",57458,NA
+"28111","Perry County, Mississippi","B01003_001",11449,NA
+"28113","Pike County, Mississippi","B01003_001",39602,NA
+"28115","Pontotoc County, Mississippi","B01003_001",31550,NA
+"28117","Prentiss County, Mississippi","B01003_001",25184,NA
+"28119","Quitman County, Mississippi","B01003_001",5774,NA
+"28121","Rankin County, Mississippi","B01003_001",158854,NA
+"28123","Scott County, Mississippi","B01003_001",27718,NA
+"28125","Sharkey County, Mississippi","B01003_001",3872,112
+"28127","Simpson County, Mississippi","B01003_001",25691,NA
+"28129","Smith County, Mississippi","B01003_001",14132,NA
+"28131","Stone County, Mississippi","B01003_001",18894,NA
+"28133","Sunflower County, Mississippi","B01003_001",24333,NA
+"28135","Tallahatchie County, Mississippi","B01003_001",11764,NA
+"28137","Tate County, Mississippi","B01003_001",28321,NA
+"28139","Tippah County, Mississippi","B01003_001",21523,NA
+"28141","Tishomingo County, Mississippi","B01003_001",18660,NA
+"28143","Tunica County, Mississippi","B01003_001",9475,NA
+"28145","Union County, Mississippi","B01003_001",28122,NA
+"28147","Walthall County, Mississippi","B01003_001",13839,NA
+"28149","Warren County, Mississippi","B01003_001",43020,NA
+"28151","Washington County, Mississippi","B01003_001",42765,NA
+"28153","Wayne County, Mississippi","B01003_001",19718,NA
+"28155","Webster County, Mississippi","B01003_001",9972,NA
+"28157","Wilkinson County, Mississippi","B01003_001",8162,NA
+"28159","Winston County, Mississippi","B01003_001",17536,NA
+"28161","Yalobusha County, Mississippi","B01003_001",12419,NA
+"28163","Yazoo County, Mississippi","B01003_001",24835,NA
+"29001","Adair County, Missouri","B01003_001",25301,NA
+"29003","Andrew County, Missouri","B01003_001",18065,NA
+"29005","Atchison County, Missouri","B01003_001",5187,NA
+"29007","Audrain County, Missouri","B01003_001",24548,NA
+"29009","Barry County, Missouri","B01003_001",35033,NA
+"29011","Barton County, Missouri","B01003_001",11690,NA
+"29013","Bates County, Missouri","B01003_001",16186,NA
+"29015","Benton County, Missouri","B01003_001",20151,NA
+"29017","Bollinger County, Missouri","B01003_001",10559,NA
+"29019","Boone County, Missouri","B01003_001",188043,NA
+"29021","Buchanan County, Missouri","B01003_001",83568,NA
+"29023","Butler County, Missouri","B01003_001",42020,NA
+"29025","Caldwell County, Missouri","B01003_001",8927,NA
+"29027","Callaway County, Missouri","B01003_001",44741,NA
+"29029","Camden County, Missouri","B01003_001",43667,NA
+"29031","Cape Girardeau County, Missouri","B01003_001",82735,NA
+"29033","Carroll County, Missouri","B01003_001",8411,NA
+"29035","Carter County, Missouri","B01003_001",5297,NA
+"29037","Cass County, Missouri","B01003_001",110773,NA
+"29039","Cedar County, Missouri","B01003_001",14615,NA
+"29041","Chariton County, Missouri","B01003_001",7390,NA
+"29043","Christian County, Missouri","B01003_001",92915,NA
+"29045","Clark County, Missouri","B01003_001",6675,NA
+"29047","Clay County, Missouri","B01003_001",258122,NA
+"29049","Clinton County, Missouri","B01003_001",21414,NA
+"29051","Cole County, Missouri","B01003_001",77032,NA
+"29053","Cooper County, Missouri","B01003_001",16824,NA
+"29055","Crawford County, Missouri","B01003_001",22797,NA
+"29057","Dade County, Missouri","B01003_001",7641,NA
+"29059","Dallas County, Missouri","B01003_001",17551,NA
+"29061","Daviess County, Missouri","B01003_001",8477,NA
+"29063","DeKalb County, Missouri","B01003_001",10876,NA
+"29065","Dent County, Missouri","B01003_001",14539,NA
+"29067","Douglas County, Missouri","B01003_001",11965,NA
+"29069","Dunklin County, Missouri","B01003_001",27493,NA
+"29071","Franklin County, Missouri","B01003_001",105950,NA
+"29073","Gasconade County, Missouri","B01003_001",14746,NA
+"29075","Gentry County, Missouri","B01003_001",6245,NA
+"29077","Greene County, Missouri","B01003_001",303375,NA
+"29079","Grundy County, Missouri","B01003_001",9787,NA
+"29081","Harrison County, Missouri","B01003_001",8190,NA
+"29083","Henry County, Missouri","B01003_001",22328,NA
+"29085","Hickory County, Missouri","B01003_001",8585,NA
+"29087","Holt County, Missouri","B01003_001",4240,NA
+"29089","Howard County, Missouri","B01003_001",10147,NA
+"29091","Howell County, Missouri","B01003_001",40383,NA
+"29093","Iron County, Missouri","B01003_001",9446,NA
+"29095","Jackson County, Missouri","B01003_001",719976,NA
+"29097","Jasper County, Missouri","B01003_001",124357,NA
+"29099","Jefferson County, Missouri","B01003_001",229458,NA
+"29101","Johnson County, Missouri","B01003_001",54732,NA
+"29103","Knox County, Missouri","B01003_001",3756,NA
+"29105","Laclede County, Missouri","B01003_001",36390,NA
+"29107","Lafayette County, Missouri","B01003_001",33115,NA
+"29109","Lawrence County, Missouri","B01003_001",38593,NA
+"29111","Lewis County, Missouri","B01003_001",9924,NA
+"29113","Lincoln County, Missouri","B01003_001",63057,NA
+"29115","Linn County, Missouri","B01003_001",11852,NA
+"29117","Livingston County, Missouri","B01003_001",14364,NA
+"29119","McDonald County, Missouri","B01003_001",23701,NA
+"29121","Macon County, Missouri","B01003_001",15163,NA
+"29123","Madison County, Missouri","B01003_001",12729,NA
+"29125","Maries County, Missouri","B01003_001",8450,NA
+"29127","Marion County, Missouri","B01003_001",28457,NA
+"29129","Mercer County, Missouri","B01003_001",3482,NA
+"29131","Miller County, Missouri","B01003_001",25269,NA
+"29133","Mississippi County, Missouri","B01003_001",11902,NA
+"29135","Moniteau County, Missouri","B01003_001",15262,NA
+"29137","Monroe County, Missouri","B01003_001",8734,NA
+"29139","Montgomery County, Missouri","B01003_001",11426,NA
+"29141","Morgan County, Missouri","B01003_001",21717,NA
+"29143","New Madrid County, Missouri","B01003_001",15731,NA
+"29145","Newton County, Missouri","B01003_001",60118,NA
+"29147","Nodaway County, Missouri","B01003_001",20774,NA
+"29149","Oregon County, Missouri","B01003_001",8673,NA
+"29151","Osage County, Missouri","B01003_001",13402,NA
+"29153","Ozark County, Missouri","B01003_001",8873,NA
+"29155","Pemiscot County, Missouri","B01003_001",14958,NA
+"29157","Perry County, Missouri","B01003_001",18976,NA
+"29159","Pettis County, Missouri","B01003_001",43397,NA
+"29161","Phelps County, Missouri","B01003_001",45194,NA
+"29163","Pike County, Missouri","B01003_001",17711,NA
+"29165","Platte County, Missouri","B01003_001",110371,NA
+"29167","Polk County, Missouri","B01003_001",32444,NA
+"29169","Pulaski County, Missouri","B01003_001",53894,NA
+"29171","Putnam County, Missouri","B01003_001",4642,NA
+"29173","Ralls County, Missouri","B01003_001",10428,NA
+"29175","Randolph County, Missouri","B01003_001",24365,NA
+"29177","Ray County, Missouri","B01003_001",23145,NA
+"29179","Reynolds County, Missouri","B01003_001",6010,NA
+"29181","Ripley County, Missouri","B01003_001",10708,NA
+"29183","St. Charles County, Missouri","B01003_001",414535,NA
+"29185","St. Clair County, Missouri","B01003_001",9587,NA
+"29186","Ste. Genevieve County, Missouri","B01003_001",18571,NA
+"29187","St. Francois County, Missouri","B01003_001",66999,NA
+"29189","St. Louis County, Missouri","B01003_001",995569,NA
+"29195","Saline County, Missouri","B01003_001",23231,NA
+"29197","Schuyler County, Missouri","B01003_001",4038,NA
+"29199","Scotland County, Missouri","B01003_001",4686,NA
+"29201","Scott County, Missouri","B01003_001",37933,NA
+"29203","Shannon County, Missouri","B01003_001",7177,NA
+"29205","Shelby County, Missouri","B01003_001",5986,NA
+"29207","Stoddard County, Missouri","B01003_001",28470,NA
+"29209","Stone County, Missouri","B01003_001",32048,NA
+"29211","Sullivan County, Missouri","B01003_001",5857,NA
+"29213","Taney County, Missouri","B01003_001",56529,NA
+"29215","Texas County, Missouri","B01003_001",25161,NA
+"29217","Vernon County, Missouri","B01003_001",19687,NA
+"29219","Warren County, Missouri","B01003_001",37177,NA
+"29221","Washington County, Missouri","B01003_001",23470,NA
+"29223","Wayne County, Missouri","B01003_001",10862,NA
+"29225","Webster County, Missouri","B01003_001",40500,NA
+"29227","Worth County, Missouri","B01003_001",1934,NA
+"29229","Wright County, Missouri","B01003_001",18965,NA
+"29510","St. Louis city, Missouri","B01003_001",288512,NA
+"30001","Beaverhead County, Montana","B01003_001",9713,NA
+"30003","Big Horn County, Montana","B01003_001",12891,NA
+"30005","Blaine County, Montana","B01003_001",6949,NA
+"30007","Broadwater County, Montana","B01003_001",7668,NA
+"30009","Carbon County, Montana","B01003_001",11116,NA
+"30011","Carter County, Montana","B01003_001",1308,136
+"30013","Cascade County, Montana","B01003_001",84606,NA
+"30015","Chouteau County, Montana","B01003_001",5906,NA
+"30017","Custer County, Montana","B01003_001",11961,NA
+"30019","Daniels County, Montana","B01003_001",1494,188
+"30021","Dawson County, Montana","B01003_001",8827,NA
+"30023","Deer Lodge County, Montana","B01003_001",9597,NA
+"30025","Fallon County, Montana","B01003_001",2760,182
+"30027","Fergus County, Montana","B01003_001",11687,NA
+"30029","Flathead County, Montana","B01003_001",110695,NA
+"30031","Gallatin County, Montana","B01003_001",124074,NA
+"30033","Garfield County, Montana","B01003_001",1094,127
+"30035","Glacier County, Montana","B01003_001",13637,NA
+"30037","Golden Valley County, Montana","B01003_001",899,128
+"30039","Granite County, Montana","B01003_001",3462,NA
+"30041","Hill County, Montana","B01003_001",16155,NA
+"30043","Jefferson County, Montana","B01003_001",12774,NA
+"30045","Judith Basin County, Montana","B01003_001",2071,NA
+"30047","Lake County, Montana","B01003_001",32561,NA
+"30049","Lewis and Clark County, Montana","B01003_001",73464,NA
+"30051","Liberty County, Montana","B01003_001",1952,NA
+"30053","Lincoln County, Montana","B01003_001",21175,NA
+"30055","McCone County, Montana","B01003_001",1670,128
+"30057","Madison County, Montana","B01003_001",9223,NA
+"30059","Meagher County, Montana","B01003_001",2007,NA
+"30061","Mineral County, Montana","B01003_001",4959,NA
+"30063","Missoula County, Montana","B01003_001",120672,NA
+"30065","Musselshell County, Montana","B01003_001",5152,173
+"30067","Park County, Montana","B01003_001",17710,NA
+"30069","Petroleum County, Montana","B01003_001",447,105
+"30071","Phillips County, Montana","B01003_001",4221,NA
+"30073","Pondera County, Montana","B01003_001",6035,NA
+"30075","Powder River County, Montana","B01003_001",1815,136
+"30077","Powell County, Montana","B01003_001",7053,NA
+"30079","Prairie County, Montana","B01003_001",1250,148
+"30081","Ravalli County, Montana","B01003_001",46727,NA
+"30083","Richland County, Montana","B01003_001",11235,NA
+"30085","Roosevelt County, Montana","B01003_001",10526,NA
+"30087","Rosebud County, Montana","B01003_001",8165,NA
+"30089","Sanders County, Montana","B01003_001",13285,NA
+"30091","Sheridan County, Montana","B01003_001",3669,188
+"30093","Silver Bow County, Montana","B01003_001",35785,NA
+"30095","Stillwater County, Montana","B01003_001",9182,NA
+"30097","Sweet Grass County, Montana","B01003_001",3720,NA
+"30099","Teton County, Montana","B01003_001",6353,NA
+"30101","Toole County, Montana","B01003_001",5061,NA
+"30103","Treasure County, Montana","B01003_001",732,134
+"30105","Valley County, Montana","B01003_001",7519,NA
+"30107","Wheatland County, Montana","B01003_001",2056,NA
+"30109","Wibaux County, Montana","B01003_001",1193,163
+"30111","Yellowstone County, Montana","B01003_001",168957,NA
+"31001","Adams County, Nebraska","B01003_001",31052,NA
+"31003","Antelope County, Nebraska","B01003_001",6305,NA
+"31005","Arthur County, Nebraska","B01003_001",484,99
+"31007","Banner County, Nebraska","B01003_001",742,131
+"31009","Blaine County, Nebraska","B01003_001",422,64
+"31011","Boone County, Nebraska","B01003_001",5356,NA
+"31013","Box Butte County, Nebraska","B01003_001",10714,NA
+"31015","Boyd County, Nebraska","B01003_001",1688,92
+"31017","Brown County, Nebraska","B01003_001",2869,111
+"31019","Buffalo County, Nebraska","B01003_001",50579,NA
+"31021","Burt County, Nebraska","B01003_001",6740,NA
+"31023","Butler County, Nebraska","B01003_001",8424,NA
+"31025","Cass County, Nebraska","B01003_001",27161,NA
+"31027","Cedar County, Nebraska","B01003_001",8315,NA
+"31029","Chase County, Nebraska","B01003_001",3671,179
+"31031","Cherry County, Nebraska","B01003_001",5498,NA
+"31033","Cheyenne County, Nebraska","B01003_001",9533,NA
+"31035","Clay County, Nebraska","B01003_001",6095,NA
+"31037","Colfax County, Nebraska","B01003_001",10641,NA
+"31039","Cuming County, Nebraska","B01003_001",8975,NA
+"31041","Custer County, Nebraska","B01003_001",10518,NA
+"31043","Dakota County, Nebraska","B01003_001",21354,NA
+"31045","Dawes County, Nebraska","B01003_001",8140,NA
+"31047","Dawson County, Nebraska","B01003_001",24202,NA
+"31049","Deuel County, Nebraska","B01003_001",1847,161
+"31051","Dixon County, Nebraska","B01003_001",5545,NA
+"31053","Dodge County, Nebraska","B01003_001",37351,NA
+"31055","Douglas County, Nebraska","B01003_001",590736,NA
+"31057","Dundy County, Nebraska","B01003_001",1736,179
+"31059","Fillmore County, Nebraska","B01003_001",5541,NA
+"31061","Franklin County, Nebraska","B01003_001",2846,NA
+"31063","Frontier County, Nebraska","B01003_001",2569,82
+"31065","Furnas County, Nebraska","B01003_001",4568,NA
+"31067","Gage County, Nebraska","B01003_001",21629,NA
+"31069","Garden County, Nebraska","B01003_001",1761,166
+"31071","Garfield County, Nebraska","B01003_001",1718,123
+"31073","Gosper County, Nebraska","B01003_001",2040,156
+"31075","Grant County, Nebraska","B01003_001",626,88
+"31077","Greeley County, Nebraska","B01003_001",2202,NA
+"31079","Hall County, Nebraska","B01003_001",62536,NA
+"31081","Hamilton County, Nebraska","B01003_001",9464,NA
+"31083","Harlan County, Nebraska","B01003_001",2847,156
+"31085","Hayes County, Nebraska","B01003_001",843,81
+"31087","Hitchcock County, Nebraska","B01003_001",2569,NA
+"31089","Holt County, Nebraska","B01003_001",10102,NA
+"31091","Hooker County, Nebraska","B01003_001",647,73
+"31093","Howard County, Nebraska","B01003_001",6534,NA
+"31095","Jefferson County, Nebraska","B01003_001",7161,NA
+"31097","Johnson County, Nebraska","B01003_001",5261,NA
+"31099","Kearney County, Nebraska","B01003_001",6713,NA
+"31101","Keith County, Nebraska","B01003_001",8219,NA
+"31103","Keya Paha County, Nebraska","B01003_001",822,111
+"31105","Kimball County, Nebraska","B01003_001",3248,171
+"31107","Knox County, Nebraska","B01003_001",8363,NA
+"31109","Lancaster County, Nebraska","B01003_001",326696,NA
+"31111","Lincoln County, Nebraska","B01003_001",33802,NA
+"31113","Logan County, Nebraska","B01003_001",773,85
+"31115","Loup County, Nebraska","B01003_001",578,95
+"31117","McPherson County, Nebraska","B01003_001",475,78
+"31119","Madison County, Nebraska","B01003_001",35532,NA
+"31121","Merrick County, Nebraska","B01003_001",7724,NA
+"31123","Morrill County, Nebraska","B01003_001",4534,NA
+"31125","Nance County, Nebraska","B01003_001",3324,NA
+"31127","Nemaha County, Nebraska","B01003_001",7046,NA
+"31129","Nuckolls County, Nebraska","B01003_001",4087,NA
+"31131","Otoe County, Nebraska","B01003_001",16241,NA
+"31133","Pawnee County, Nebraska","B01003_001",2530,NA
+"31135","Perkins County, Nebraska","B01003_001",2821,NA
+"31137","Phelps County, Nebraska","B01003_001",9009,NA
+"31139","Pierce County, Nebraska","B01003_001",7325,NA
+"31141","Platte County, Nebraska","B01003_001",34716,NA
+"31143","Polk County, Nebraska","B01003_001",5225,NA
+"31145","Red Willow County, Nebraska","B01003_001",10557,NA
+"31147","Richardson County, Nebraska","B01003_001",7751,NA
+"31149","Rock County, Nebraska","B01003_001",1319,92
+"31151","Saline County, Nebraska","B01003_001",14650,NA
+"31153","Sarpy County, Nebraska","B01003_001",197389,NA
+"31155","Saunders County, Nebraska","B01003_001",23048,NA
+"31157","Scotts Bluff County, Nebraska","B01003_001",35843,NA
+"31159","Seward County, Nebraska","B01003_001",17641,NA
+"31161","Sheridan County, Nebraska","B01003_001",5014,NA
+"31163","Sherman County, Nebraska","B01003_001",2967,NA
+"31165","Sioux County, Nebraska","B01003_001",1171,167
+"31167","Stanton County, Nebraska","B01003_001",5796,NA
+"31169","Thayer County, Nebraska","B01003_001",4901,NA
+"31171","Thomas County, Nebraska","B01003_001",564,54
+"31173","Thurston County, Nebraska","B01003_001",6627,NA
+"31175","Valley County, Nebraska","B01003_001",4066,95
+"31177","Washington County, Nebraska","B01003_001",21106,NA
+"31179","Wayne County, Nebraska","B01003_001",9844,NA
+"31181","Webster County, Nebraska","B01003_001",3360,NA
+"31183","Wheeler County, Nebraska","B01003_001",847,123
+"31185","York County, Nebraska","B01003_001",14286,NA
+"32001","Churchill County, Nevada","B01003_001",25805,NA
+"32003","Clark County, Nevada","B01003_001",2329548,NA
+"32005","Douglas County, Nevada","B01003_001",49623,NA
+"32007","Elko County, Nevada","B01003_001",54047,NA
+"32009","Esmeralda County, Nevada","B01003_001",1028,258
+"32011","Eureka County, Nevada","B01003_001",1585,258
+"32013","Humboldt County, Nevada","B01003_001",17289,NA
+"32015","Lander County, Nevada","B01003_001",5770,NA
+"32017","Lincoln County, Nevada","B01003_001",4405,NA
+"32019","Lyon County, Nevada","B01003_001",61680,NA
+"32021","Mineral County, Nevada","B01003_001",4542,NA
+"32023","Nye County, Nevada","B01003_001",54344,NA
+"32027","Pershing County, Nevada","B01003_001",6487,NA
+"32029","Storey County, Nevada","B01003_001",4140,NA
+"32031","Washoe County, Nevada","B01003_001",497200,NA
+"32033","White Pine County, Nevada","B01003_001",8735,NA
+"32510","Carson City, Nevada","B01003_001",58384,NA
+"33001","Belknap County, New Hampshire","B01003_001",64659,NA
+"33003","Carroll County, New Hampshire","B01003_001",51804,NA
+"33005","Cheshire County, New Hampshire","B01003_001",77297,NA
+"33007","Coos County, New Hampshire","B01003_001",31271,NA
+"33009","Grafton County, New Hampshire","B01003_001",92120,NA
+"33011","Hillsborough County, New Hampshire","B01003_001",426378,NA
+"33013","Merrimack County, New Hampshire","B01003_001",155967,NA
+"33015","Rockingham County, New Hampshire","B01003_001",319082,NA
+"33017","Strafford County, New Hampshire","B01003_001",132575,NA
+"33019","Sullivan County, New Hampshire","B01003_001",43715,NA
+"34001","Atlantic County, New Jersey","B01003_001",276270,NA
+"34003","Bergen County, New Jersey","B01003_001",962316,NA
+"34005","Burlington County, New Jersey","B01003_001",467805,NA
+"34007","Camden County, New Jersey","B01003_001",527257,NA
+"34009","Cape May County, New Jersey","B01003_001",94941,NA
+"34011","Cumberland County, New Jersey","B01003_001",153305,NA
+"34013","Essex County, New Jersey","B01003_001",863002,NA
+"34015","Gloucester County, New Jersey","B01003_001",306954,NA
+"34017","Hudson County, New Jersey","B01003_001",718323,NA
+"34019","Hunterdon County, New Jersey","B01003_001",130160,NA
+"34021","Mercer County, New Jersey","B01003_001",385864,NA
+"34023","Middlesex County, New Jersey","B01003_001",871290,NA
+"34025","Monmouth County, New Jersey","B01003_001",645353,NA
+"34027","Morris County, New Jersey","B01003_001",514528,NA
+"34029","Ocean County, New Jersey","B01003_001",654362,NA
+"34031","Passaic County, New Jersey","B01003_001",521012,NA
+"34033","Salem County, New Jersey","B01003_001",65275,NA
+"34035","Somerset County, New Jersey","B01003_001",349846,NA
+"34037","Sussex County, New Jersey","B01003_001",145807,NA
+"34039","Union County, New Jersey","B01003_001",579290,NA
+"34041","Warren County, New Jersey","B01003_001",110849,NA
+"35001","Bernalillo County, New Mexico","B01003_001",673930,NA
+"35003","Catron County, New Mexico","B01003_001",3743,NA
+"35005","Chaves County, New Mexico","B01003_001",64217,NA
+"35006","Cibola County, New Mexico","B01003_001",26845,NA
+"35007","Colfax County, New Mexico","B01003_001",12322,NA
+"35009","Curry County, New Mexico","B01003_001",47638,NA
+"35011","De Baca County, New Mexico","B01003_001",1576,172
+"35013","Doña Ana County, New Mexico","B01003_001",224266,NA
+"35015","Eddy County, New Mexico","B01003_001",61105,NA
+"35017","Grant County, New Mexico","B01003_001",27775,NA
+"35019","Guadalupe County, New Mexico","B01003_001",4381,NA
+"35021","Harding County, New Mexico","B01003_001",741,171
+"35023","Hidalgo County, New Mexico","B01003_001",4041,NA
+"35025","Lea County, New Mexico","B01003_001",73733,NA
+"35027","Lincoln County, New Mexico","B01003_001",20224,NA
+"35028","Los Alamos County, New Mexico","B01003_001",19435,NA
+"35029","Luna County, New Mexico","B01003_001",25611,NA
+"35031","McKinley County, New Mexico","B01003_001",70431,NA
+"35033","Mora County, New Mexico","B01003_001",4149,NA
+"35035","Otero County, New Mexico","B01003_001",68816,NA
+"35037","Quay County, New Mexico","B01003_001",8564,NA
+"35039","Rio Arriba County, New Mexico","B01003_001",40070,NA
+"35041","Roosevelt County, New Mexico","B01003_001",18928,NA
+"35043","Sandoval County, New Mexico","B01003_001",153604,NA
+"35045","San Juan County, New Mexico","B01003_001",120942,NA
+"35047","San Miguel County, New Mexico","B01003_001",26850,NA
+"35049","Santa Fe County, New Mexico","B01003_001",156105,NA
+"35051","Sierra County, New Mexico","B01003_001",11500,NA
+"35053","Socorro County, New Mexico","B01003_001",16200,NA
+"35055","Taos County, New Mexico","B01003_001",34543,NA
+"35057","Torrance County, New Mexico","B01003_001",15490,NA
+"35059","Union County, New Mexico","B01003_001",4013,NA
+"35061","Valencia County, New Mexico","B01003_001",78458,NA
+"36001","Albany County, New York","B01003_001",317018,NA
+"36003","Allegany County, New York","B01003_001",47159,NA
+"36005","Bronx County, New York","B01003_001",1404779,NA
+"36007","Broome County, New York","B01003_001",197378,NA
+"36009","Cattaraugus County, New York","B01003_001",76145,NA
+"36011","Cayuga County, New York","B01003_001",75102,NA
+"36013","Chautauqua County, New York","B01003_001",125544,NA
+"36015","Chemung County, New York","B01003_001",82147,NA
+"36017","Chenango County, New York","B01003_001",46321,NA
+"36019","Clinton County, New York","B01003_001",78493,NA
+"36021","Columbia County, New York","B01003_001",61100,NA
+"36023","Cortland County, New York","B01003_001",46246,NA
+"36025","Delaware County, New York","B01003_001",44487,NA
+"36027","Dutchess County, New York","B01003_001",298220,NA
+"36029","Erie County, New York","B01003_001",950622,NA
+"36031","Essex County, New York","B01003_001",36973,NA
+"36033","Franklin County, New York","B01003_001",46696,NA
+"36035","Fulton County, New York","B01003_001",52487,NA
+"36037","Genesee County, New York","B01003_001",57787,NA
+"36039","Greene County, New York","B01003_001",47409,NA
+"36041","Hamilton County, New York","B01003_001",5089,NA
+"36043","Herkimer County, New York","B01003_001",59757,NA
+"36045","Jefferson County, New York","B01003_001",115040,NA
+"36047","Kings County, New York","B01003_001",2631580,NA
+"36049","Lewis County, New York","B01003_001",26607,NA
+"36051","Livingston County, New York","B01003_001",61498,NA
+"36053","Madison County, New York","B01003_001",67328,NA
+"36055","Monroe County, New York","B01003_001",753753,NA
+"36057","Montgomery County, New York","B01003_001",49528,NA
+"36059","Nassau County, New York","B01003_001",1389591,NA
+"36061","New York County, New York","B01003_001",1629477,NA
+"36063","Niagara County, New York","B01003_001",210721,NA
+"36065","Oneida County, New York","B01003_001",229124,NA
+"36067","Onondaga County, New York","B01003_001",471129,NA
+"36069","Ontario County, New York","B01003_001",112625,NA
+"36071","Orange County, New York","B01003_001",406616,NA
+"36073","Orleans County, New York","B01003_001",39608,NA
+"36075","Oswego County, New York","B01003_001",117953,NA
+"36077","Otsego County, New York","B01003_001",60108,NA
+"36079","Putnam County, New York","B01003_001",98107,NA
+"36081","Queens County, New York","B01003_001",2323052,NA
+"36083","Rensselaer County, New York","B01003_001",160332,NA
+"36085","Richmond County, New York","B01003_001",494956,NA
+"36087","Rockland County, New York","B01003_001",341883,NA
+"36089","St. Lawrence County, New York","B01003_001",107226,NA
+"36091","Saratoga County, New York","B01003_001",238284,NA
+"36093","Schenectady County, New York","B01003_001",160369,NA
+"36095","Schoharie County, New York","B01003_001",30049,NA
+"36097","Schuyler County, New York","B01003_001",17562,NA
+"36099","Seneca County, New York","B01003_001",32920,NA
+"36101","Steuben County, New York","B01003_001",92588,NA
+"36103","Suffolk County, New York","B01003_001",1530146,NA
+"36105","Sullivan County, New York","B01003_001",79721,NA
+"36107","Tioga County, New York","B01003_001",47864,NA
+"36109","Tompkins County, New York","B01003_001",104537,NA
+"36111","Ulster County, New York","B01003_001",182601,NA
+"36113","Warren County, New York","B01003_001",65517,NA
+"36115","Washington County, New York","B01003_001",60522,NA
+"36117","Wayne County, New York","B01003_001",90929,NA
+"36119","Westchester County, New York","B01003_001",999677,NA
+"36121","Wyoming County, New York","B01003_001",39753,NA
+"36123","Yates County, New York","B01003_001",24526,NA
+"37001","Alamance County, North Carolina","B01003_001",176893,NA
+"37003","Alexander County, North Carolina","B01003_001",36412,NA
+"37005","Alleghany County, North Carolina","B01003_001",11174,NA
+"37007","Anson County, North Carolina","B01003_001",22289,NA
+"37009","Ashe County, North Carolina","B01003_001",26950,NA
+"37011","Avery County, North Carolina","B01003_001",17680,NA
+"37013","Beaufort County, North Carolina","B01003_001",44499,NA
+"37015","Bertie County, North Carolina","B01003_001",17170,NA
+"37017","Bladen County, North Carolina","B01003_001",29566,NA
+"37019","Brunswick County, North Carolina","B01003_001",152568,NA
+"37021","Buncombe County, North Carolina","B01003_001",274360,NA
+"37023","Burke County, North Carolina","B01003_001",87795,NA
+"37025","Cabarrus County, North Carolina","B01003_001",236133,NA
+"37027","Caldwell County, North Carolina","B01003_001",80536,NA
+"37029","Camden County, North Carolina","B01003_001",10927,NA
+"37031","Carteret County, North Carolina","B01003_001",69148,NA
+"37033","Caswell County, North Carolina","B01003_001",22404,NA
+"37035","Catawba County, North Carolina","B01003_001",163573,NA
+"37037","Chatham County, North Carolina","B01003_001",80151,NA
+"37039","Cherokee County, North Carolina","B01003_001",29562,NA
+"37041","Chowan County, North Carolina","B01003_001",13836,NA
+"37043","Clay County, North Carolina","B01003_001",11610,NA
+"37045","Cleveland County, North Carolina","B01003_001",100991,NA
+"37047","Columbus County, North Carolina","B01003_001",50140,NA
+"37049","Craven County, North Carolina","B01003_001",102612,NA
+"37051","Cumberland County, North Carolina","B01003_001",338545,NA
+"37053","Currituck County, North Carolina","B01003_001",30601,NA
+"37055","Dare County, North Carolina","B01003_001",37875,NA
+"37057","Davidson County, North Carolina","B01003_001",172954,NA
+"37059","Davie County, North Carolina","B01003_001",44122,NA
+"37061","Duplin County, North Carolina","B01003_001",49335,NA
+"37063","Durham County, North Carolina","B01003_001",332353,NA
+"37065","Edgecombe County, North Carolina","B01003_001",48736,NA
+"37067","Forsyth County, North Carolina","B01003_001",389977,NA
+"37069","Franklin County, North Carolina","B01003_001",74386,NA
+"37071","Gaston County, North Carolina","B01003_001",234881,NA
+"37073","Gates County, North Carolina","B01003_001",10376,NA
+"37075","Graham County, North Carolina","B01003_001",8072,NA
+"37077","Granville County, North Carolina","B01003_001",60877,NA
+"37079","Greene County, North Carolina","B01003_001",20486,NA
+"37081","Guilford County, North Carolina","B01003_001",547940,NA
+"37083","Halifax County, North Carolina","B01003_001",47675,NA
+"37085","Harnett County, North Carolina","B01003_001",139150,NA
+"37087","Haywood County, North Carolina","B01003_001",62662,NA
+"37089","Henderson County, North Carolina","B01003_001",118484,NA
+"37091","Hertford County, North Carolina","B01003_001",19908,NA
+"37093","Hoke County, North Carolina","B01003_001",53835,NA
+"37095","Hyde County, North Carolina","B01003_001",4592,NA
+"37097","Iredell County, North Carolina","B01003_001",196544,NA
+"37099","Jackson County, North Carolina","B01003_001",43771,NA
+"37101","Johnston County, North Carolina","B01003_001",234263,NA
+"37103","Jones County, North Carolina","B01003_001",9302,NA
+"37105","Lee County, North Carolina","B01003_001",65816,NA
+"37107","Lenoir County, North Carolina","B01003_001",54919,NA
+"37109","Lincoln County, North Carolina","B01003_001",92716,NA
+"37111","McDowell County, North Carolina","B01003_001",44817,NA
+"37113","Macon County, North Carolina","B01003_001",37941,NA
+"37115","Madison County, North Carolina","B01003_001",21867,NA
+"37117","Martin County, North Carolina","B01003_001",21644,NA
+"37119","Mecklenburg County, North Carolina","B01003_001",1154681,NA
+"37121","Mitchell County, North Carolina","B01003_001",14992,NA
+"37123","Montgomery County, North Carolina","B01003_001",26007,NA
+"37125","Moore County, North Carolina","B01003_001",104876,NA
+"37127","Nash County, North Carolina","B01003_001",96216,NA
+"37129","New Hanover County, North Carolina","B01003_001",235229,NA
+"37131","Northampton County, North Carolina","B01003_001",16931,NA
+"37133","Onslow County, North Carolina","B01003_001",207906,NA
+"37135","Orange County, North Carolina","B01003_001",149678,NA
+"37137","Pamlico County, North Carolina","B01003_001",12390,NA
+"37139","Pasquotank County, North Carolina","B01003_001",40834,NA
+"37141","Pender County, North Carolina","B01003_001",65550,NA
+"37143","Perquimans County, North Carolina","B01003_001",13244,NA
+"37145","Person County, North Carolina","B01003_001",39542,NA
+"37147","Pitt County, North Carolina","B01003_001",177193,NA
+"37149","Polk County, North Carolina","B01003_001",19891,NA
+"37151","Randolph County, North Carolina","B01003_001",146348,NA
+"37153","Richmond County, North Carolina","B01003_001",42344,NA
+"37155","Robeson County, North Carolina","B01003_001",116902,NA
+"37157","Rockingham County, North Carolina","B01003_001",92131,NA
+"37159","Rowan County, North Carolina","B01003_001",149875,NA
+"37161","Rutherford County, North Carolina","B01003_001",64930,NA
+"37163","Sampson County, North Carolina","B01003_001",59470,NA
+"37165","Scotland County, North Carolina","B01003_001",33590,NA
+"37167","Stanly County, North Carolina","B01003_001",64651,NA
+"37169","Stokes County, North Carolina","B01003_001",45139,NA
+"37171","Surry County, North Carolina","B01003_001",71425,NA
+"37173","Swain County, North Carolina","B01003_001",14013,NA
+"37175","Transylvania County, North Carolina","B01003_001",33691,NA
+"37177","Tyrrell County, North Carolina","B01003_001",3423,NA
+"37179","Union County, North Carolina","B01003_001",250958,NA
+"37181","Vance County, North Carolina","B01003_001",42322,NA
+"37183","Wake County, North Carolina","B01003_001",1178653,NA
+"37185","Warren County, North Carolina","B01003_001",18795,NA
+"37187","Washington County, North Carolina","B01003_001",10812,NA
+"37189","Watauga County, North Carolina","B01003_001",55123,NA
+"37191","Wayne County, North Carolina","B01003_001",118652,NA
+"37193","Wilkes County, North Carolina","B01003_001",65935,NA
+"37195","Wilson County, North Carolina","B01003_001",79290,NA
+"37197","Yadkin County, North Carolina","B01003_001",37574,NA
+"37199","Yancey County, North Carolina","B01003_001",18797,NA
+"38001","Adams County, North Dakota","B01003_001",2145,NA
+"38003","Barnes County, North Dakota","B01003_001",10773,NA
+"38005","Benson County, North Dakota","B01003_001",5808,NA
+"38007","Billings County, North Dakota","B01003_001",1024,98
+"38009","Bottineau County, North Dakota","B01003_001",6378,NA
+"38011","Bowman County, North Dakota","B01003_001",2906,NA
+"38013","Burke County, North Dakota","B01003_001",2156,NA
+"38015","Burleigh County, North Dakota","B01003_001",100600,NA
+"38017","Cass County, North Dakota","B01003_001",193400,NA
+"38019","Cavalier County, North Dakota","B01003_001",3633,NA
+"38021","Dickey County, North Dakota","B01003_001",4935,NA
+"38023","Divide County, North Dakota","B01003_001",2167,NA
+"38025","Dunn County, North Dakota","B01003_001",4040,NA
+"38027","Eddy County, North Dakota","B01003_001",2307,NA
+"38029","Emmons County, North Dakota","B01003_001",3254,NA
+"38031","Foster County, North Dakota","B01003_001",3358,NA
+"38033","Golden Valley County, North Dakota","B01003_001",1653,109
+"38035","Grand Forks County, North Dakota","B01003_001",72923,NA
+"38037","Grant County, North Dakota","B01003_001",2269,NA
+"38039","Griggs County, North Dakota","B01003_001",2245,110
+"38041","Hettinger County, North Dakota","B01003_001",2432,NA
+"38043","Kidder County, North Dakota","B01003_001",2377,NA
+"38045","LaMoure County, North Dakota","B01003_001",4118,117
+"38047","Logan County, North Dakota","B01003_001",1819,117
+"38049","McHenry County, North Dakota","B01003_001",5207,NA
+"38051","McIntosh County, North Dakota","B01003_001",2497,NA
+"38053","McKenzie County, North Dakota","B01003_001",14321,NA
+"38055","McLean County, North Dakota","B01003_001",9823,NA
+"38057","Mercer County, North Dakota","B01003_001",8337,NA
+"38059","Morton County, North Dakota","B01003_001",33777,NA
+"38061","Mountrail County, North Dakota","B01003_001",9507,NA
+"38063","Nelson County, North Dakota","B01003_001",3016,NA
+"38065","Oliver County, North Dakota","B01003_001",1839,107
+"38067","Pembina County, North Dakota","B01003_001",6727,NA
+"38069","Pierce County, North Dakota","B01003_001",3928,NA
+"38071","Ramsey County, North Dakota","B01003_001",11556,NA
+"38073","Ransom County, North Dakota","B01003_001",5643,NA
+"38075","Renville County, North Dakota","B01003_001",2304,NA
+"38077","Richland County, North Dakota","B01003_001",16584,NA
+"38079","Rolette County, North Dakota","B01003_001",11924,NA
+"38081","Sargent County, North Dakota","B01003_001",3804,NA
+"38083","Sheridan County, North Dakota","B01003_001",1303,107
+"38085","Sioux County, North Dakota","B01003_001",3740,NA
+"38087","Slope County, North Dakota","B01003_001",766,83
+"38089","Stark County, North Dakota","B01003_001",33302,NA
+"38091","Steele County, North Dakota","B01003_001",1804,110
+"38093","Stutsman County, North Dakota","B01003_001",21549,NA
+"38095","Towner County, North Dakota","B01003_001",2079,NA
+"38097","Traill County, North Dakota","B01003_001",7970,NA
+"38099","Walsh County, North Dakota","B01003_001",10396,NA
+"38101","Ward County, North Dakota","B01003_001",68973,NA
+"38103","Wells County, North Dakota","B01003_001",3890,NA
+"38105","Williams County, North Dakota","B01003_001",39555,NA
+"39001","Adams County, Ohio","B01003_001",27540,NA
+"39003","Allen County, Ohio","B01003_001",101348,NA
+"39005","Ashland County, Ohio","B01003_001",52256,NA
+"39007","Ashtabula County, Ohio","B01003_001",97167,NA
+"39009","Athens County, Ohio","B01003_001",61737,NA
+"39011","Auglaize County, Ohio","B01003_001",46125,NA
+"39013","Belmont County, Ohio","B01003_001",65473,NA
+"39015","Brown County, Ohio","B01003_001",43845,NA
+"39017","Butler County, Ohio","B01003_001",392876,NA
+"39019","Carroll County, Ohio","B01003_001",26659,NA
+"39021","Champaign County, Ohio","B01003_001",38804,NA
+"39023","Clark County, Ohio","B01003_001",135158,NA
+"39025","Clermont County, Ohio","B01003_001",211181,NA
+"39027","Clinton County, Ohio","B01003_001",42012,NA
+"39029","Columbiana County, Ohio","B01003_001",100704,NA
+"39031","Coshocton County, Ohio","B01003_001",36744,NA
+"39033","Crawford County, Ohio","B01003_001",41711,NA
+"39035","Cuyahoga County, Ohio","B01003_001",1245873,NA
+"39037","Darke County, Ohio","B01003_001",51594,NA
+"39039","Defiance County, Ohio","B01003_001",38343,NA
+"39041","Delaware County, Ohio","B01003_001",226834,NA
+"39043","Erie County, Ohio","B01003_001",74581,NA
+"39045","Fairfield County, Ohio","B01003_001",163453,NA
+"39047","Fayette County, Ohio","B01003_001",28876,NA
+"39049","Franklin County, Ohio","B01003_001",1333048,NA
+"39051","Fulton County, Ohio","B01003_001",42240,NA
+"39053","Gallia County, Ohio","B01003_001",29068,NA
+"39055","Geauga County, Ohio","B01003_001",95481,NA
+"39057","Greene County, Ohio","B01003_001",169688,NA
+"39059","Guernsey County, Ohio","B01003_001",38223,NA
+"39061","Hamilton County, Ohio","B01003_001",830774,NA
+"39063","Hancock County, Ohio","B01003_001",74866,NA
+"39065","Hardin County, Ohio","B01003_001",30475,NA
+"39067","Harrison County, Ohio","B01003_001",14306,NA
+"39069","Henry County, Ohio","B01003_001",27567,NA
+"39071","Highland County, Ohio","B01003_001",43517,NA
+"39073","Hocking County, Ohio","B01003_001",27799,NA
+"39075","Holmes County, Ohio","B01003_001",44418,NA
+"39077","Huron County, Ohio","B01003_001",58319,NA
+"39079","Jackson County, Ohio","B01003_001",32650,NA
+"39081","Jefferson County, Ohio","B01003_001",64518,NA
+"39083","Knox County, Ohio","B01003_001",63142,NA
+"39085","Lake County, Ohio","B01003_001",232216,NA
+"39087","Lawrence County, Ohio","B01003_001",56819,NA
+"39089","Licking County, Ohio","B01003_001",181837,NA
+"39091","Logan County, Ohio","B01003_001",46089,NA
+"39093","Lorain County, Ohio","B01003_001",317129,NA
+"39095","Lucas County, Ohio","B01003_001",428018,NA
+"39097","Madison County, Ohio","B01003_001",44423,NA
+"39099","Mahoning County, Ohio","B01003_001",226491,NA
+"39101","Marion County, Ohio","B01003_001",65020,NA
+"39103","Medina County, Ohio","B01003_001",183660,NA
+"39105","Meigs County, Ohio","B01003_001",21896,NA
+"39107","Mercer County, Ohio","B01003_001",42484,NA
+"39109","Miami County, Ohio","B01003_001",110296,NA
+"39111","Monroe County, Ohio","B01003_001",13227,NA
+"39113","Montgomery County, Ohio","B01003_001",536096,NA
+"39115","Morgan County, Ohio","B01003_001",13651,NA
+"39117","Morrow County, Ohio","B01003_001",35404,NA
+"39119","Muskingum County, Ohio","B01003_001",86411,NA
+"39121","Noble County, Ohio","B01003_001",14282,NA
+"39123","Ottawa County, Ohio","B01003_001",39994,NA
+"39125","Paulding County, Ohio","B01003_001",18791,NA
+"39127","Perry County, Ohio","B01003_001",35535,NA
+"39129","Pickaway County, Ohio","B01003_001",60131,NA
+"39131","Pike County, Ohio","B01003_001",27044,NA
+"39133","Portage County, Ohio","B01003_001",161956,NA
+"39135","Preble County, Ohio","B01003_001",40765,NA
+"39137","Putnam County, Ohio","B01003_001",34314,NA
+"39139","Richland County, Ohio","B01003_001",125099,NA
+"39141","Ross County, Ohio","B01003_001",76492,NA
+"39143","Sandusky County, Ohio","B01003_001",58778,NA
+"39145","Scioto County, Ohio","B01003_001",72627,NA
+"39147","Seneca County, Ohio","B01003_001",54770,NA
+"39149","Shelby County, Ohio","B01003_001",47929,NA
+"39151","Stark County, Ohio","B01003_001",373713,NA
+"39153","Summit County, Ohio","B01003_001",537864,NA
+"39155","Trumbull County, Ohio","B01003_001",200929,NA
+"39157","Tuscarawas County, Ohio","B01003_001",92385,NA
+"39159","Union County, Ohio","B01003_001",67324,NA
+"39161","Van Wert County, Ohio","B01003_001",28826,NA
+"39163","Vinton County, Ohio","B01003_001",12630,NA
+"39165","Warren County, Ohio","B01003_001",250008,NA
+"39167","Washington County, Ohio","B01003_001",58978,NA
+"39169","Wayne County, Ohio","B01003_001",116588,NA
+"39171","Williams County, Ohio","B01003_001",36719,NA
+"39173","Wood County, Ohio","B01003_001",132064,NA
+"39175","Wyandot County, Ohio","B01003_001",21598,NA
+"40001","Adair County, Oklahoma","B01003_001",19575,NA
+"40003","Alfalfa County, Oklahoma","B01003_001",5696,NA
+"40005","Atoka County, Oklahoma","B01003_001",14379,NA
+"40007","Beaver County, Oklahoma","B01003_001",5028,NA
+"40009","Beckham County, Oklahoma","B01003_001",22148,NA
+"40011","Blaine County, Oklahoma","B01003_001",8570,NA
+"40013","Bryan County, Oklahoma","B01003_001",48253,NA
+"40015","Caddo County, Oklahoma","B01003_001",26447,NA
+"40017","Canadian County, Oklahoma","B01003_001",168985,NA
+"40019","Carter County, Oklahoma","B01003_001",48555,NA
+"40021","Cherokee County, Oklahoma","B01003_001",47942,NA
+"40023","Choctaw County, Oklahoma","B01003_001",14297,NA
+"40025","Cimarron County, Oklahoma","B01003_001",2218,NA
+"40027","Cleveland County, Oklahoma","B01003_001",300047,NA
+"40029","Coal County, Oklahoma","B01003_001",5320,NA
+"40031","Comanche County, Oklahoma","B01003_001",121825,NA
+"40033","Cotton County, Oklahoma","B01003_001",5485,NA
+"40035","Craig County, Oklahoma","B01003_001",14302,NA
+"40037","Creek County, Oklahoma","B01003_001",72830,NA
+"40039","Custer County, Oklahoma","B01003_001",28259,NA
+"40041","Delaware County, Oklahoma","B01003_001",41279,NA
+"40043","Dewey County, Oklahoma","B01003_001",4360,NA
+"40045","Ellis County, Oklahoma","B01003_001",3683,NA
+"40047","Garfield County, Oklahoma","B01003_001",62146,NA
+"40049","Garvin County, Oklahoma","B01003_001",25860,NA
+"40051","Grady County, Oklahoma","B01003_001",56606,NA
+"40053","Grant County, Oklahoma","B01003_001",4131,NA
+"40055","Greer County, Oklahoma","B01003_001",5489,NA
+"40057","Harmon County, Oklahoma","B01003_001",2406,NA
+"40059","Harper County, Oklahoma","B01003_001",3203,NA
+"40061","Haskell County, Oklahoma","B01003_001",11683,NA
+"40063","Hughes County, Oklahoma","B01003_001",13389,NA
+"40065","Jackson County, Oklahoma","B01003_001",24678,NA
+"40067","Jefferson County, Oklahoma","B01003_001",5380,NA
+"40069","Johnston County, Oklahoma","B01003_001",10278,NA
+"40071","Kay County, Oklahoma","B01003_001",43625,NA
+"40073","Kingfisher County, Oklahoma","B01003_001",15430,NA
+"40075","Kiowa County, Oklahoma","B01003_001",8383,NA
+"40077","Latimer County, Oklahoma","B01003_001",9518,NA
+"40079","Le Flore County, Oklahoma","B01003_001",49053,NA
+"40081","Lincoln County, Oklahoma","B01003_001",34219,NA
+"40083","Logan County, Oklahoma","B01003_001",51938,NA
+"40085","Love County, Oklahoma","B01003_001",10261,NA
+"40087","McClain County, Oklahoma","B01003_001",45273,NA
+"40089","McCurtain County, Oklahoma","B01003_001",30863,NA
+"40091","McIntosh County, Oklahoma","B01003_001",19400,NA
+"40093","Major County, Oklahoma","B01003_001",7628,NA
+"40095","Marshall County, Oklahoma","B01003_001",15792,NA
+"40097","Mayes County, Oklahoma","B01003_001",39604,NA
+"40099","Murray County, Oklahoma","B01003_001",13753,NA
+"40101","Muskogee County, Oklahoma","B01003_001",66444,NA
+"40103","Noble County, Oklahoma","B01003_001",10897,NA
+"40105","Nowata County, Oklahoma","B01003_001",9435,NA
+"40107","Okfuskee County, Oklahoma","B01003_001",11278,NA
+"40109","Oklahoma County, Oklahoma","B01003_001",806199,NA
+"40111","Okmulgee County, Oklahoma","B01003_001",36899,NA
+"40113","Osage County, Oklahoma","B01003_001",45997,NA
+"40115","Ottawa County, Oklahoma","B01003_001",30341,NA
+"40117","Pawnee County, Oklahoma","B01003_001",15795,NA
+"40119","Payne County, Oklahoma","B01003_001",82972,NA
+"40121","Pittsburg County, Oklahoma","B01003_001",43561,NA
+"40123","Pontotoc County, Oklahoma","B01003_001",38235,NA
+"40125","Pottawatomie County, Oklahoma","B01003_001",73463,NA
+"40127","Pushmataha County, Oklahoma","B01003_001",10790,NA
+"40129","Roger Mills County, Oklahoma","B01003_001",3359,NA
+"40131","Rogers County, Oklahoma","B01003_001",98610,NA
+"40133","Seminole County, Oklahoma","B01003_001",23494,NA
+"40135","Sequoyah County, Oklahoma","B01003_001",39860,NA
+"40137","Stephens County, Oklahoma","B01003_001",43551,NA
+"40139","Texas County, Oklahoma","B01003_001",20774,NA
+"40141","Tillman County, Oklahoma","B01003_001",6910,NA
+"40143","Tulsa County, Oklahoma","B01003_001",680794,NA
+"40145","Wagoner County, Oklahoma","B01003_001",86609,NA
+"40147","Washington County, Oklahoma","B01003_001",53326,NA
+"40149","Washita County, Oklahoma","B01003_001",10815,NA
+"40151","Woods County, Oklahoma","B01003_001",8596,NA
+"40153","Woodward County, Oklahoma","B01003_001",20158,NA
+"41001","Baker County, Oregon","B01003_001",16840,NA
+"41003","Benton County, Oregon","B01003_001",96303,NA
+"41005","Clackamas County, Oregon","B01003_001",423975,NA
+"41007","Clatsop County, Oregon","B01003_001",41363,NA
+"41009","Columbia County, Oregon","B01003_001",53493,NA
+"41011","Coos County, Oregon","B01003_001",64827,NA
+"41013","Crook County, Oregon","B01003_001",26277,NA
+"41015","Curry County, Oregon","B01003_001",23381,NA
+"41017","Deschutes County, Oregon","B01003_001",206334,NA
+"41019","Douglas County, Oregon","B01003_001",112072,NA
+"41021","Gilliam County, Oregon","B01003_001",1971,152
+"41023","Grant County, Oregon","B01003_001",7209,NA
+"41025","Harney County, Oregon","B01003_001",7499,NA
+"41027","Hood River County, Oregon","B01003_001",23905,NA
+"41029","Jackson County, Oregon","B01003_001",222645,NA
+"41031","Jefferson County, Oregon","B01003_001",25203,NA
+"41033","Josephine County, Oregon","B01003_001",88179,NA
+"41035","Klamath County, Oregon","B01003_001",70247,NA
+"41037","Lake County, Oregon","B01003_001",8267,NA
+"41039","Lane County, Oregon","B01003_001",384207,NA
+"41041","Lincoln County, Oregon","B01003_001",50964,NA
+"41043","Linn County, Oregon","B01003_001",130706,NA
+"41045","Malheur County, Oregon","B01003_001",31954,NA
+"41047","Marion County, Oregon","B01003_001",349244,NA
+"41049","Morrow County, Oregon","B01003_001",12300,NA
+"41051","Multnomah County, Oregon","B01003_001",801477,NA
+"41053","Polk County, Oregon","B01003_001",89662,NA
+"41055","Sherman County, Oregon","B01003_001",1938,NA
+"41057","Tillamook County, Oregon","B01003_001",27496,NA
+"41059","Umatilla County, Oregon","B01003_001",79940,NA
+"41061","Union County, Oregon","B01003_001",26144,NA
+"41063","Wallowa County, Oregon","B01003_001",7553,NA
+"41065","Wasco County, Oregon","B01003_001",26552,NA
+"41067","Washington County, Oregon","B01003_001",603947,NA
+"41069","Wheeler County, Oregon","B01003_001",1485,152
+"41071","Yamhill County, Oregon","B01003_001",108734,NA
+"42001","Adams County, Pennsylvania","B01003_001",106115,NA
+"42003","Allegheny County, Pennsylvania","B01003_001",1238177,NA
+"42005","Armstrong County, Pennsylvania","B01003_001",64622,NA
+"42007","Beaver County, Pennsylvania","B01003_001",166324,NA
+"42009","Bedford County, Pennsylvania","B01003_001",47513,NA
+"42011","Berks County, Pennsylvania","B01003_001",433015,NA
+"42013","Blair County, Pennsylvania","B01003_001",121277,NA
+"42015","Bradford County, Pennsylvania","B01003_001",59858,NA
+"42017","Bucks County, Pennsylvania","B01003_001",647461,NA
+"42019","Butler County, Pennsylvania","B01003_001",197254,NA
+"42021","Cambria County, Pennsylvania","B01003_001",131538,NA
+"42023","Cameron County, Pennsylvania","B01003_001",4427,NA
+"42025","Carbon County, Pennsylvania","B01003_001",65382,NA
+"42027","Centre County, Pennsylvania","B01003_001",158576,NA
+"42029","Chester County, Pennsylvania","B01003_001",547840,NA
+"42031","Clarion County, Pennsylvania","B01003_001",37179,NA
+"42033","Clearfield County, Pennsylvania","B01003_001",78635,NA
+"42035","Clinton County, Pennsylvania","B01003_001",37798,NA
+"42037","Columbia County, Pennsylvania","B01003_001",65362,NA
+"42039","Crawford County, Pennsylvania","B01003_001",82716,NA
+"42041","Cumberland County, Pennsylvania","B01003_001",268323,NA
+"42043","Dauphin County, Pennsylvania","B01003_001",289593,NA
+"42045","Delaware County, Pennsylvania","B01003_001",579222,NA
+"42047","Elk County, Pennsylvania","B01003_001",30506,NA
+"42049","Erie County, Pennsylvania","B01003_001",269052,NA
+"42051","Fayette County, Pennsylvania","B01003_001",125997,NA
+"42053","Forest County, Pennsylvania","B01003_001",6715,NA
+"42055","Franklin County, Pennsylvania","B01003_001",157379,NA
+"42057","Fulton County, Pennsylvania","B01003_001",14531,NA
+"42059","Greene County, Pennsylvania","B01003_001",34835,NA
+"42061","Huntingdon County, Pennsylvania","B01003_001",43653,NA
+"42063","Indiana County, Pennsylvania","B01003_001",83042,NA
+"42065","Jefferson County, Pennsylvania","B01003_001",43864,NA
+"42067","Juniata County, Pennsylvania","B01003_001",23379,NA
+"42069","Lackawanna County, Pennsylvania","B01003_001",216146,NA
+"42071","Lancaster County, Pennsylvania","B01003_001",557931,NA
+"42073","Lawrence County, Pennsylvania","B01003_001",85024,NA
+"42075","Lebanon County, Pennsylvania","B01003_001",144186,NA
+"42077","Lehigh County, Pennsylvania","B01003_001",378792,NA
+"42079","Luzerne County, Pennsylvania","B01003_001",327675,NA
+"42081","Lycoming County, Pennsylvania","B01003_001",113489,NA
+"42083","McKean County, Pennsylvania","B01003_001",39904,NA
+"42085","Mercer County, Pennsylvania","B01003_001",109257,NA
+"42087","Mifflin County, Pennsylvania","B01003_001",46041,NA
+"42089","Monroe County, Pennsylvania","B01003_001",167515,NA
+"42091","Montgomery County, Pennsylvania","B01003_001",867573,NA
+"42093","Montour County, Pennsylvania","B01003_001",18103,NA
+"42095","Northampton County, Pennsylvania","B01003_001",318580,NA
+"42097","Northumberland County, Pennsylvania","B01003_001",90560,NA
+"42099","Perry County, Pennsylvania","B01003_001",46239,NA
+"42101","Philadelphia County, Pennsylvania","B01003_001",1579706,NA
+"42103","Pike County, Pennsylvania","B01003_001",60621,NA
+"42105","Potter County, Pennsylvania","B01003_001",16188,NA
+"42107","Schuylkill County, Pennsylvania","B01003_001",143558,NA
+"42109","Snyder County, Pennsylvania","B01003_001",39668,NA
+"42111","Somerset County, Pennsylvania","B01003_001",72799,NA
+"42113","Sullivan County, Pennsylvania","B01003_001",5888,NA
+"42115","Susquehanna County, Pennsylvania","B01003_001",38219,NA
+"42117","Tioga County, Pennsylvania","B01003_001",40945,NA
+"42119","Union County, Pennsylvania","B01003_001",42456,NA
+"42121","Venango County, Pennsylvania","B01003_001",49801,NA
+"42123","Warren County, Pennsylvania","B01003_001",37920,NA
+"42125","Washington County, Pennsylvania","B01003_001",210042,NA
+"42127","Wayne County, Pennsylvania","B01003_001",51262,NA
+"42129","Westmoreland County, Pennsylvania","B01003_001",352500,NA
+"42131","Wyoming County, Pennsylvania","B01003_001",25967,NA
+"42133","York County, Pennsylvania","B01003_001",462924,NA
+"44001","Bristol County, Rhode Island","B01003_001",50490,NA
+"44003","Kent County, Rhode Island","B01003_001",171456,NA
+"44005","Newport County, Rhode Island","B01003_001",84657,NA
+"44007","Providence County, Rhode Island","B01003_001",664854,NA
+"44009","Washington County, Rhode Island","B01003_001",130344,NA
+"45001","Abbeville County, South Carolina","B01003_001",24420,NA
+"45003","Aiken County, South Carolina","B01003_001",174160,NA
+"45005","Allendale County, South Carolina","B01003_001",7661,NA
+"45007","Anderson County, South Carolina","B01003_001",210478,NA
+"45009","Bamberg County, South Carolina","B01003_001",13042,NA
+"45011","Barnwell County, South Carolina","B01003_001",20521,NA
+"45013","Beaufort County, South Carolina","B01003_001",195289,NA
+"45015","Berkeley County, South Carolina","B01003_001",246802,NA
+"45017","Calhoun County, South Carolina","B01003_001",14182,NA
+"45019","Charleston County, South Carolina","B01003_001",420264,NA
+"45021","Cherokee County, South Carolina","B01003_001",56647,NA
+"45023","Chester County, South Carolina","B01003_001",32182,NA
+"45025","Chesterfield County, South Carolina","B01003_001",43784,NA
+"45027","Clarendon County, South Carolina","B01003_001",30986,NA
+"45029","Colleton County, South Carolina","B01003_001",38783,NA
+"45031","Darlington County, South Carolina","B01003_001",62558,NA
+"45033","Dillon County, South Carolina","B01003_001",27862,NA
+"45035","Dorchester County, South Carolina","B01003_001",167201,NA
+"45037","Edgefield County, South Carolina","B01003_001",27476,NA
+"45039","Fairfield County, South Carolina","B01003_001",20550,NA
+"45041","Florence County, South Carolina","B01003_001",137117,NA
+"45043","Georgetown County, South Carolina","B01003_001",64811,NA
+"45045","Greenville County, South Carolina","B01003_001",548166,NA
+"45047","Greenwood County, South Carolina","B01003_001",69489,NA
+"45049","Hampton County, South Carolina","B01003_001",18254,NA
+"45051","Horry County, South Carolina","B01003_001",383016,NA
+"45053","Jasper County, South Carolina","B01003_001",32166,NA
+"45055","Kershaw County, South Carolina","B01003_001",68314,NA
+"45057","Lancaster County, South Carolina","B01003_001",104475,NA
+"45059","Laurens County, South Carolina","B01003_001",68666,NA
+"45061","Lee County, South Carolina","B01003_001",16166,NA
+"45063","Lexington County, South Carolina","B01003_001",304887,NA
+"45065","McCormick County, South Carolina","B01003_001",9760,NA
+"45067","Marion County, South Carolina","B01003_001",28664,NA
+"45069","Marlboro County, South Carolina","B01003_001",25975,NA
+"45071","Newberry County, South Carolina","B01003_001",38435,NA
+"45073","Oconee County, South Carolina","B01003_001",80469,NA
+"45075","Orangeburg County, South Carolina","B01003_001",83253,NA
+"45077","Pickens County, South Carolina","B01003_001",134629,NA
+"45079","Richland County, South Carolina","B01003_001",422117,NA
+"45081","Saluda County, South Carolina","B01003_001",19131,NA
+"45083","Spartanburg County, South Carolina","B01003_001",347852,NA
+"45085","Sumter County, South Carolina","B01003_001",104725,NA
+"45087","Union County, South Carolina","B01003_001",26885,NA
+"45089","Williamsburg County, South Carolina","B01003_001",30282,NA
+"45091","York County, South Carolina","B01003_001",293673,NA
+"46003","Aurora County, South Dakota","B01003_001",2642,181
+"46005","Beadle County, South Dakota","B01003_001",19309,NA
+"46007","Bennett County, South Dakota","B01003_001",3345,NA
+"46009","Bon Homme County, South Dakota","B01003_001",7044,NA
+"46011","Brookings County, South Dakota","B01003_001",35353,NA
+"46013","Brown County, South Dakota","B01003_001",37877,NA
+"46015","Brule County, South Dakota","B01003_001",5283,NA
+"46017","Buffalo County, South Dakota","B01003_001",1808,210
+"46019","Butte County, South Dakota","B01003_001",10676,NA
+"46021","Campbell County, South Dakota","B01003_001",1593,132
+"46023","Charles Mix County, South Dakota","B01003_001",9281,NA
+"46025","Clark County, South Dakota","B01003_001",3917,NA
+"46027","Clay County, South Dakota","B01003_001",15219,NA
+"46029","Codington County, South Dakota","B01003_001",28767,NA
+"46031","Corson County, South Dakota","B01003_001",3806,NA
+"46033","Custer County, South Dakota","B01003_001",8892,NA
+"46035","Davison County, South Dakota","B01003_001",19952,NA
+"46037","Day County, South Dakota","B01003_001",5437,NA
+"46039","Deuel County, South Dakota","B01003_001",4328,NA
+"46041","Dewey County, South Dakota","B01003_001",5205,NA
+"46043","Douglas County, South Dakota","B01003_001",2828,NA
+"46045","Edmunds County, South Dakota","B01003_001",4048,NA
+"46047","Fall River County, South Dakota","B01003_001",7258,NA
+"46049","Faulk County, South Dakota","B01003_001",2126,NA
+"46051","Grant County, South Dakota","B01003_001",7563,NA
+"46053","Gregory County, South Dakota","B01003_001",4016,NA
+"46055","Haakon County, South Dakota","B01003_001",1722,131
+"46057","Hamlin County, South Dakota","B01003_001",6373,NA
+"46059","Hand County, South Dakota","B01003_001",3140,149
+"46061","Hanson County, South Dakota","B01003_001",3472,NA
+"46063","Harding County, South Dakota","B01003_001",1148,133
+"46065","Hughes County, South Dakota","B01003_001",17664,NA
+"46067","Hutchinson County, South Dakota","B01003_001",7404,NA
+"46069","Hyde County, South Dakota","B01003_001",1191,149
+"46071","Jackson County, South Dakota","B01003_001",2802,NA
+"46073","Jerauld County, South Dakota","B01003_001",1772,181
+"46075","Jones County, South Dakota","B01003_001",1004,131
+"46077","Kingsbury County, South Dakota","B01003_001",5244,NA
+"46079","Lake County, South Dakota","B01003_001",10972,NA
+"46081","Lawrence County, South Dakota","B01003_001",27233,NA
+"46083","Lincoln County, South Dakota","B01003_001",70638,NA
+"46085","Lyman County, South Dakota","B01003_001",3724,NA
+"46087","McCook County, South Dakota","B01003_001",5751,NA
+"46089","McPherson County, South Dakota","B01003_001",2145,132
+"46091","Marshall County, South Dakota","B01003_001",4344,NA
+"46093","Meade County, South Dakota","B01003_001",30546,NA
+"46095","Mellette County, South Dakota","B01003_001",1943,210
+"46097","Miner County, South Dakota","B01003_001",2300,NA
+"46099","Minnehaha County, South Dakota","B01003_001",203289,NA
+"46101","Moody County, South Dakota","B01003_001",6397,NA
+"46102","Oglala Lakota County, South Dakota","B01003_001",13491,NA
+"46103","Pennington County, South Dakota","B01003_001",113512,NA
+"46105","Perkins County, South Dakota","B01003_001",3001,133
+"46107","Potter County, South Dakota","B01003_001",2388,127
+"46109","Roberts County, South Dakota","B01003_001",10221,NA
+"46111","Sanborn County, South Dakota","B01003_001",2384,NA
+"46115","Spink County, South Dakota","B01003_001",6219,NA
+"46117","Stanley County, South Dakota","B01003_001",3015,NA
+"46119","Sully County, South Dakota","B01003_001",1526,127
+"46121","Todd County, South Dakota","B01003_001",9244,NA
+"46123","Tripp County, South Dakota","B01003_001",5611,NA
+"46125","Turner County, South Dakota","B01003_001",8882,NA
+"46127","Union County, South Dakota","B01003_001",17081,NA
+"46129","Walworth County, South Dakota","B01003_001",5271,NA
+"46135","Yankton County, South Dakota","B01003_001",23414,NA
+"46137","Ziebach County, South Dakota","B01003_001",2377,NA
+"47001","Anderson County, Tennessee","B01003_001",79153,NA
+"47003","Bedford County, Tennessee","B01003_001",52237,NA
+"47005","Benton County, Tennessee","B01003_001",16006,NA
+"47007","Bledsoe County, Tennessee","B01003_001",15032,NA
+"47009","Blount County, Tennessee","B01003_001",139333,NA
+"47011","Bradley County, Tennessee","B01003_001",111065,NA
+"47013","Campbell County, Tennessee","B01003_001",39761,NA
+"47015","Cannon County, Tennessee","B01003_001",14818,NA
+"47017","Carroll County, Tennessee","B01003_001",28641,NA
+"47019","Carter County, Tennessee","B01003_001",56712,NA
+"47021","Cheatham County, Tennessee","B01003_001",41829,NA
+"47023","Chester County, Tennessee","B01003_001",17611,NA
+"47025","Claiborne County, Tennessee","B01003_001",32466,NA
+"47027","Clay County, Tennessee","B01003_001",7670,NA
+"47029","Cocke County, Tennessee","B01003_001",36813,NA
+"47031","Coffee County, Tennessee","B01003_001",59710,NA
+"47033","Crockett County, Tennessee","B01003_001",13944,NA
+"47035","Cumberland County, Tennessee","B01003_001",63553,NA
+"47037","Davidson County, Tennessee","B01003_001",715388,NA
+"47039","Decatur County, Tennessee","B01003_001",11579,NA
+"47041","DeKalb County, Tennessee","B01003_001",20959,NA
+"47043","Dickson County, Tennessee","B01003_001",55983,NA
+"47045","Dyer County, Tennessee","B01003_001",36508,NA
+"47047","Fayette County, Tennessee","B01003_001",43267,NA
+"47049","Fentress County, Tennessee","B01003_001",19309,NA
+"47051","Franklin County, Tennessee","B01003_001",43990,NA
+"47053","Gibson County, Tennessee","B01003_001",50869,NA
+"47055","Giles County, Tennessee","B01003_001",30620,NA
+"47057","Grainger County, Tennessee","B01003_001",24266,NA
+"47059","Greene County, Tennessee","B01003_001",71628,NA
+"47061","Grundy County, Tennessee","B01003_001",13819,NA
+"47063","Hamblen County, Tennessee","B01003_001",65669,NA
+"47065","Hamilton County, Tennessee","B01003_001",376192,NA
+"47067","Hancock County, Tennessee","B01003_001",6852,NA
+"47069","Hardeman County, Tennessee","B01003_001",25433,NA
+"47071","Hardin County, Tennessee","B01003_001",27249,NA
+"47073","Hawkins County, Tennessee","B01003_001",57964,NA
+"47075","Haywood County, Tennessee","B01003_001",17475,NA
+"47077","Henderson County, Tennessee","B01003_001",27980,NA
+"47079","Henry County, Tennessee","B01003_001",32412,NA
+"47081","Hickman County, Tennessee","B01003_001",25436,NA
+"47083","Houston County, Tennessee","B01003_001",8353,NA
+"47085","Humphreys County, Tennessee","B01003_001",19214,NA
+"47087","Jackson County, Tennessee","B01003_001",12029,NA
+"47089","Jefferson County, Tennessee","B01003_001",56864,NA
+"47091","Johnson County, Tennessee","B01003_001",18196,NA
+"47093","Knox County, Tennessee","B01003_001",494148,NA
+"47095","Lake County, Tennessee","B01003_001",6579,NA
+"47097","Lauderdale County, Tennessee","B01003_001",24784,NA
+"47099","Lawrence County, Tennessee","B01003_001",45385,NA
+"47101","Lewis County, Tennessee","B01003_001",12992,NA
+"47103","Lincoln County, Tennessee","B01003_001",35946,NA
+"47105","Loudon County, Tennessee","B01003_001",58580,NA
+"47107","McMinn County, Tennessee","B01003_001",54884,NA
+"47109","McNairy County, Tennessee","B01003_001",25970,NA
+"47111","Macon County, Tennessee","B01003_001",26240,NA
+"47113","Madison County, Tennessee","B01003_001",99295,NA
+"47115","Marion County, Tennessee","B01003_001",29250,NA
+"47117","Marshall County, Tennessee","B01003_001",36049,NA
+"47119","Maury County, Tennessee","B01003_001",107791,NA
+"47121","Meigs County, Tennessee","B01003_001",13343,NA
+"47123","Monroe County, Tennessee","B01003_001",47695,NA
+"47125","Montgomery County, Tennessee","B01003_001",234153,NA
+"47127","Moore County, Tennessee","B01003_001",6674,NA
+"47129","Morgan County, Tennessee","B01003_001",21361,NA
+"47131","Obion County, Tennessee","B01003_001",30453,NA
+"47133","Overton County, Tennessee","B01003_001",23065,NA
+"47135","Perry County, Tennessee","B01003_001",8697,NA
+"47137","Pickett County, Tennessee","B01003_001",5079,NA
+"47139","Polk County, Tennessee","B01003_001",17898,NA
+"47141","Putnam County, Tennessee","B01003_001",82558,NA
+"47143","Rhea County, Tennessee","B01003_001",33992,NA
+"47145","Roane County, Tennessee","B01003_001",55208,NA
+"47147","Robertson County, Tennessee","B01003_001",75539,NA
+"47149","Rutherford County, Tennessee","B01003_001",360646,NA
+"47151","Scott County, Tennessee","B01003_001",22113,NA
+"47153","Sequatchie County, Tennessee","B01003_001",16809,NA
+"47155","Sevier County, Tennessee","B01003_001",99652,NA
+"47157","Shelby County, Tennessee","B01003_001",919173,NA
+"47159","Smith County, Tennessee","B01003_001",20389,NA
+"47161","Stewart County, Tennessee","B01003_001",14027,NA
+"47163","Sullivan County, Tennessee","B01003_001",160624,NA
+"47165","Sumner County, Tennessee","B01003_001",204424,NA
+"47167","Tipton County, Tennessee","B01003_001",61553,NA
+"47169","Trousdale County, Tennessee","B01003_001",11957,NA
+"47171","Unicoi County, Tennessee","B01003_001",17756,NA
+"47173","Union County, Tennessee","B01003_001",20431,NA
+"47175","Van Buren County, Tennessee","B01003_001",6437,NA
+"47177","Warren County, Tennessee","B01003_001",42166,NA
+"47179","Washington County, Tennessee","B01003_001",136261,NA
+"47181","Wayne County, Tennessee","B01003_001",16168,NA
+"47183","Weakley County, Tennessee","B01003_001",33016,NA
+"47185","White County, Tennessee","B01003_001",28160,NA
+"47187","Williamson County, Tennessee","B01003_001",260351,NA
+"47189","Wilson County, Tennessee","B01003_001",158805,NA
+"48001","Anderson County, Texas","B01003_001",58439,NA
+"48003","Andrews County, Texas","B01003_001",18610,NA
+"48005","Angelina County, Texas","B01003_001",87275,NA
+"48007","Aransas County, Texas","B01003_001",24876,NA
+"48009","Archer County, Texas","B01003_001",8867,NA
+"48011","Armstrong County, Texas","B01003_001",1822,126
+"48013","Atascosa County, Texas","B01003_001",51008,NA
+"48015","Austin County, Texas","B01003_001",31170,NA
+"48017","Bailey County, Texas","B01003_001",6913,341
+"48019","Bandera County, Texas","B01003_001",22021,NA
+"48021","Bastrop County, Texas","B01003_001",106582,NA
+"48023","Baylor County, Texas","B01003_001",3485,NA
+"48025","Bee County, Texas","B01003_001",31083,NA
+"48027","Bell County, Texas","B01003_001",386897,NA
+"48029","Bexar County, Texas","B01003_001",2067341,NA
+"48031","Blanco County, Texas","B01003_001",12446,NA
+"48033","Borden County, Texas","B01003_001",713,135
+"48035","Bosque County, Texas","B01003_001",18687,NA
+"48037","Bowie County, Texas","B01003_001",92115,NA
+"48039","Brazoria County, Texas","B01003_001",391255,NA
+"48041","Brazos County, Texas","B01003_001",242311,NA
+"48043","Brewster County, Texas","B01003_001",9503,NA
+"48045","Briscoe County, Texas","B01003_001",1301,136
+"48047","Brooks County, Texas","B01003_001",6943,NA
+"48049","Brown County, Texas","B01003_001",38347,NA
+"48051","Burleson County, Texas","B01003_001",18857,NA
+"48053","Burnet County, Texas","B01003_001",52652,NA
+"48055","Caldwell County, Texas","B01003_001",48669,NA
+"48057","Calhoun County, Texas","B01003_001",19868,NA
+"48059","Callahan County, Texas","B01003_001",14241,NA
+"48061","Cameron County, Texas","B01003_001",426120,NA
+"48063","Camp County, Texas","B01003_001",12798,NA
+"48065","Carson County, Texas","B01003_001",5801,NA
+"48067","Cass County, Texas","B01003_001",28568,NA
+"48069","Castro County, Texas","B01003_001",7344,NA
+"48071","Chambers County, Texas","B01003_001",51498,NA
+"48073","Cherokee County, Texas","B01003_001",51886,NA
+"48075","Childress County, Texas","B01003_001",6743,NA
+"48077","Clay County, Texas","B01003_001",10495,NA
+"48079","Cochran County, Texas","B01003_001",2550,NA
+"48081","Coke County, Texas","B01003_001",3353,NA
+"48083","Coleman County, Texas","B01003_001",7833,NA
+"48085","Collin County, Texas","B01003_001",1163337,NA
+"48087","Collingsworth County, Texas","B01003_001",2588,156
+"48089","Colorado County, Texas","B01003_001",21006,NA
+"48091","Comal County, Texas","B01003_001",183826,NA
+"48093","Comanche County, Texas","B01003_001",13950,NA
+"48095","Concho County, Texas","B01003_001",3328,NA
+"48097","Cooke County, Texas","B01003_001",43046,NA
+"48099","Coryell County, Texas","B01003_001",84748,NA
+"48101","Cottle County, Texas","B01003_001",1368,210
+"48103","Crane County, Texas","B01003_001",4610,NA
+"48105","Crockett County, Texas","B01003_001",2822,282
+"48107","Crosby County, Texas","B01003_001",5041,NA
+"48109","Culberson County, Texas","B01003_001",2195,NA
+"48111","Dallam County, Texas","B01003_001",7298,NA
+"48113","Dallas County, Texas","B01003_001",2621179,NA
+"48115","Dawson County, Texas","B01003_001",12134,NA
+"48117","Deaf Smith County, Texas","B01003_001",18460,NA
+"48119","Delta County, Texas","B01003_001",5438,NA
+"48121","Denton County, Texas","B01003_001",979561,NA
+"48123","DeWitt County, Texas","B01003_001",20016,NA
+"48125","Dickens County, Texas","B01003_001",1747,156
+"48127","Dimmit County, Texas","B01003_001",8380,NA
+"48129","Donley County, Texas","B01003_001",3257,NA
+"48131","Duval County, Texas","B01003_001",9742,NA
+"48133","Eastland County, Texas","B01003_001",18011,NA
+"48135","Ector County, Texas","B01003_001",164654,NA
+"48137","Edwards County, Texas","B01003_001",1290,280
+"48139","Ellis County, Texas","B01003_001",213160,NA
+"48141","El Paso County, Texas","B01003_001",870779,NA
+"48143","Erath County, Texas","B01003_001",43794,NA
+"48145","Falls County, Texas","B01003_001",17291,NA
+"48147","Fannin County, Texas","B01003_001",37326,NA
+"48149","Fayette County, Texas","B01003_001",25042,NA
+"48151","Fisher County, Texas","B01003_001",3655,NA
+"48153","Floyd County, Texas","B01003_001",5216,NA
+"48155","Foard County, Texas","B01003_001",991,172
+"48157","Fort Bend County, Texas","B01003_001",893767,NA
+"48159","Franklin County, Texas","B01003_001",10632,NA
+"48161","Freestone County, Texas","B01003_001",20049,NA
+"48163","Frio County, Texas","B01003_001",18582,NA
+"48165","Gaines County, Texas","B01003_001",22232,NA
+"48167","Galveston County, Texas","B01003_001",358990,NA
+"48169","Garza County, Texas","B01003_001",5118,210
+"48171","Gillespie County, Texas","B01003_001",27524,NA
+"48173","Glasscock County, Texas","B01003_001",1068,146
+"48175","Goliad County, Texas","B01003_001",7141,NA
+"48177","Gonzales County, Texas","B01003_001",19851,NA
+"48179","Gray County, Texas","B01003_001",21045,NA
+"48181","Grayson County, Texas","B01003_001",143337,NA
+"48183","Gregg County, Texas","B01003_001",125480,NA
+"48185","Grimes County, Texas","B01003_001",31340,NA
+"48187","Guadalupe County, Texas","B01003_001",183642,NA
+"48189","Hale County, Texas","B01003_001",32131,NA
+"48191","Hall County, Texas","B01003_001",2820,NA
+"48193","Hamilton County, Texas","B01003_001",8406,NA
+"48195","Hansford County, Texas","B01003_001",5119,NA
+"48197","Hardeman County, Texas","B01003_001",3501,NA
+"48199","Hardin County, Texas","B01003_001",57642,NA
+"48201","Harris County, Texas","B01003_001",4838303,NA
+"48203","Harrison County, Texas","B01003_001",70155,NA
+"48205","Hartley County, Texas","B01003_001",5215,NA
+"48207","Haskell County, Texas","B01003_001",5421,NA
+"48209","Hays County, Texas","B01003_001",268638,NA
+"48211","Hemphill County, Texas","B01003_001",3234,NA
+"48213","Henderson County, Texas","B01003_001",84862,NA
+"48215","Hidalgo County, Texas","B01003_001",891977,NA
+"48217","Hill County, Texas","B01003_001",37328,NA
+"48219","Hockley County, Texas","B01003_001",21363,NA
+"48221","Hood County, Texas","B01003_001",65894,NA
+"48223","Hopkins County, Texas","B01003_001",37784,NA
+"48225","Houston County, Texas","B01003_001",22051,NA
+"48227","Howard County, Texas","B01003_001",32290,NA
+"48229","Hudspeth County, Texas","B01003_001",3403,NA
+"48231","Hunt County, Texas","B01003_001",108972,NA
+"48233","Hutchinson County, Texas","B01003_001",20184,NA
+"48235","Irion County, Texas","B01003_001",1409,148
+"48237","Jack County, Texas","B01003_001",8882,NA
+"48239","Jackson County, Texas","B01003_001",15152,NA
+"48241","Jasper County, Texas","B01003_001",32727,NA
+"48243","Jeff Davis County, Texas","B01003_001",1865,341
+"48245","Jefferson County, Texas","B01003_001",253878,NA
+"48247","Jim Hogg County, Texas","B01003_001",4727,NA
+"48249","Jim Wells County, Texas","B01003_001",38850,NA
+"48251","Johnson County, Texas","B01003_001",195597,NA
+"48253","Jones County, Texas","B01003_001",20304,NA
+"48255","Karnes County, Texas","B01003_001",14968,NA
+"48257","Kaufman County, Texas","B01003_001",172604,NA
+"48259","Kendall County, Texas","B01003_001",48567,NA
+"48261","Kenedy County, Texas","B01003_001",145,90
+"48263","Kent County, Texas","B01003_001",734,117
+"48265","Kerr County, Texas","B01003_001",53489,NA
+"48267","Kimble County, Texas","B01003_001",4389,NA
+"48269","King County, Texas","B01003_001",211,83
+"48271","Kinney County, Texas","B01003_001",3157,NA
+"48273","Kleberg County, Texas","B01003_001",30579,NA
+"48275","Knox County, Texas","B01003_001",3307,NA
+"48277","Lamar County, Texas","B01003_001",50669,NA
+"48279","Lamb County, Texas","B01003_001",12828,NA
+"48281","Lampasas County, Texas","B01003_001",22715,NA
+"48283","La Salle County, Texas","B01003_001",6839,90
+"48285","Lavaca County, Texas","B01003_001",20552,NA
+"48287","Lee County, Texas","B01003_001",17971,NA
+"48289","Leon County, Texas","B01003_001",16263,NA
+"48291","Liberty County, Texas","B01003_001",103380,NA
+"48293","Limestone County, Texas","B01003_001",22283,NA
+"48295","Lipscomb County, Texas","B01003_001",2918,NA
+"48297","Live Oak County, Texas","B01003_001",11620,NA
+"48299","Llano County, Texas","B01003_001",22424,NA
+"48301","Loving County, Texas","B01003_001",33,30
+"48303","Lubbock County, Texas","B01003_001",318884,NA
+"48305","Lynn County, Texas","B01003_001",5752,NA
+"48307","McCulloch County, Texas","B01003_001",7514,NA
+"48309","McLennan County, Texas","B01003_001",266067,NA
+"48311","McMullen County, Texas","B01003_001",700,280
+"48313","Madison County, Texas","B01003_001",13648,NA
+"48315","Marion County, Texas","B01003_001",9737,NA
+"48317","Martin County, Texas","B01003_001",5218,NA
+"48319","Mason County, Texas","B01003_001",3955,NA
+"48321","Matagorda County, Texas","B01003_001",36329,NA
+"48323","Maverick County, Texas","B01003_001",58082,NA
+"48325","Medina County, Texas","B01003_001",53547,NA
+"48327","Menard County, Texas","B01003_001",1955,NA
+"48329","Midland County, Texas","B01003_001",174801,NA
+"48331","Milam County, Texas","B01003_001",25567,NA
+"48333","Mills County, Texas","B01003_001",4511,NA
+"48335","Mitchell County, Texas","B01003_001",9018,NA
+"48337","Montague County, Texas","B01003_001",21046,NA
+"48339","Montgomery County, Texas","B01003_001",684432,NA
+"48341","Moore County, Texas","B01003_001",21373,NA
+"48343","Morris County, Texas","B01003_001",12076,NA
+"48345","Motley County, Texas","B01003_001",1183,136
+"48347","Nacogdoches County, Texas","B01003_001",65162,NA
+"48349","Navarro County, Texas","B01003_001",54711,NA
+"48351","Newton County, Texas","B01003_001",12093,NA
+"48353","Nolan County, Texas","B01003_001",14454,NA
+"48355","Nueces County, Texas","B01003_001",352955,NA
+"48357","Ochiltree County, Texas","B01003_001",9786,NA
+"48359","Oldham County, Texas","B01003_001",2249,227
+"48361","Orange County, Texas","B01003_001",85307,NA
+"48363","Palo Pinto County, Texas","B01003_001",29295,NA
+"48365","Panola County, Texas","B01003_001",22726,NA
+"48367","Parker County, Texas","B01003_001",165168,NA
+"48369","Parmer County, Texas","B01003_001",9731,NA
+"48371","Pecos County, Texas","B01003_001",14896,NA
+"48373","Polk County, Texas","B01003_001",52800,NA
+"48375","Potter County, Texas","B01003_001",115975,NA
+"48377","Presidio County, Texas","B01003_001",5930,NA
+"48379","Rains County, Texas","B01003_001",12775,NA
+"48381","Randall County, Texas","B01003_001",146070,NA
+"48383","Reagan County, Texas","B01003_001",3232,NA
+"48385","Real County, Texas","B01003_001",2802,NA
+"48387","Red River County, Texas","B01003_001",11611,NA
+"48389","Reeves County, Texas","B01003_001",12664,NA
+"48391","Refugio County, Texas","B01003_001",6707,NA
+"48393","Roberts County, Texas","B01003_001",832,126
+"48395","Robertson County, Texas","B01003_001",17167,NA
+"48397","Rockwall County, Texas","B01003_001",123617,NA
+"48399","Runnels County, Texas","B01003_001",9874,NA
+"48401","Rusk County, Texas","B01003_001",52842,NA
+"48403","Sabine County, Texas","B01003_001",10023,NA
+"48405","San Augustine County, Texas","B01003_001",7874,NA
+"48407","San Jacinto County, Texas","B01003_001",28441,NA
+"48409","San Patricio County, Texas","B01003_001",70181,NA
+"48411","San Saba County, Texas","B01003_001",5696,NA
+"48413","Schleicher County, Texas","B01003_001",2381,NA
+"48415","Scurry County, Texas","B01003_001",16488,NA
+"48417","Shackelford County, Texas","B01003_001",3175,NA
+"48419","Shelby County, Texas","B01003_001",24155,NA
+"48421","Sherman County, Texas","B01003_001",2295,227
+"48423","Smith County, Texas","B01003_001",241740,NA
+"48425","Somervell County, Texas","B01003_001",9691,NA
+"48427","Starr County, Texas","B01003_001",66067,NA
+"48429","Stephens County, Texas","B01003_001",9351,NA
+"48431","Sterling County, Texas","B01003_001",1468,172
+"48433","Stonewall County, Texas","B01003_001",1227,117
+"48435","Sutton County, Texas","B01003_001",3277,NA
+"48437","Swisher County, Texas","B01003_001",6937,NA
+"48439","Tarrant County, Texas","B01003_001",2167390,NA
+"48441","Taylor County, Texas","B01003_001",145863,NA
+"48443","Terrell County, Texas","B01003_001",835,282
+"48445","Terry County, Texas","B01003_001",11629,NA
+"48447","Throckmorton County, Texas","B01003_001",1639,148
+"48449","Titus County, Texas","B01003_001",31363,NA
+"48451","Tom Green County, Texas","B01003_001",119577,NA
+"48453","Travis County, Texas","B01003_001",1330015,NA
+"48455","Trinity County, Texas","B01003_001",14046,NA
+"48457","Tyler County, Texas","B01003_001",20238,NA
+"48459","Upshur County, Texas","B01003_001",42567,NA
+"48461","Upton County, Texas","B01003_001",3191,NA
+"48463","Uvalde County, Texas","B01003_001",24881,NA
+"48465","Val Verde County, Texas","B01003_001",47741,NA
+"48467","Van Zandt County, Texas","B01003_001",62649,NA
+"48469","Victoria County, Texas","B01003_001",91413,NA
+"48471","Walker County, Texas","B01003_001",80209,NA
+"48473","Waller County, Texas","B01003_001",61552,NA
+"48475","Ward County, Texas","B01003_001",11144,NA
+"48477","Washington County, Texas","B01003_001",36647,NA
+"48479","Webb County, Texas","B01003_001",269294,NA
+"48481","Wharton County, Texas","B01003_001",41794,NA
+"48483","Wheeler County, Texas","B01003_001",4862,NA
+"48485","Wichita County, Texas","B01003_001",129996,NA
+"48487","Wilbarger County, Texas","B01003_001",12616,NA
+"48489","Willacy County, Texas","B01003_001",20139,NA
+"48491","Williamson County, Texas","B01003_001",672688,NA
+"48493","Wilson County, Texas","B01003_001",52781,NA
+"48495","Winkler County, Texas","B01003_001",7454,NA
+"48497","Wise County, Texas","B01003_001",75005,NA
+"48499","Wood County, Texas","B01003_001",46961,NA
+"48501","Yoakum County, Texas","B01003_001",7571,NA
+"48503","Young County, Texas","B01003_001",18029,NA
+"48505","Zapata County, Texas","B01003_001",13841,NA
+"48507","Zavala County, Texas","B01003_001",9412,NA
+"49001","Beaver County, Utah","B01003_001",7273,NA
+"49003","Box Elder County, Utah","B01003_001",61246,NA
+"49005","Cache County, Utah","B01003_001",140046,NA
+"49007","Carbon County, Utah","B01003_001",20517,NA
+"49009","Daggett County, Utah","B01003_001",783,109
+"49011","Davis County, Utah","B01003_001",370924,NA
+"49013","Duchesne County, Utah","B01003_001",20185,NA
+"49015","Emery County, Utah","B01003_001",10046,NA
+"49017","Garfield County, Utah","B01003_001",5219,NA
+"49019","Grand County, Utah","B01003_001",9754,NA
+"49021","Iron County, Utah","B01003_001",62252,NA
+"49023","Juab County, Utah","B01003_001",12586,NA
+"49025","Kane County, Utah","B01003_001",8170,NA
+"49027","Millard County, Utah","B01003_001",13315,NA
+"49029","Morgan County, Utah","B01003_001",12802,NA
+"49031","Piute County, Utah","B01003_001",1694,109
+"49033","Rich County, Utah","B01003_001",2631,NA
+"49035","Salt Lake County, Utah","B01003_001",1196523,NA
+"49037","San Juan County, Utah","B01003_001",14483,NA
+"49039","Sanpete County, Utah","B01003_001",29719,NA
+"49041","Sevier County, Utah","B01003_001",22085,NA
+"49043","Summit County, Utah","B01003_001",42970,NA
+"49045","Tooele County, Utah","B01003_001",79347,NA
+"49047","Uintah County, Utah","B01003_001",37056,NA
+"49049","Utah County, Utah","B01003_001",705400,NA
+"49051","Wasatch County, Utah","B01003_001",36642,NA
+"49053","Washington County, Utah","B01003_001",196431,NA
+"49055","Wayne County, Utah","B01003_001",2584,NA
+"49057","Weber County, Utah","B01003_001",269648,NA
+"50001","Addison County, Vermont","B01003_001",37664,NA
+"50003","Bennington County, Vermont","B01003_001",37269,NA
+"50005","Caledonia County, Vermont","B01003_001",30475,NA
+"50007","Chittenden County, Vermont","B01003_001",169758,NA
+"50009","Essex County, Vermont","B01003_001",5982,NA
+"50011","Franklin County, Vermont","B01003_001",50638,NA
+"50013","Grand Isle County, Vermont","B01003_001",7450,NA
+"50015","Lamoille County, Vermont","B01003_001",26148,NA
+"50017","Orange County, Vermont","B01003_001",29761,NA
+"50019","Orleans County, Vermont","B01003_001",27606,NA
+"50021","Rutland County, Vermont","B01003_001",60425,NA
+"50023","Washington County, Vermont","B01003_001",60017,NA
+"50025","Windham County, Vermont","B01003_001",45923,NA
+"50027","Windsor County, Vermont","B01003_001",57990,NA
+"51001","Accomack County, Virginia","B01003_001",33335,NA
+"51003","Albemarle County, Virginia","B01003_001",114919,NA
+"51005","Alleghany County, Virginia","B01003_001",14859,NA
+"51007","Amelia County, Virginia","B01003_001",13462,NA
+"51009","Amherst County, Virginia","B01003_001",31485,NA
+"51011","Appomattox County, Virginia","B01003_001",16610,NA
+"51013","Arlington County, Virginia","B01003_001",236254,NA
+"51015","Augusta County, Virginia","B01003_001",78033,NA
+"51017","Bath County, Virginia","B01003_001",4100,NA
+"51019","Bedford County, Virginia","B01003_001",80894,NA
+"51021","Bland County, Virginia","B01003_001",6199,NA
+"51023","Botetourt County, Virginia","B01003_001",34004,NA
+"51025","Brunswick County, Virginia","B01003_001",15841,NA
+"51027","Buchanan County, Virginia","B01003_001",19415,NA
+"51029","Buckingham County, Virginia","B01003_001",16976,NA
+"51031","Campbell County, Virginia","B01003_001",55312,NA
+"51033","Caroline County, Virginia","B01003_001",32098,NA
+"51035","Carroll County, Virginia","B01003_001",29157,NA
+"51036","Charles City County, Virginia","B01003_001",6627,NA
+"51037","Charlotte County, Virginia","B01003_001",11422,NA
+"51041","Chesterfield County, Virginia","B01003_001",377869,NA
+"51043","Clarke County, Virginia","B01003_001",15216,NA
+"51045","Craig County, Virginia","B01003_001",4856,NA
+"51047","Culpeper County, Virginia","B01003_001",54397,NA
+"51049","Cumberland County, Virginia","B01003_001",9818,NA
+"51051","Dickenson County, Virginia","B01003_001",13733,NA
+"51053","Dinwiddie County, Virginia","B01003_001",28191,NA
+"51057","Essex County, Virginia","B01003_001",10623,NA
+"51059","Fairfax County, Virginia","B01003_001",1147837,NA
+"51061","Fauquier County, Virginia","B01003_001",74577,NA
+"51063","Floyd County, Virginia","B01003_001",15593,NA
+"51065","Fluvanna County, Virginia","B01003_001",28092,NA
+"51067","Franklin County, Virginia","B01003_001",55130,NA
+"51069","Frederick County, Virginia","B01003_001",95008,NA
+"51071","Giles County, Virginia","B01003_001",16557,NA
+"51073","Gloucester County, Virginia","B01003_001",39526,NA
+"51075","Goochland County, Virginia","B01003_001",26410,NA
+"51077","Grayson County, Virginia","B01003_001",15287,NA
+"51079","Greene County, Virginia","B01003_001",21155,NA
+"51081","Greensville County, Virginia","B01003_001",11275,NA
+"51083","Halifax County, Virginia","B01003_001",33639,NA
+"51085","Hanover County, Virginia","B01003_001",112879,NA
+"51087","Henrico County, Virginia","B01003_001",335744,NA
+"51089","Henry County, Virginia","B01003_001",49980,NA
+"51091","Highland County, Virginia","B01003_001",2296,NA
+"51093","Isle of Wight County, Virginia","B01003_001",39974,NA
+"51095","James City County, Virginia","B01003_001",81013,NA
+"51097","King and Queen County, Virginia","B01003_001",6695,NA
+"51099","King George County, Virginia","B01003_001",27896,NA
+"51101","King William County, Virginia","B01003_001",18593,NA
+"51103","Lancaster County, Virginia","B01003_001",10936,NA
+"51105","Lee County, Virginia","B01003_001",21900,NA
+"51107","Loudoun County, Virginia","B01003_001",432998,NA
+"51109","Louisa County, Virginia","B01003_001",39980,NA
+"51111","Lunenburg County, Virginia","B01003_001",12016,NA
+"51113","Madison County, Virginia","B01003_001",14044,NA
+"51115","Mathews County, Virginia","B01003_001",8540,NA
+"51117","Mecklenburg County, Virginia","B01003_001",30516,NA
+"51119","Middlesex County, Virginia","B01003_001",10847,NA
+"51121","Montgomery County, Virginia","B01003_001",99101,NA
+"51125","Nelson County, Virginia","B01003_001",14732,NA
+"51127","New Kent County, Virginia","B01003_001",25105,NA
+"51131","Northampton County, Virginia","B01003_001",12059,NA
+"51133","Northumberland County, Virginia","B01003_001",12188,NA
+"51135","Nottoway County, Virginia","B01003_001",15597,NA
+"51137","Orange County, Virginia","B01003_001",37822,NA
+"51139","Page County, Virginia","B01003_001",23727,NA
+"51141","Patrick County, Virginia","B01003_001",17512,NA
+"51143","Pittsylvania County, Virginia","B01003_001",59856,NA
+"51145","Powhatan County, Virginia","B01003_001",31555,NA
+"51147","Prince Edward County, Virginia","B01003_001",21996,NA
+"51149","Prince George County, Virginia","B01003_001",43146,NA
+"51153","Prince William County, Virginia","B01003_001",488880,NA
+"51155","Pulaski County, Virginia","B01003_001",33687,NA
+"51157","Rappahannock County, Virginia","B01003_001",7427,NA
+"51159","Richmond County, Virginia","B01003_001",9095,NA
+"51161","Roanoke County, Virginia","B01003_001",97023,NA
+"51163","Rockbridge County, Virginia","B01003_001",22531,NA
+"51165","Rockingham County, Virginia","B01003_001",85600,NA
+"51167","Russell County, Virginia","B01003_001",25538,NA
+"51169","Scott County, Virginia","B01003_001",21479,NA
+"51171","Shenandoah County, Virginia","B01003_001",44925,NA
+"51173","Smyth County, Virginia","B01003_001",29420,NA
+"51175","Southampton County, Virginia","B01003_001",17964,NA
+"51177","Spotsylvania County, Virginia","B01003_001",146603,NA
+"51179","Stafford County, Virginia","B01003_001",163466,NA
+"51181","Surry County, Virginia","B01003_001",6549,NA
+"51183","Sussex County, Virginia","B01003_001",10765,NA
+"51185","Tazewell County, Virginia","B01003_001",39624,NA
+"51187","Warren County, Virginia","B01003_001",41531,NA
+"51191","Washington County, Virginia","B01003_001",53926,NA
+"51193","Westmoreland County, Virginia","B01003_001",18826,NA
+"51195","Wise County, Virginia","B01003_001",35448,NA
+"51197","Wythe County, Virginia","B01003_001",28188,NA
+"51199","York County, Virginia","B01003_001",71005,NA
+"51510","Alexandria city, Virginia","B01003_001",156976,NA
+"51520","Bristol city, Virginia","B01003_001",16849,NA
+"51530","Buena Vista city, Virginia","B01003_001",6593,NA
+"51540","Charlottesville city, Virginia","B01003_001",45437,NA
+"51550","Chesapeake city, Virginia","B01003_001",252583,NA
+"51570","Colonial Heights city, Virginia","B01003_001",18352,NA
+"51580","Covington city, Virginia","B01003_001",5680,NA
+"51590","Danville city, Virginia","B01003_001",42214,NA
+"51595","Emporia city, Virginia","B01003_001",5547,NA
+"51600","Fairfax city, Virginia","B01003_001",25026,NA
+"51610","Falls Church city, Virginia","B01003_001",14710,NA
+"51620","Franklin city, Virginia","B01003_001",8250,NA
+"51630","Fredericksburg city, Virginia","B01003_001",28873,NA
+"51640","Galax city, Virginia","B01003_001",6726,NA
+"51650","Hampton city, Virginia","B01003_001",137557,NA
+"51660","Harrisonburg city, Virginia","B01003_001",51392,NA
+"51670","Hopewell city, Virginia","B01003_001",22959,NA
+"51678","Lexington city, Virginia","B01003_001",7525,NA
+"51680","Lynchburg city, Virginia","B01003_001",79497,NA
+"51683","Manassas city, Virginia","B01003_001",42976,NA
+"51685","Manassas Park city, Virginia","B01003_001",16798,NA
+"51690","Martinsville city, Virginia","B01003_001",13658,NA
+"51700","Newport News city, Virginia","B01003_001",184216,NA
+"51710","Norfolk city, Virginia","B01003_001",233596,NA
+"51720","Norton city, Virginia","B01003_001",3577,NA
+"51730","Petersburg city, Virginia","B01003_001",33537,NA
+"51735","Poquoson city, Virginia","B01003_001",12639,NA
+"51740","Portsmouth city, Virginia","B01003_001",97190,NA
+"51750","Radford city, Virginia","B01003_001",16726,NA
+"51760","Richmond city, Virginia","B01003_001",229359,NA
+"51770","Roanoke city, Virginia","B01003_001",98355,NA
+"51775","Salem city, Virginia","B01003_001",25618,NA
+"51790","Staunton city, Virginia","B01003_001",25948,NA
+"51800","Suffolk city, Virginia","B01003_001",98796,NA
+"51810","Virginia Beach city, Virginia","B01003_001",456349,NA
+"51820","Waynesboro city, Virginia","B01003_001",22841,NA
+"51830","Williamsburg city, Virginia","B01003_001",15798,NA
+"51840","Winchester city, Virginia","B01003_001",27913,NA
+"53001","Adams County, Washington","B01003_001",20800,NA
+"53003","Asotin County, Washington","B01003_001",22467,NA
+"53005","Benton County, Washington","B01003_001",212905,NA
+"53007","Chelan County, Washington","B01003_001",80172,NA
+"53009","Clallam County, Washington","B01003_001",77813,NA
+"53011","Clark County, Washington","B01003_001",516959,NA
+"53013","Columbia County, Washington","B01003_001",4014,NA
+"53015","Cowlitz County, Washington","B01003_001",112360,NA
+"53017","Douglas County, Washington","B01003_001",44366,NA
+"53019","Ferry County, Washington","B01003_001",7387,NA
+"53021","Franklin County, Washington","B01003_001",98902,NA
+"53023","Garfield County, Washington","B01003_001",2353,NA
+"53025","Grant County, Washington","B01003_001",101799,NA
+"53027","Grays Harbor County, Washington","B01003_001",77053,NA
+"53029","Island County, Washington","B01003_001",86836,NA
+"53031","Jefferson County, Washington","B01003_001",33577,NA
+"53033","King County, Washington","B01003_001",2287171,NA
+"53035","Kitsap County, Washington","B01003_001",277881,NA
+"53037","Kittitas County, Washington","B01003_001",47172,NA
+"53039","Klickitat County, Washington","B01003_001",23411,NA
+"53041","Lewis County, Washington","B01003_001",85154,NA
+"53043","Lincoln County, Washington","B01003_001",11489,NA
+"53045","Mason County, Washington","B01003_001",67982,NA
+"53047","Okanogan County, Washington","B01003_001",43425,NA
+"53049","Pacific County, Washington","B01003_001",23994,NA
+"53051","Pend Oreille County, Washington","B01003_001",14050,NA
+"53053","Pierce County, Washington","B01003_001",930319,NA
+"53055","San Juan County, Washington","B01003_001",18478,NA
+"53057","Skagit County, Washington","B01003_001",131328,NA
+"53059","Skamania County, Washington","B01003_001",12402,NA
+"53061","Snohomish County, Washington","B01003_001",844430,NA
+"53063","Spokane County, Washington","B01003_001",549056,NA
+"53065","Stevens County, Washington","B01003_001",48067,NA
+"53067","Thurston County, Washington","B01003_001",299067,NA
+"53069","Wahkiakum County, Washington","B01003_001",4658,NA
+"53071","Walla Walla County, Washington","B01003_001",62161,NA
+"53073","Whatcom County, Washington","B01003_001",230503,NA
+"53075","Whitman County, Washington","B01003_001",47003,NA
+"53077","Yakima County, Washington","B01003_001",257152,NA
+"54001","Barbour County, West Virginia","B01003_001",15424,NA
+"54003","Berkeley County, West Virginia","B01003_001",129514,NA
+"54005","Boone County, West Virginia","B01003_001",21026,NA
+"54007","Braxton County, West Virginia","B01003_001",12208,NA
+"54009","Brooke County, West Virginia","B01003_001",21805,NA
+"54011","Cabell County, West Virginia","B01003_001",92739,NA
+"54013","Calhoun County, West Virginia","B01003_001",6048,NA
+"54015","Clay County, West Virginia","B01003_001",7835,NA
+"54017","Doddridge County, West Virginia","B01003_001",7711,NA
+"54019","Fayette County, West Virginia","B01003_001",39519,NA
+"54021","Gilmer County, West Virginia","B01003_001",7288,NA
+"54023","Grant County, West Virginia","B01003_001",10983,NA
+"54025","Greenbrier County, West Virginia","B01003_001",32386,NA
+"54027","Hampshire County, West Virginia","B01003_001",23465,NA
+"54029","Hancock County, West Virginia","B01003_001",28431,NA
+"54031","Hardy County, West Virginia","B01003_001",14243,NA
+"54033","Harrison County, West Virginia","B01003_001",64984,NA
+"54035","Jackson County, West Virginia","B01003_001",27705,NA
+"54037","Jefferson County, West Virginia","B01003_001",59260,NA
+"54039","Kanawha County, West Virginia","B01003_001",176537,NA
+"54041","Lewis County, West Virginia","B01003_001",16740,NA
+"54043","Lincoln County, West Virginia","B01003_001",19902,NA
+"54045","Logan County, West Virginia","B01003_001",31418,NA
+"54047","McDowell County, West Virginia","B01003_001",17943,NA
+"54049","Marion County, West Virginia","B01003_001",55909,NA
+"54051","Marshall County, West Virginia","B01003_001",29865,NA
+"54053","Mason County, West Virginia","B01003_001",25043,NA
+"54055","Mercer County, West Virginia","B01003_001",58563,NA
+"54057","Mineral County, West Virginia","B01003_001",26854,NA
+"54059","Mingo County, West Virginia","B01003_001",22542,NA
+"54061","Monongalia County, West Virginia","B01003_001",107163,NA
+"54063","Monroe County, West Virginia","B01003_001",12386,NA
+"54065","Morgan County, West Virginia","B01003_001",17426,NA
+"54067","Nicholas County, West Virginia","B01003_001",24277,NA
+"54069","Ohio County, West Virginia","B01003_001",41582,NA
+"54071","Pendleton County, West Virginia","B01003_001",6043,NA
+"54073","Pleasants County, West Virginia","B01003_001",7521,NA
+"54075","Pocahontas County, West Virginia","B01003_001",7784,NA
+"54077","Preston County, West Virginia","B01003_001",34160,NA
+"54079","Putnam County, West Virginia","B01003_001",57177,NA
+"54081","Raleigh County, West Virginia","B01003_001",73195,NA
+"54083","Randolph County, West Virginia","B01003_001",27576,NA
+"54085","Ritchie County, West Virginia","B01003_001",8286,NA
+"54087","Roane County, West Virginia","B01003_001",13786,NA
+"54089","Summers County, West Virginia","B01003_001",11729,NA
+"54091","Taylor County, West Virginia","B01003_001",16487,NA
+"54093","Tucker County, West Virginia","B01003_001",6654,NA
+"54095","Tyler County, West Virginia","B01003_001",8064,NA
+"54097","Upshur County, West Virginia","B01003_001",23712,NA
+"54099","Wayne County, West Virginia","B01003_001",38164,NA
+"54101","Webster County, West Virginia","B01003_001",8144,NA
+"54103","Wetzel County, West Virginia","B01003_001",14078,NA
+"54105","Wirt County, West Virginia","B01003_001",5053,NA
+"54107","Wood County, West Virginia","B01003_001",83407,NA
+"54109","Wyoming County, West Virginia","B01003_001",20629,NA
+"55001","Adams County, Wisconsin","B01003_001",21123,NA
+"55003","Ashland County, Wisconsin","B01003_001",16080,NA
+"55005","Barron County, Wisconsin","B01003_001",46797,NA
+"55007","Bayfield County, Wisconsin","B01003_001",16575,NA
+"55009","Brown County, Wisconsin","B01003_001",270892,NA
+"55011","Buffalo County, Wisconsin","B01003_001",13393,NA
+"55013","Burnett County, Wisconsin","B01003_001",16916,NA
+"55015","Calumet County, Wisconsin","B01003_001",52942,NA
+"55017","Chippewa County, Wisconsin","B01003_001",66799,NA
+"55019","Clark County, Wisconsin","B01003_001",34739,NA
+"55021","Columbia County, Wisconsin","B01003_001",58272,NA
+"55023","Crawford County, Wisconsin","B01003_001",16042,NA
+"55025","Dane County, Wisconsin","B01003_001",572674,NA
+"55027","Dodge County, Wisconsin","B01003_001",88742,NA
+"55029","Door County, Wisconsin","B01003_001",30445,NA
+"55031","Douglas County, Wisconsin","B01003_001",44229,NA
+"55033","Dunn County, Wisconsin","B01003_001",45527,NA
+"55035","Eau Claire County, Wisconsin","B01003_001",107116,NA
+"55037","Florence County, Wisconsin","B01003_001",4646,NA
+"55039","Fond du Lac County, Wisconsin","B01003_001",104137,NA
+"55041","Forest County, Wisconsin","B01003_001",9369,NA
+"55043","Grant County, Wisconsin","B01003_001",51770,NA
+"55045","Green County, Wisconsin","B01003_001",37017,NA
+"55047","Green Lake County, Wisconsin","B01003_001",19263,NA
+"55049","Iowa County, Wisconsin","B01003_001",23867,NA
+"55051","Iron County, Wisconsin","B01003_001",6210,NA
+"55053","Jackson County, Wisconsin","B01003_001",20981,NA
+"55055","Jefferson County, Wisconsin","B01003_001",86003,NA
+"55057","Juneau County, Wisconsin","B01003_001",26689,NA
+"55059","Kenosha County, Wisconsin","B01003_001",168438,NA
+"55061","Kewaunee County, Wisconsin","B01003_001",20664,NA
+"55063","La Crosse County, Wisconsin","B01003_001",120488,NA
+"55065","Lafayette County, Wisconsin","B01003_001",16942,NA
+"55067","Langlade County, Wisconsin","B01003_001",19490,NA
+"55069","Lincoln County, Wisconsin","B01003_001",28426,NA
+"55071","Manitowoc County, Wisconsin","B01003_001",81406,NA
+"55073","Marathon County, Wisconsin","B01003_001",138403,NA
+"55075","Marinette County, Wisconsin","B01003_001",42046,NA
+"55077","Marquette County, Wisconsin","B01003_001",15746,NA
+"55078","Menominee County, Wisconsin","B01003_001",4252,NA
+"55079","Milwaukee County, Wisconsin","B01003_001",926331,NA
+"55081","Monroe County, Wisconsin","B01003_001",46208,NA
+"55083","Oconto County, Wisconsin","B01003_001",39589,NA
+"55085","Oneida County, Wisconsin","B01003_001",38167,NA
+"55087","Outagamie County, Wisconsin","B01003_001",192826,NA
+"55089","Ozaukee County, Wisconsin","B01003_001",92966,NA
+"55091","Pepin County, Wisconsin","B01003_001",7431,NA
+"55093","Pierce County, Wisconsin","B01003_001",42584,NA
+"55095","Polk County, Wisconsin","B01003_001",45555,NA
+"55097","Portage County, Wisconsin","B01003_001",70832,NA
+"55099","Price County, Wisconsin","B01003_001",14092,NA
+"55101","Racine County, Wisconsin","B01003_001",197532,NA
+"55103","Richland County, Wisconsin","B01003_001",17205,NA
+"55105","Rock County, Wisconsin","B01003_001",164350,NA
+"55107","Rusk County, Wisconsin","B01003_001",14179,NA
+"55109","St. Croix County, Wisconsin","B01003_001",96033,NA
+"55111","Sauk County, Wisconsin","B01003_001",66009,NA
+"55113","Sawyer County, Wisconsin","B01003_001",18476,NA
+"55115","Shawano County, Wisconsin","B01003_001",41039,NA
+"55117","Sheboygan County, Wisconsin","B01003_001",117991,NA
+"55119","Taylor County, Wisconsin","B01003_001",20024,NA
+"55121","Trempealeau County, Wisconsin","B01003_001",30839,NA
+"55123","Vernon County, Wisconsin","B01003_001",31049,NA
+"55125","Vilas County, Wisconsin","B01003_001",23647,NA
+"55127","Walworth County, Wisconsin","B01003_001",105657,NA
+"55129","Washburn County, Wisconsin","B01003_001",16854,NA
+"55131","Washington County, Wisconsin","B01003_001",137879,NA
+"55133","Waukesha County, Wisconsin","B01003_001",411762,NA
+"55135","Waupaca County, Wisconsin","B01003_001",51569,NA
+"55137","Waushara County, Wisconsin","B01003_001",24868,NA
+"55139","Winnebago County, Wisconsin","B01003_001",171769,NA
+"55141","Wood County, Wisconsin","B01003_001",74004,NA
+"56001","Albany County, Wyoming","B01003_001",38249,NA
+"56003","Big Horn County, Wyoming","B01003_001",11828,NA
+"56005","Campbell County, Wyoming","B01003_001",47240,NA
+"56007","Carbon County, Wyoming","B01003_001",14463,NA
+"56009","Converse County, Wyoming","B01003_001",13762,NA
+"56011","Crook County, Wyoming","B01003_001",7455,NA
+"56013","Fremont County, Wyoming","B01003_001",39533,NA
+"56015","Goshen County, Wyoming","B01003_001",12605,NA
+"56017","Hot Springs County, Wyoming","B01003_001",4620,NA
+"56019","Johnson County, Wyoming","B01003_001",8686,NA
+"56021","Laramie County, Wyoming","B01003_001",101060,NA
+"56023","Lincoln County, Wyoming","B01003_001",20486,NA
+"56025","Natrona County, Wyoming","B01003_001",79977,NA
+"56027","Niobrara County, Wyoming","B01003_001",2368,NA
+"56029","Park County, Wyoming","B01003_001",30449,NA
+"56031","Platte County, Wyoming","B01003_001",8612,NA
+"56033","Sheridan County, Wyoming","B01003_001",32055,NA
+"56035","Sublette County, Wyoming","B01003_001",8838,NA
+"56037","Sweetwater County, Wyoming","B01003_001",41542,NA
+"56039","Teton County, Wyoming","B01003_001",23396,NA
+"56041","Uinta County, Wyoming","B01003_001",20644,NA
+"56043","Washakie County, Wyoming","B01003_001",7703,NA
+"56045","Weston County, Wyoming","B01003_001",6826,NA
+"72001","Adjuntas Municipio, Puerto Rico","B01003_001",17960,NA
+"72003","Aguada Municipio, Puerto Rico","B01003_001",37758,NA
+"72005","Aguadilla Municipio, Puerto Rico","B01003_001",54137,NA
+"72007","Aguas Buenas Municipio, Puerto Rico","B01003_001",23614,NA
+"72009","Aibonito Municipio, Puerto Rico","B01003_001",24636,NA
+"72011","Añasco Municipio, Puerto Rico","B01003_001",25094,NA
+"72013","Arecibo Municipio, Puerto Rico","B01003_001",86467,NA
+"72015","Arroyo Municipio, Puerto Rico","B01003_001",15341,NA
+"72017","Barceloneta Municipio, Puerto Rico","B01003_001",22494,NA
+"72019","Barranquitas Municipio, Puerto Rico","B01003_001",29054,NA
+"72021","Bayamón Municipio, Puerto Rico","B01003_001",182469,NA
+"72023","Cabo Rojo Municipio, Puerto Rico","B01003_001",46876,NA
+"72025","Caguas Municipio, Puerto Rico","B01003_001",125586,NA
+"72027","Camuy Municipio, Puerto Rico","B01003_001",32734,NA
+"72029","Canóvanas Municipio, Puerto Rico","B01003_001",41816,NA
+"72031","Carolina Municipio, Puerto Rico","B01003_001",152204,NA
+"72033","Cataño Municipio, Puerto Rico","B01003_001",22467,NA
+"72035","Cayey Municipio, Puerto Rico","B01003_001",40917,NA
+"72037","Ceiba Municipio, Puerto Rico","B01003_001",10995,NA
+"72039","Ciales Municipio, Puerto Rico","B01003_001",16805,NA
+"72041","Cidra Municipio, Puerto Rico","B01003_001",39643,NA
+"72043","Coamo Municipio, Puerto Rico","B01003_001",33998,NA
+"72045","Comerío Municipio, Puerto Rico","B01003_001",18711,NA
+"72047","Corozal Municipio, Puerto Rico","B01003_001",34444,NA
+"72049","Culebra Municipio, Puerto Rico","B01003_001",1387,246
+"72051","Dorado Municipio, Puerto Rico","B01003_001",35810,NA
+"72053","Fajardo Municipio, Puerto Rico","B01003_001",31489,NA
+"72054","Florida Municipio, Puerto Rico","B01003_001",11532,NA
+"72055","Guánica Municipio, Puerto Rico","B01003_001",12855,NA
+"72057","Guayama Municipio, Puerto Rico","B01003_001",35298,NA
+"72059","Guayanilla Municipio, Puerto Rico","B01003_001",17141,NA
+"72061","Guaynabo Municipio, Puerto Rico","B01003_001",89378,NA
+"72063","Gurabo Municipio, Puerto Rico","B01003_001",40228,NA
+"72065","Hatillo Municipio, Puerto Rico","B01003_001",38157,NA
+"72067","Hormigueros Municipio, Puerto Rico","B01003_001",15441,NA
+"72069","Humacao Municipio, Puerto Rico","B01003_001",50100,NA
+"72071","Isabela Municipio, Puerto Rico","B01003_001",42890,NA
+"72073","Jayuya Municipio, Puerto Rico","B01003_001",14566,NA
+"72075","Juana Díaz Municipio, Puerto Rico","B01003_001",46156,NA
+"72077","Juncos Municipio, Puerto Rico","B01003_001",36829,NA
+"72079","Lajas Municipio, Puerto Rico","B01003_001",23035,NA
+"72081","Lares Municipio, Puerto Rico","B01003_001",27855,NA
+"72083","Las Marías Municipio, Puerto Rico","B01003_001",8744,NA
+"72085","Las Piedras Municipio, Puerto Rico","B01003_001",34951,NA
+"72087","Loíza Municipio, Puerto Rico","B01003_001",22768,NA
+"72089","Luquillo Municipio, Puerto Rico","B01003_001",17532,NA
+"72091","Manatí Municipio, Puerto Rico","B01003_001",38943,NA
+"72093","Maricao Municipio, Puerto Rico","B01003_001",4988,246
+"72095","Maunabo Municipio, Puerto Rico","B01003_001",10399,NA
+"72097","Mayagüez Municipio, Puerto Rico","B01003_001",70828,NA
+"72099","Moca Municipio, Puerto Rico","B01003_001",37424,NA
+"72101","Morovis Municipio, Puerto Rico","B01003_001",28397,NA
+"72103","Naguabo Municipio, Puerto Rico","B01003_001",23054,NA
+"72105","Naranjito Municipio, Puerto Rico","B01003_001",29310,NA
+"72107","Orocovis Municipio, Puerto Rico","B01003_001",21309,NA
+"72109","Patillas Municipio, Puerto Rico","B01003_001",15563,NA
+"72111","Peñuelas Municipio, Puerto Rico","B01003_001",19853,NA
+"72113","Ponce Municipio, Puerto Rico","B01003_001",132760,NA
+"72115","Quebradillas Municipio, Puerto Rico","B01003_001",23409,NA
+"72117","Rincón Municipio, Puerto Rico","B01003_001",15378,NA
+"72119","Río Grande Municipio, Puerto Rico","B01003_001",46051,NA
+"72121","Sabana Grande Municipio, Puerto Rico","B01003_001",22407,NA
+"72123","Salinas Municipio, Puerto Rico","B01003_001",25079,NA
+"72125","San Germán Municipio, Puerto Rico","B01003_001",31305,NA
+"72127","San Juan Municipio, Puerto Rico","B01003_001",336160,NA
+"72129","San Lorenzo Municipio, Puerto Rico","B01003_001",37431,NA
+"72131","San Sebastián Municipio, Puerto Rico","B01003_001",39088,NA
+"72133","Santa Isabel Municipio, Puerto Rico","B01003_001",19903,NA
+"72135","Toa Alta Municipio, Puerto Rico","B01003_001",66320,NA
+"72137","Toa Baja Municipio, Puerto Rico","B01003_001",73039,NA
+"72139","Trujillo Alto Municipio, Puerto Rico","B01003_001",67088,NA
+"72141","Utuado Municipio, Puerto Rico","B01003_001",27621,NA
+"72143","Vega Alta Municipio, Puerto Rico","B01003_001",34921,NA
+"72145","Vega Baja Municipio, Puerto Rico","B01003_001",53892,NA
+"72147","Vieques Municipio, Puerto Rico","B01003_001",8078,NA
+"72149","Villalba Municipio, Puerto Rico","B01003_001",21556,NA
+"72151","Yabucoa Municipio, Puerto Rico","B01003_001",29400,NA
+"72153","Yauco Municipio, Puerto Rico","B01003_001",32993,NA
