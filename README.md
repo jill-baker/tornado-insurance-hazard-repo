@@ -1,4 +1,4 @@
-# tornado-insurance-risk-repo
+# tornado-insurance-hazard-repo
 ##Proposed working project title
 Shifting Tornado Risk in the United States and Emerging Insurance Exposure
 
