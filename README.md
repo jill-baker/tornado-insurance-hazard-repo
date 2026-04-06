@@ -1,7 +1,7 @@
 # tornado-insurance-hazard-repo
 ## Shifting Tornado Hazard in the United States and Emerging Insurance Exposure
 
-## Brief_background
+## Brief Background
 There are two major regions in the United States that are commonly associated with elevated tornado activity: the Southeast's region of "Dixie Alley", which includes Arkansas, Louisiana, Mississippi, Alabama, Tennessee and Georgia, and the Great Plains region of "Tornado Alley", which includes Texas, Oklahoma, Kansas and Nebraska. Recent research suggests that tornado activity may be shifting geographically and increasing in frequency in Dixie Alley while decreasing in frequency in Tornado Alley (Gensini and Brooks, 2018). 
 
 ## Question
