@@ -1,0 +1,811 @@
+---
+title: "Capstone"
+author: "Jill_Baker"
+date: "2026-03-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Read in the CSV for National Weather Service Tornado Data from 1950 - 2024
+
+```{r}
+nsw_tornado_data <- read.csv("~/Documents/Merrimack_Data_Science/Capstone/Potential_Datasets/Dataset_1/1950-2024_all_tornadoes.csv", na.strings = "?", stringsAsFactors = T)
+View(nsw_tornado_data)
+
+colnames(nsw_tornado_data)
+```
+
+#Installing packages as needed 
+```{r}
+install.packages("ggplot2", repos = "https://cloud.r-project.org/")
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
+install.packages("dplyr")
+install.packages("tidycensus")
+
+```
+
+#Install libraries needed 
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidymodels)
+library(tidyr)
+library(stringr)
+library(tidycensus)
+```
+
+#First clean to allow merging with ACS Data: Merge column str with columns f1, f2, f3 and f4 to provide the full county FIPS number. However, leading zeroes were dropped and need to add back in. FIPS full number will associate with a specific country where the tornado started, passed through and ended. Then merge stf plus f1, stf plus f2, etc. to form each FIPS Code. 
+
+```{r}
+nsw_tornado_data_clean <- nsw_tornado_data %>%
+  mutate(
+    stf = if_else(!is.na(stf), str_pad(as.character(stf), 2, pad = "0"), NA_character_),
+
+    f1 = if_else(!is.na(f1) & f1 != 0, str_pad(as.character(f1), 3, pad = "0"), NA_character_),
+    f2 = if_else(!is.na(f2) & f2 != 0, str_pad(as.character(f2), 3, pad = "0"), NA_character_),
+    f3 = if_else(!is.na(f3) & f3 != 0, str_pad(as.character(f3), 3, pad = "0"), NA_character_),
+    f4 = if_else(!is.na(f4) & f4 != 0, str_pad(as.character(f4), 3, pad = "0"), NA_character_),
+
+    county_fips_1 = if_else(!is.na(f1), paste0(stf, f1), NA_character_),
+    county_fips_2 = if_else(!is.na(f2), paste0(stf, f2), NA_character_),
+    county_fips_3 = if_else(!is.na(f3), paste0(stf, f3), NA_character_),
+    county_fips_4 = if_else(!is.na(f4), paste0(stf, f4), NA_character_)
+  )
+
+nsw_tornado_data_clean
+```
+#Using Census data frm the dataset American Community Survey (ACS) within the tidycensus package/library for population. Will be able to merge datasets using the GEOID column with FIPS in my tornado dataset. 
+
+#Viewing which variables to pull
+```{r}
+acs_vars <- load_variables(2024, "acs5", cache = TRUE)
+acs_vars
+```
+
+```{r}
+population_variables <- acs_vars %>%
+  filter(str_detect(concept, "Population"))
+population_variables 
+```
+#Selecting B01003_001 for total population estimate
+
+#Reviewing variables for housing data in the census 
+```{r}
+housing_variables <- acs_vars %>%
+  filter(str_detect(concept, "Housing"))
+housing_variables 
+```
+#Will use B25001_001 for Total Housing Units. 
+
+#Variable for home value next
+```{r}
+housing_variables <- acs_vars %>%
+  filter(str_detect(concept, "Value"))
+housing_variables 
+```
+
+#Will use B25077_001 for Median Home Value 
+
+```{r}
+population <- get_acs(
+  geography = "county",
+  variables = "B01003_001",  
+  year = 2024
+)
+population 
+
+write.csv(population, "acs_county_population_2024.csv", row.names = FALSE)
+getwd()
+```
+#Merge data on county_fips_f1 only. This country id is where the tornado originated and will provide sufficient data on risk. I do not want to merge data on all 4 FIPS (which just shows the counties the tornado passed through) to avoid duplicate data. This will still produce the end result of showing high-risk counties.
+```{r}
+population_clean <- population %>%
+  select(GEOID, NAME, estimate) %>%
+  rename(
+    county_fips = GEOID,
+    population_estimate = estimate
+  )
+
+population_clean
+
+```
+
+```{r}
+tornado_f1_fips <- nsw_tornado_data_clean %>%
+  select(om, yr, mo, dy, date, st, stf, mag, inj, loss, len, wid, county_fips_1) %>%
+  filter(!is.na(county_fips_1)) %>%
+  rename(county_fips = county_fips_1)
+
+tornado_f1_fips
+```
+
+```{r}
+tornado_merged_census <- tornado_f1_fips %>%
+  left_join(population_clean, by = "county_fips")
+
+tornado_merged_census
+```
+
+#To merge with Estimate Total Housing Units and Median Value 
+
+```{r}
+housing_units <- get_acs(
+  geography = "county",
+  variables = "B25001_001",  
+  year = 2024
+)
+housing_units 
+
+write.csv(housing_units, "acs_county_housing_units_2024.csv", row.names = FALSE)
+```
+```{r}
+median_value <- get_acs(
+  geography = "county",
+  variables = "B25077_001",  
+  year = 2024
+)
+median_value
+write.csv(median_value, "acs_county_median_value_2024.csv", row.names = FALSE)
+```
+
+#Clean GEOID to county_fips for merging
+
+```{r}
+housing_clean <- housing_units %>%
+  select(GEOID, estimate, moe) %>%
+  rename(
+    county_fips = GEOID, 
+    housing_unit_estimate = estimate,
+    housing_moe = moe
+  )
+
+housing_clean
+```
+
+```{r}
+medvalue_clean <- median_value %>%
+  select(GEOID, estimate, moe) %>%
+  rename(
+    county_fips = GEOID,
+    medvalue_estimate = estimate,
+    medvalue_moe = moe
+  )
+
+medvalue_clean
+```
+
+#FINAL RAW DATASET BEFORE FEATURE ENGINEERING - write.csv for GitHub
+
+```{r}
+final_raw_dataset <- tornado_merged_census %>%
+  left_join(housing_clean, by = "county_fips") %>%
+  left_join(medvalue_clean, by = "county_fips")
+
+final_raw_dataset
+write.csv(final_raw_dataset, "final_raw_dataset.csv", row.names = FALSE)
+```
+
+#Grouping Tornado Alley and Dixie Alley states
+
+```{r}
+tornado_alley_states = c("TX", "OK", "KS", "NE")
+dixie_alley_states = c("LA", "AR", "TN", "GA", "AL", "MS")
+```
+
+#Additional Clean: Remove columns not needed for stf, inj, housing_moe, medvalue_moe and rename column NAME to county_name_state
+
+```{r}
+cleaned_tornado_dataset <- final_raw_dataset %>%
+  select(-stf, -inj, -housing_moe, -medvalue_moe) %>%
+  rename(county_name_state = NAME)
+
+```
+
+########################
+
+#Feature Creation/Transformation: region_category, tornado_count_county_year, average_intensity_county, max_intensity_county, total_property_loss_year, average_property_loss, strong_tornado_count, property_loss_per_tornado
+
+#region_cateory - T for Tornado Alley State, D for Dixie Alley State, O for Other
+
+```{r}
+names(cleaned_tornado_dataset)
+```
+```{r}
+final_dataset_regions <- cleaned_tornado_dataset %>%
+  mutate(
+    region_category = case_when(
+      st %in% tornado_alley_states ~ "T",
+      st %in% dixie_alley_states ~ "D",
+      TRUE ~ "O"
+    ),
+    region_category = factor(region_category, levels = c("O", "T", "D")))
+
+final_dataset_regions
+```
+#tornado_count_county_year feature creation. Total number of tornadoes per county for a given year
+
+```{r}
+tornado_hazard_dataset <- final_dataset_regions %>%
+  group_by(county_fips, yr) %>%
+  mutate(
+    tornado_count_county_year = n()
+  ) %>%
+  ungroup()
+  
+tornado_hazard_dataset
+
+```
+
+## Filtered data for years 1979-2024 for project 
+
+```{r}
+tornado_hazard_dataset_filtered <- tornado_hazard_dataset %>%
+  filter(yr >=1979)
+
+tornado_hazard_dataset_filtered
+```
+#Some Views: Counties with most tornadoes
+```{r}
+tornado_hazard_dataset_filtered %>%
+  filter(tornado_count_county_year == max(tornado_count_county_year, na.rm = TRUE))
+```
+
+#RAW DATA
+#Tornado count per year
+
+```{r}
+tornadoes_by_year <- tornado_hazard_dataset_filtered %>%
+  count(yr, name = "tornado_count")
+
+tornadoes_by_year
+
+ggplot(tornadoes_by_year, aes(x = yr, y = tornado_count)) +
+  geom_line() +
+  geom_smooth(se = FALSE) +
+  labs(
+    title = "Tornado Count Per Year (1979–2024)",
+    x = "Year",
+    y = "Number of Tornadoes"
+  ) +
+  theme_minimal()
+
+```
+
+#Dixie Alley vs Tornado Alley frequency per year 
+
+```{r}
+tornadoes_DT <- tornado_hazard_dataset_filtered %>%
+  filter(region_category %in% c("D", "T")) %>%
+  count(yr, region_category, name = "tornado_count") %>%
+  mutate(region_name = case_when(
+    region_category == "D" ~ "Dixie Alley",
+    region_category == "T" ~ "Tornado Alley"
+   
+    ))
+
+ggplot(tornadoes_DT , aes(x = yr, y = tornado_count, color = region_name)) +
+  geom_line() +
+  geom_smooth(se = FALSE) +
+  labs(
+    title = "Tornado Count Dixie Alley vs. Tornado Alley",
+    x = "Year",
+    y = "Number of Tornadoes",
+    color = "Region"
+  ) +
+  theme_minimal()
+
+```
+
+
+
+
+```{r}
+tornado_hazard_dataset_filtered
+```
+
+### ENGINEERED COUNTY-YEAR MODELING DATASET 
+#One county in one year 
+
+#average_intensity_county, max_intenstiy, strong_tornado_count feature creation. Standarize mag - new column with NA
+```{r}
+unique(tornado_hazard_dataset_filtered$mag)
+
+tornado_hazard_dataset_filtered <- tornado_hazard_dataset_filtered %>%
+  mutate(mag_standardized = ifelse(mag == -9, NA, mag))
+tornado_hazard_dataset_filtered
+
+```
+
+```{r}
+#unique(tornado_hazard_dataset_filtered$loss)
+
+tornado_hazard_dataset_filtered <- tornado_hazard_dataset_filtered %>%
+  mutate(
+    loss_clean = dplyr::if_else(is.na(loss) | loss == 0, NA_real_, as.numeric(loss))
+  )
+```
+
+```{r}
+summary(tornado_hazard_dataset_filtered$loss_clean)
+sum(tornado_hazard_dataset_filtered$loss_clean == 0, na.rm = TRUE)
+```
+
+
+
+```{r}
+tornado_hazard_dataset_filtered
+```
+
+
+```{r}
+county_year_hazard <- tornado_hazard_dataset_filtered %>%
+  group_by(county_fips, yr) %>%
+  summarise(
+    tornado_count_county_year = n(),
+    average_intensity_county = ifelse(all(is.na(mag_standardized)),NA_real_,
+      mean(mag_standardized, na.rm = TRUE)),
+    max_intensity_county = ifelse(all(is.na(mag_standardized)),NA_real_,
+      max(mag_standardized, na.rm = TRUE)),
+    strong_tornado_count = sum(mag_standardized >= 3, na.rm = TRUE),
+    total_property_loss_year = ifelse(all(is.na(loss_clean)),NA_real_,
+      sum(loss_clean, na.rm = TRUE)),
+    average_property_loss = ifelse(all(is.na(loss_clean)),NA_real_,
+      mean(loss_clean, na.rm = TRUE)),
+    .groups = "drop"
+  )
+
+county_year_hazard 
+```
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    property_loss_per_tornado = total_property_loss_year / tornado_count_county_year
+  )
+
+county_year_hazard
+```
+
+#merge in the ACS county-level variables
+
+```{r}
+tornado_alley_fips <- c("48", "40", "20", "31")  # TX, OK, KS, NE
+dixie_alley_fips  <- c("22", "05", "47", "13", "01", "28")  # LA, AR, TN, GA, AL, MS
+```
+
+```{r}
+county_lookup <- tornado_hazard_dataset_filtered %>%
+  group_by(county_fips) %>%
+  summarise(
+    population_estimate = first(na.omit(population_estimate)),
+    housing_unit_estimate = first(na.omit(housing_unit_estimate)),
+    medvalue_estimate = first(na.omit(medvalue_estimate)),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    state_fips = substr(county_fips, 1, 2),
+    region_category = case_when(
+      state_fips %in% tornado_alley_fips ~ "T",
+      state_fips %in% dixie_alley_fips ~ "D",
+      TRUE ~ "O"
+    ),
+    region_category = factor(region_category, levels = c("O", "T", "D"))
+  )
+```
+
+
+```{r}
+county_lookup %>%
+  count(county_fips) %>%
+  filter(n > 1)
+```
+
+
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  left_join(
+    county_lookup %>%
+      select(county_fips, population_estimate, housing_unit_estimate, medvalue_estimate, region_category),
+    by = "county_fips"
+  )
+
+county_year_hazard
+```
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    property_loss_per_tornado = ifelse(
+      is.na(total_property_loss_year) | tornado_count_county_year == 0,
+      NA,
+      total_property_loss_year / tornado_count_county_year
+    ),
+    tornadoes_per_100k_population = ifelse(
+      is.na(population_estimate) | population_estimate == 0,
+      NA,
+      (tornado_count_county_year / population_estimate) * 100000
+    ),
+    tornadoes_per_10k_housing_units = ifelse(
+      is.na(housing_unit_estimate) | housing_unit_estimate == 0,
+      NA,
+      (tornado_count_county_year / housing_unit_estimate) * 10000
+    )
+  )
+
+colnames(county_year_hazard)
+```
+#Target variable creation: high_tornado_hazard_next_year
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    log_property_loss = log1p(total_property_loss_year)
+  )
+```
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    z_tornado_count = as.numeric(scale(tornado_count_county_year)),
+    z_avg_intensity = as.numeric(scale(average_intensity_county)),
+    z_max_intensity = as.numeric(scale(max_intensity_county)),
+    z_strong_count = as.numeric(scale(strong_tornado_count)),
+    z_property_loss = as.numeric(scale(total_property_loss_year))
+  ) %>%
+  mutate(
+    composite_hazard_score = rowMeans(
+      cbind(
+        z_tornado_count,
+        z_avg_intensity,
+        z_max_intensity,
+        z_strong_count,
+        z_property_loss
+      ),
+      na.rm = TRUE
+    )
+  )
+
+county_year_hazard
+```
+#binary classification
+```{r}
+hazard_cutoff <- quantile(county_year_hazard$composite_hazard_score, probs = 0.75, na.rm = TRUE)
+
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    high_tornado_hazard = ifelse(composite_hazard_score >= hazard_cutoff, 1, 0)
+  )
+
+```
+
+#shift forward one year 
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  arrange(county_fips, yr) %>%
+  group_by(county_fips) %>%
+  mutate(
+    high_tornado_hazard_next_year = lead(high_tornado_hazard)
+  ) %>%
+  ungroup()
+```
+
+```{r}
+county_year_hazard <- county_year_hazard %>%
+  mutate(
+    high_tornado_hazard = as.integer(high_tornado_hazard),
+    high_tornado_hazard_next_year = as.integer(high_tornado_hazard_next_year)
+  )
+```
+
+```{r}
+table(county_year_hazard$high_tornado_hazard)
+table(county_year_hazard$high_tornado_hazard_next_year)
+summary(county_year_hazard$composite_hazard_score)
+```
+
+#Cleaned dataset for GitHub
+
+```{r}
+county_year_hazard
+write.csv(county_year_hazard, "county_year_hazard_model_dataset.csv", row.names = FALSE)
+```
+
+```{r}
+summary(county_year_hazard)
+```
+```{r}
+#continuous variables 
+#library(tidyr)
+#library(e1071)
+
+
+continuous_vars <- county_year_hazard %>%
+  select(
+    population_estimate,
+    housing_unit_estimate,
+    medvalue_estimate,
+    tornado_count_county_year,
+    average_intensity_county,
+    max_intensity_county,
+    total_property_loss_year,
+    average_property_loss,
+    strong_tornado_count,
+    property_loss_per_tornado,
+    tornadoes_per_100k_population,
+    tornadoes_per_10k_housing_units
+  )
+
+continuous_summary_table <- data.frame(
+  Variable = names(continuous_vars),
+  Mean = sapply(continuous_vars, mean, na.rm = TRUE),
+  Median = sapply(continuous_vars, median, na.rm = TRUE),
+  Standard_Deviation = sapply(continuous_vars, sd, na.rm = TRUE),
+  Min = sapply(continuous_vars, min, na.rm = TRUE),
+  Max = sapply(continuous_vars, max, na.rm = TRUE),
+  Skewness = sapply(continuous_vars, skewness, na.rm = TRUE)
+)
+
+continuous_summary_table
+```
+
+```{r}
+#categorical variables 
+
+categorical_summary <- county_year_hazard %>%
+  select(region_category, high_tornado_hazard, high_tornado_hazard_next_year) %>%
+  mutate(across(everything(), as.character)) %>%
+  pivot_longer(cols = everything(), names_to = "Variable", values_to = "Category") %>%
+  group_by(Variable, Category) %>%
+  summarise(
+    Count = n(),
+    .groups = "drop"
+  ) %>%
+  group_by(Variable) %>%
+  mutate(
+    Percent = round(Count / sum(Count) * 100, 2)
+  ) %>%
+  arrange(Variable, Category)
+
+categorical_summary
+
+
+```
+
+#Bivariate plot - tornado count by year 
+
+```{r}
+ggplot(tornadoes_by_year, aes(x = yr, y = tornado_count)) +
+  geom_line(color = "steelblue", linewidth = 1) +
+  geom_smooth(se = FALSE, color = "darkorange", linewidth = 1.2) +
+  labs(
+    title = "Total Tornado Count by Year (1979–2024)",
+    x = "Year",
+    y = "Total Tornado Count",
+    caption = "Figure 1 Annual tornado counts in the United States aggregated by year"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+    legend.position = "top",
+    plot.caption = element_text(hjust = 0.5),
+    axis.title.x = element_text(size = 13, face = "bold"),
+    axis.title.y = element_text(size = 13, face = "bold")
+  )
+
+  
+```
+#tornado by region
+```{r}
+
+region_year_counts <- county_year_hazard %>%
+  filter(region_category %in% c("T", "D")) %>%
+  group_by(yr, region_category) %>%
+  summarise(
+    tornado_count = sum(tornado_count_county_year, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    region_category = recode(region_category,
+      "T" = "Tornado Alley",
+      "D" = "Dixie Alley"
+    )
+  )
+
+ggplot(region_year_counts, aes(x = yr, y = tornado_count, color = region_category)) +
+  geom_line(linewidth = 0.5) +
+  geom_smooth(se = FALSE, linewidth = 0.5, linetype = "dashed") +
+  scale_color_manual(values = c("Tornado Alley" = "steelblue", "Dixie Alley" = "darkorange")) +
+  labs(
+    title = "Total Tornado Count by Year in Tornado Alley vs. Dixie Alley (1979–2024)",
+    x = "Year",
+    y = "Total Tornado Count",
+    color = "Region",
+    caption = "Figure 2 Annual tornado counts by year in Tornado Alley & Dixie Alley"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    plot.caption = element_text(hjust = 0.5),
+    axis.title.x = element_text(size = 13, face = "bold"),
+    axis.title.y = element_text(size = 13, face = "bold"),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+    axis.text.y = element_text(size = 12),
+    legend.position = "top",
+    legend.justification = "center",
+    legend.box.just = "center",
+    legend.title = element_text(face = "bold"),
+    legend.text = element_text(size = 11)
+  )
+  
+```
+
+#Box Plot - tornadoes per 100,000 population also by region 
+
+```{r}
+ggplot(
+  county_year_hazard %>% 
+    filter(region_category %in% c("T", "D")),
+  aes(
+    x = region_category,
+    y = tornadoes_per_100k_population,
+    fill = region_category,
+    color = region_category
+  )
+) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.5) +
+  geom_jitter(width = 0.2, alpha = 0.2, size = 1) +
+  scale_fill_manual(values = c("T" = "darkblue", "D" = "darkorange")) +
+  scale_color_manual(values = c("T" = "darkblue", "D" = "darkorange")) +
+  scale_x_discrete(labels = c("T" = "Tornado Alley", "D" = "Dixie Alley")) +
+  labs(
+    title = "Tornadoes per 100,000 Population by Region (Tornado Alley & Dixie Alley)",
+    x = "Region",
+    y = "Tornadoes per 100,000 Population",
+    caption = "Figure 3 Distribution of tornadoes per 100,000 population by region across county-year observations"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    plot.caption = element_text(hjust = 0.5),
+    axis.title.x = element_text(size = 11, face = "bold"),
+    axis.title.y = element_text(size = 11, face = "bold"),
+    axis.text.x = element_text(size = 12, face = "bold"),
+    axis.text.y = element_text(size = 12),
+    legend.position = "none"
+  )
+```
+
+#Box Plot - tornadoes per 10,000 housing units by region 
+
+```{r}
+ggplot(
+  county_year_hazard %>% 
+    filter(region_category %in% c("T", "D")),
+  aes(
+    x = region_category,
+    y = tornadoes_per_10k_housing_units,
+    fill = region_category,
+    color = region_category
+  )
+) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.5) +
+  geom_jitter(width = 0.2, alpha = 0.2, size = 1) +
+  scale_fill_manual(values = c("T" = "darkblue", "D" = "darkorange")) +
+  scale_color_manual(values = c("T" = "darkblue", "D" = "darkorange")) +
+  scale_x_discrete(labels = c("T" = "Tornado Alley", "D" = "Dixie Alley")) +
+  labs(
+    title = "Tornadoes per 10,000 Housing Units by Region",
+    x = "Region",
+    y = "Tornadoes per 10,000 Housing Units",
+    caption = "Figure 4 Distribution of tornades per 10,000 housing units by region across county-year obsevations"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    plot.caption = element_text(hjust = 0.5),
+    axis.title.x = element_text(size = 11, face = "bold"),
+    axis.title.y = element_text(size = 11, face = "bold"),
+    axis.text.x = element_text(size = 12, face = "bold"),
+    axis.text.y = element_text(size = 12),
+    legend.position = "none"
+  )
+```
+
+#Strong Tornado Count by Region 
+
+```{r}
+strong_by_year <- county_year_hazard %>%
+  filter(region_category %in% c("T", "D")) %>%
+  group_by(yr, region_category) %>%
+  summarise(
+    total_strong_tornadoes = sum(strong_tornado_count, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    region_category = recode(region_category,
+      "T" = "Tornado Alley",
+      "D" = "Dixie Alley"
+    )
+  )
+
+ggplot(strong_by_year, aes(x = yr, y = total_strong_tornadoes, color = region_category)) +
+  geom_line(linewidth = 0.5) +
+  geom_smooth(se = FALSE, linewidth = 0.8, linetype = "dashed") +
+  scale_color_manual(values = c("Tornado Alley" = "steelblue", "Dixie Alley" = "darkorange")) +
+  labs(
+    title = "Strong Tornado Count by Year in Tornado Alley vs. Dixie Alley (1979–2024)",
+    x = "Year",
+    y = "Total Strong Tornado Count (F/EF Scale 3+)",
+    color = "Region",
+    caption = "Figure 5 Annual strong tornado counts by region, Tornado Alley and Dixie Alley, (1979–2024)"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    plot.caption = element_text(hjust = 0.5),
+    axis.title.x = element_text(size = 13, face = "bold"),
+    axis.title.y = element_text(size = 13, face = "bold"),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+    axis.text.y = element_text(size = 12),
+    legend.position = "top",
+    legend.title = element_text(face = "bold"),
+    legend.text = element_text(size = 11)
+  )
+```
+
+# Correlation matrix of continuous numeric variables included in the analysis
+
+```{r}
+#library(dplyr)
+#library(ggplot2)
+#library(reshape2)
+
+correlation_data <- county_year_hazard %>%
+  select(
+    population_estimate,
+    housing_unit_estimate,
+    medvalue_estimate,
+    tornado_count_county_year,
+    average_intensity_county,
+    max_intensity_county,
+    total_property_loss_year,
+    average_property_loss,
+    strong_tornado_count,
+    property_loss_per_tornado,
+    tornadoes_per_100k_population,
+    tornadoes_per_10k_housing_units
+  )
+
+correlation_matrix <- cor(correlation_data, use = "complete.obs")
+
+correlation_melt <- melt(correlation_matrix)
+
+ggplot(correlation_melt, aes(x = Var1, y = Var2, fill = value)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient2(
+    low = "darkorange",
+    mid = "white",
+    high = "steelblue",
+    midpoint = 0,
+    limits = c(-1, 1)
+  ) +
+  labs(
+    title = "Correlation Heatmap of Continuous Numeric Variables",
+    x = NULL,
+    y = NULL,
+    fill = "Correlation",
+    caption = "Figure 6 A correlation matrix of continuous numeric variables included in the analysis"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.3, face = "bold"),
+    plot.caption = element_text(hjust = 0.5),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 9, face = "bold"),
+    axis.text.y = element_text(size = 9, face = "bold")
+  )
+```
