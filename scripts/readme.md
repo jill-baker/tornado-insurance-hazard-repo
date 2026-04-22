@@ -17,3 +17,6 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 ## Target Variable
 - Utilized a composite hazard score. This used Z-scores for target variable's hazard variables to allow standardization then create a composite hazard score with an average of all standardized variables: tornado_count_county_year, average_intensity_county, max_intensity_county, strong_tornado_count, log_property_loss 
 - Defining the hazard cutoff for binary classification: This was originally set at 75%, however, it was adjusted to 65% to allow for better performance (aka the top 35% of county-years will be classified as high-risk). Binary classification of 1 = high-risk and 0 = not high-risk.
+
+## Testing, Validation & Reproducibility
+This code has been self-tested to ensure successful reproducibility. Code was executed using RStudio using all packages and libraries listed above. It has not been user-tested on a separate machine due to lack of availability, however, all necessary compenents are documented for assistance with reproducibility. 
