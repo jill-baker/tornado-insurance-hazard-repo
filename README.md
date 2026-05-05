@@ -49,9 +49,8 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 ## How to Run
 - Clone repo
 - Open R project
-
-
-
+- Ensure all required packages are installed (see above)
+- Run script under /scripts
 
 ## Target Variable
 - A binary classification predicting high tornado hazard next year-
@@ -73,7 +72,7 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 - XGBoost (final selected model)
 
 ## Evaluation Metrics
-- Recall: Primary method of priotitization to identify high-risk counties
+- Recall: Primary method of prioritization to identify high-risk counties
 - PR-AUC
 
 ## Validation
@@ -93,7 +92,7 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
   Strong balance between false positives and false negatives
 - Support geographic shift in tornado hazard from Tornado Alley towards Dixie Alley
 - Dixie Alley
-  Lower average population and median house value
+  Lower average population and median home value
   Meaningful insurance exposure with higher proportion of top 25% median home value
 
 ## Limitations
