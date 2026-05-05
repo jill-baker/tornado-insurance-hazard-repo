@@ -79,8 +79,11 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 - PR-AUC
 
 ## Custom Function
-- Created for consistent classification threshold across models:
+- get_predictions()
+   Created for consistent classification threshold across models:
    Used a 0.3 threshold lowered from the default 0.5 to prioritize recall, ensuring that fewer high-      risk counties are missed.
+- prSummary()
+   Created to allow precision-recall AUC (PR-AUC) evaluation within caret, which does include this as     a tuning metric and this was required for my analysis.
 
 ## Validation
 - Time-based train/test split
