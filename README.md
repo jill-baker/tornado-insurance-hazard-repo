@@ -1,7 +1,7 @@
 # tornado-insurance-hazard-repo
 ## Shifting Tornado Hazard in the United States and Emerging Insurance Exposure
 
-# Team Gamme
+# Team Gamma
 This project was completed independently.
 
 ## Brief Background
@@ -77,6 +77,10 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 ## Evaluation Metrics
 - Recall: Primary method of prioritization to identify high-risk counties
 - PR-AUC
+
+## Custom Function
+- Created for consistent classification threshold across models:
+   Used a 0.3 threshold lowered from the default 0.5 to prioritize recall, ensuring that fewer high-      risk counties are missed.
 
 ## Validation
 - Time-based train/test split
