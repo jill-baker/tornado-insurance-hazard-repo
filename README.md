@@ -46,7 +46,7 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 - library(xgboost)
 
 ## Project Structure
-- /scripts
+- /scripts > RCapstone_Tornado_Hazard_Final_Deliverable.Rmd
   Includes full pipeline
 
 ## How to Run
