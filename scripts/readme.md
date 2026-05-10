@@ -1,3 +1,12 @@
+# tornado-insurance-hazard-repo
+## Shifting Tornado Hazard in the United States and Emerging Insurance Exposure
+
+# Team Gamma
+This project was completed independently.
+
+## Brief Background
+There are two major regions in the United States that are commonly associated with elevated tornado activity: the Southeast's region of "Dixie Alley", which includes Arkansas, Louisiana, Mississippi, Alabama, Tennessee and Georgia, and the Great Plains region of "Tornado Alley", which includes Texas, Oklahoma, Kansas and Nebraska. Recent research suggests that tornado activity may be shifting geographically and increasing in frequency in Dixie Alley while decreasing in frequency in Tornado Alley (Gensini and Brooks, 2018). 
+
 ## Project Overview
 This project examines whether tornado hazard in the United States is shifting from the traditional Great Plains Tornado Alley toward the Southeast's Dixie Alley region over time, and whether counties predicted to exhibit elevated tornado hazard in the following year also have greater present-day insurance exposure based on population, housing units and median home value. 
 The hypothesis is that tornado hazard is shifting from the Tornado Alley region toward Dixie Alley due to increasing tornado frequency and severity in the Southeast over time. It is predicted that counties located in Dixie Alley will be more likely classified as high tornado hazard in the following year compared to Tornado Alley and will exhibit a higher present-day insurance exposure.
@@ -43,9 +52,15 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 ## How to Run
 - Clone repo
 - Open R project
-
-
-
+- Ensure all required packages are installed (see above)
+- Read in CSVs under /raw-data-sets
+  1. 1950-2024_all_tornadoes.csv is the raw dataset for all tornado records. Read in as nsw_tornado_data
+  2. acs_county_population_2024.csv is the raw dataset for population estimates from ACS. Read in as population
+  3. acs_county_median_value_2024.csv is the raw dataset for median home value estimates from ACS. Read in as median_value
+  4. acs_county_housing_units_2024.csv is the raw dataset for median home value estimates from ACS. Read in as housing_units
+  5. Initial cleaning conducted to allow merging into one final raw dataest: final_raw_dataset.csv
+- Run script under /scripts which includes the full pipeline 
+- Final cleaned dataset located under /cleaned-data-sets: adjusted_county_year_hazard_model_dataset3
 
 ## Target Variable
 - A binary classification predicting high tornado hazard next year-
@@ -67,8 +82,15 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 - XGBoost (final selected model)
 
 ## Evaluation Metrics
-- Recall: Primary method of priotitization to identify high-risk counties
+- Recall: Primary method of prioritization to identify high-risk counties
 - PR-AUC
+
+## Custom Function
+- get_predictions()
+   Created for consistent classification threshold across models:
+   Used a 0.3 threshold lowered from the default 0.5 to prioritize recall, ensuring that fewer high-risk counties are missed.
+- prSummary()
+   Created to allow precision-recall AUC (PR-AUC) evaluation within caret, which does include this as a tuning metric and this was required for my analysis.
 
 ## Validation
 - Time-based train/test split
@@ -87,7 +109,7 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
   Strong balance between false positives and false negatives
 - Support geographic shift in tornado hazard from Tornado Alley towards Dixie Alley
 - Dixie Alley
-  Lower average population and median house value
+  Lower average population and median home value
   Meaningful insurance exposure with higher proportion of top 25% median home value
 
 ## Limitations
