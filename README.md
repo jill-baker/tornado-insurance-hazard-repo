@@ -53,7 +53,14 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 - Clone repo
 - Open R project
 - Ensure all required packages are installed (see above)
-- Run script under /scripts
+- Read in CSVs under /raw-data-sets
+  1. 1950-2024_all_tornadoes.csv is the raw dataset for all tornado records. Read in as nsw_tornado_data
+  2. acs_county_population_2024.csv is the raw dataset for population estimates from ACS. Read in as population
+  3. acs_county_median_value_2024.csv is the raw dataset for median home value estimates from ACS. Read in as median_value
+  4. acs_county_housing_units_2024.csv is the raw dataset for median home value estimates from ACS. Read in as housing_units
+  5. Initial cleaning conducted to allow merging into one final raw dataest: final_raw_dataset.csv
+- Run script under /scripts which includes the full pipeline 
+- Final cleaned dataset located under /cleaned-data-sets: adjusted_county_year_hazard_model_dataset3
 
 ## Target Variable
 - A binary classification predicting high tornado hazard next year-
@@ -81,9 +88,9 @@ The hypothesis is that tornado hazard is shifting from the Tornado Alley region 
 ## Custom Function
 - get_predictions()
    Created for consistent classification threshold across models:
-   Used a 0.3 threshold lowered from the default 0.5 to prioritize recall, ensuring that fewer high-      risk counties are missed.
+   Used a 0.3 threshold lowered from the default 0.5 to prioritize recall, ensuring that fewer high-risk counties are missed.
 - prSummary()
-   Created to allow precision-recall AUC (PR-AUC) evaluation within caret, which does include this as     a tuning metric and this was required for my analysis.
+   Created to allow precision-recall AUC (PR-AUC) evaluation within caret, which does include this as a tuning metric and this was required for my analysis.
 
 ## Validation
 - Time-based train/test split
